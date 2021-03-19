@@ -235,3 +235,9 @@ webdev:
       pages:
         - title: Intro to JavaScript
           url: /webdev/javascript/intro/intro.html
+    9:
+      title: "JavaScript Libraries"
+      home: /webdev/javascript/frameworks/jquery.html
+      pages:
+        - title: Frameworks, Libraries, and jQuery
+          url: /webdev/javascript/frameworks/jquery.html
