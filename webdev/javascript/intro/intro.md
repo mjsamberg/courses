@@ -41,4 +41,4 @@ JavaScript is very similar to other programming languages. If you're familiar wi
 * Go to [Free Code Camp's JavaScript Tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 * Create an Account
 * Complete the Introduction to JavaScript Course - **You only need to do the basic JavaScript (111 Lessons)**
-* Upload your certificate to WolfWare
+* Upload a PDF of the assignment list with the checkmarks. 
