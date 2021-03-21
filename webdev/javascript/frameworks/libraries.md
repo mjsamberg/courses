@@ -46,7 +46,7 @@ It's included using:
 	  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 	</script>
 	
-## ChartJS
+## [ChartJS](https://www.chartjs.org)
 ChartJS is a really neat library that allows you to make charts from JavaScript objects. 
 
 It's included with 
