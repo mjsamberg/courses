@@ -4,7 +4,7 @@ title: "JavaScript Libraries and JQuery"
 course: "webdev"
 unit: 9
 ---
-In the last unit, we reviewed JavaScript. JavaScript is an incredibly powerful language with a lot of capability and function. To make JavaScript easier to work with, _libraries_ are used. A library is a pre-made set of commands that can be included in your JavaScript. These are typically shortcuts where others have written functions for you that you can include in your JavaScript. Contrast this with _frameworks_ which tend to have more "opinions" - there are helper functions in the JavaScript, but also concrete methods for how they need to be implemented. Bootstrap is an example of a framework - Bootstrap has helper classes, but also very specific opinions about how they should be implemented. 
+In the last unit, we reviewed JavaScript. JavaScript is an incredibly powerful language with a lot of capability and function. To make JavaScript easier to work with, _libraries_ are used. A library is a pre-made set of commands that can be included in your JavaScript. These are typically shortcuts where others have written functions for you that you can include in your JavaScript. Contrast this with _frameworks_ which tend to have more "opinions" - there are helper functions in the JavaScript, but also concrete methods for how they need to be implemented. Bootstrap is an example of a framework - Bootstrap has helper classes, but also very specific opinions about how they should be implemented. JavaScript libraries **augment** JavaScript, meaning that they utilize JavaScript to add additional features that are easy to use. Everything a library does can be done manually by writing the JavaScript by hand, but the libraries just save time (jQuery, for example, is tens of thousands of lines of code that don't have to be manually written).  
 
 ## Adding JavaScript to HTML
 Before we begin discussing writing JavaScript, we have to actually talk about file structure. Like CSS, JavaScript can be written inline, or it can be placed in a separate file. For example, you can include JavaScript in a ```<script>``` tag as follows:
@@ -15,7 +15,7 @@ Before we begin discussing writing JavaScript, we have to actually talk about fi
 
 Alternatively, you can create a new file that just contains your JavaScript code. For example, if I have a folder called ```js``` and a file inside of it called ```scripts.js```, I could link it from my HTML using the code 
 
-	<script language="JavaScript" src="js/scripts.js"/>
+	<script language="JavaScript" src="js/scripts.js"></script>
 
 And in my ```js/scripts.js``` file, I would have all of my JavaScript code, i.e.
 
@@ -50,11 +50,20 @@ where ```selector``` is your CSS selector and ```text``` is the event or action 
 
 where ```selector``` is your CSS selector and ```action``` is the action you want to perform. Some actions may take mandatory or optional arguments, but the [documentation provides examples](https://api.jquery.com) for each use.
 
-Take a look at the example below. There are several interactive elements. The button on the page toggles the visibility on the form. The name field changes the header when you type something in and leave the field. The number field is validated when you toggle out of the field and uses Bootstrap classes to provide feedback. The Header Color field toggles Bootstrap classes for the header. The ```aria-live``` attribute is used to [define a region where the text may change](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions). Note that when we take these actions, it's referred to as **DOM Manipulation**. JavaScript changes the DOM on the page, or in layman's terms - it's rewriting parts of the page in real time.
+Take a look at the example below. There are several interactive elements. The button on the page toggles the visibility on the form. The name field changes the header when you type something in and leave the field. The number field is validated when you toggle out of the field and uses Bootstrap classes to provide feedback. The Header Color field toggles Bootstrap classes for the header. The ```aria-live``` attribute is used to [define a region where the text may change](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions). Note that when we take these actions, it's referred to as **DOM Manipulation**. JavaScript changes the DOM on the page, or in layman's terms - it rewrites parts of the page in real time.
 
 <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js" data-user="mjsamberg" data-slug-hash="mdOZBpa" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Unit 9 - JQuery">
   <span>See the Pen <a href="https://codepen.io/mjsamberg/pen/mdOZBpa">
   Unit 9 - JQuery</a> by Mark Samberg (<a href="https://codepen.io/mjsamberg">@mjsamberg</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+
+Here is another example, using jQuery and JavaScript to build a simple calculator:
+
+<p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="result" data-user="mjsamberg" data-slug-hash="eYgOOpO" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Unit 9 - Calculator">
+  <span>See the Pen <a href="https://codepen.io/mjsamberg/pen/eYgOOpO">
+  Unit 9 - Calculator</a> by Mark Samberg (<a href="https://codepen.io/mjsamberg">@mjsamberg</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
