@@ -66,4 +66,3 @@ Here is another example, using jQuery and JavaScript to build a simple calculato
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-

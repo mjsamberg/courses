@@ -241,3 +241,5 @@ webdev:
       pages:
         - title: Frameworks, Libraries, and jQuery
           url: /webdev/javascript/frameworks/jquery.html
+        - title: Library Examples
+          url: /webdev/javascript/frameworks/libraries.html
