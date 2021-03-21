@@ -23,6 +23,6 @@ RevealJS is a bit different because it doesn't use Bootstrap or anything else, i
 
 RevealJS allows you to use HTML to create embeddable slideshows. For example:
 
-<iframe class="embed-responsive-item" src="http://mjsamberg.github.io/resourceguides/accessibility/presentation.html"  width="600" height="600"></iframe>
+<iframe class="embed-responsive-item" src="https://mjsamberg.github.io/resourceguides/accessibility/presentation.html"  width="600" height="600"></iframe>
 
 The source code for this is located at [https://github.com/mjsamberg/resourceguides/tree/master/accessibility](https://github.com/mjsamberg/resourceguides/tree/master/accessibility).
