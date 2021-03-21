@@ -23,6 +23,11 @@ And in my ```js/scripts.js``` file, I would have all of my JavaScript code, i.e.
 
 Scripts are always placed at the bottom of an HTML file before the ```</body>``` tag. 
 
+## HTML Forms
+Much of the interactivity on webpages comes from HTML forms. Forms have a few [input types](https://www.w3schools.com/html/html_form_input_types.asp), mainly types of text, radio buttons and select dropdown boxes (_select one_) and checkboxes (_select many_). [Bootstrap has a lot of form styling](https://getbootstrap.com/docs/4.1/components/forms/) built in. Note that by default the ```<button>``` command will submit the form (more on that next week in APIs). If you want the button to be attached to JavaScript instead, use the ```type="button"``` attribute, adding classes as needed. Example:
+
+	<button type="button" class="btn btn-large btn-primary">Large Button</button> 
+
 ## jQuery
 The most common JavaScript library is called [jQuery](https://api.jquery.com). While jQuery is an older tool and everything can be done solely with JavaScript commands, JQuery gives us useful shortcuts to make a lot of DOM manipulation tasks easier. jQuery allows you to edit text and attributes, hide and show objects, and more with very simple commands. 
 
