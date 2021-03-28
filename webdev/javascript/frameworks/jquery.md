@@ -31,6 +31,17 @@ Much of the interactivity on webpages comes from HTML forms. Forms have a few [i
 ## jQuery
 The most common JavaScript library is called [jQuery](https://api.jquery.com). While jQuery is an older tool and everything can be done solely with JavaScript commands, JQuery gives us useful shortcuts to make a lot of DOM manipulation tasks easier. jQuery allows you to edit text and attributes, hide and show objects, and more with very simple commands. 
 
+For example, if I wanted to hide all elements with the class ```.hideme``` using regular JavaScript, I'd have to write the following code:
+
+	var elements = document.getElementsByClassName('hideme');
+	for (var i = 0; i < elements.length; i++){
+		elements[i].style.display = 'none';
+	}
+
+whereas in jQuery, the only code I'd need is this:
+
+	$(".hideme").hide();
+
 Like Bootstrap, most JavaScript libraries are loaded from a _Content Distribution Network (CDN)_, which is a fast server on the Internet that serves up content for people to consume. jQuery is loaded in most Bootstrap install templates (search your pages to ensure it's already loaded). If you don't already have it, it's added by including the script from CDN:
 
 	<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
