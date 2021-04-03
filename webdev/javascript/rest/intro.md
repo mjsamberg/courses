@@ -23,7 +23,7 @@ Both ```$.done()``` and ```$.fail()``` take a parameter, which in this case I am
 
 In ```$.fail()```, I am populating the error message. This API provides a good error message, so I'm just passing it through verbatim.
 
- <p class="codepen" data-height="600" data-theme-id="light" data-default-tab="result" data-user="mjsamberg" data-slug-hash="zYNwOmg" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Unit 10 - jQuery Basic REST Dictionary Example">
+ <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="result" data-user="mjsamberg" data-slug-hash="zYNwOmg" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Unit 10 - jQuery Basic REST Dictionary Example">
    <span>See the Pen <a href="https://codepen.io/mjsamberg/pen/zYNwOmg">
    Unit 10 - jQuery Basic REST Dictionary Example</a> by Mark Samberg (<a href="https://codepen.io/mjsamberg">@mjsamberg</a>)
    on <a href="https://codepen.io">CodePen</a>.</span>
