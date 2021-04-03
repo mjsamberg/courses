@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HTTP and REST"
+title: "HTTP and RESTful APIs, Defined"
 course: "webdev"
 unit: 9
 ---
@@ -20,7 +20,9 @@ However, over time, websites became dynamic. All rendering of HTML, CSS, and Jav
 ## APIs and REST
 So you may be asking yourself at this point why we're learning about how the web works. The answer is that JavaScript and websites use HTTP as a tool to send data objects back and forth. You may recall from the last unit and other times where I've said that JavaScript rewrites the DOM in real-time. However, sometimes it needs to get data from websites in order to do that. For example, consider a website where you type in a zip code to get a weather forecast. In order for the JavaScript to be able to rewrite your page, it needs to get the weather data from an authoritative source.
 
-In the last unit, we talked briefly about _Application Programmer Interfaces_ (or APIs). Last unit, we looked at tools like Desmos and Reveal.js where the API gave us a set of client-side tools that we could use. This week we will look at _RESTful APIs_. _REST_ stands for _Representational State Transfer_ which means that it uses HTTP statuses, headers, and message bodies to transfer data to and from server applications. When sending a RESTful request, the request type is used to identify what the server application is supposed to do with the request. All web requests when you go to a website typically will use a request type of ```GET``` which literally means "get this page". RESTful APIs use this and a few others:
+In the last unit, we talked briefly about _Application Programmer Interfaces_ (or APIs). Last unit, we looked at tools like Desmos and Reveal.js where the API gave us a set of client-side tools that we could use. This week we will look at _RESTful APIs_. _REST_ stands for _Representational State Transfer_ which means that it uses HTTP statuses, headers, and message bodies to transfer data to and from server applications. In the olden days, getting data from other websites involved special protocols or proprietary formats. RESTful APIs use the tools built-in to the HTTP protocol for transferring data.
+
+When sending a RESTful request, the request type is used to identify what the server application is supposed to do with the request. Up above, we talked about the HTTP request type. The request type tells the receiving server how to interpret the data that it's receiving and what to send the client as a response. All web requests when you go to a website typically will use a request type of ```GET``` which literally means "get this page". But there are other types that tell the server to process the request differently. RESTful APIs use a few of them:
 * ```GET```: Get data from an API
 * ```POST```: Tell the API to add new data
 * ```PUT```: Tell the API to replace data with this new data
@@ -31,4 +33,46 @@ The request header may include an _API Key_. RESTful APIs use keys for two prima
 
 In a RESTFul web API, the body of the request is a JavaScript object. 
 
-The HTTP response uses HTTP similarly. HTTP status codes are used to indicate if any errors occurred. The response body will contain a JavaScript object with the data requested (and typically some metadata as well such as the number of records returned). On the next page we will put this process together completely and build a working API call.
+The HTTP response uses HTTP similarly. HTTP status codes are used to indicate if any errors occurred (like any page, it will return a ```200``` series response if everything is good or a ```400``` or ```500``` error if something is wrong). The response body will contain a JavaScript object with the data requested (and typically some metadata as well such as the number of records returned). On the next page we will put this process together completely and build a working API call.
+
+## JSON
+I've mentioned JSON a few times. JSON, short for JavaScript Object Notation, is a way to take JavaScript objects and arrays and convert them into a text format that can be transmitted via HTTP or stored in a file. [JSON uses curly braces for objects and brackets for arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) and can store complex data structures as a text block. A simple object would be something like this:
+
+	{ 'name': 'Mark Samberg' }
+
+You could store this in a variable, i.e.
+
+	var person = { 'name': 'Mark Samberg', 'institution': 'North Carolina State University'}
+
+In your JavaScript, you could reference variables ```person.name``` and ```person.institution``` to get at this data like any object. 
+
+A more structured example may look like this:
+
+	var person = {
+	  "firstName": "Jonathan",
+	  "lastName": "Freeman",
+	  "loginCount": 4,
+	  "isWriter": true,
+	  "worksWith": ["Spantree Technology Group", "InfoWorld"],
+	  "pets": [
+		{
+		  "name": "Lilly",
+		  "type": "Raccoon"
+		},
+		{
+		  "name": "Spot",
+		  "type": "Cat"
+		}
+	  ]
+	}
+
+You'll see the item ```pets``` which is an array containing Jonathan's pets. Within each element of the pets array is an object containing a name and a type. therefore, the code:
+
+	for(var i = 0; i < person.pets.length; i++){
+		console.log(person.pets[i].name + " the " + person.pets[i].type);
+	}
+
+would output:
+
+	Lilly the Raccoon
+	Spot the Cat

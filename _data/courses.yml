@@ -247,3 +247,11 @@ webdev:
           url: /webdev/javascript/frameworks/apis.html
         - title: Assignment
           url: /webdev/javascript/frameworks/assignment.html
+    10:
+      title: "RESTful APIs, Part I (Overview and ```GET```)"
+      home: /webdev/javascript/rest/rest.html
+      pages:
+        - title: HTTP and RESTful APIs, Defined
+          url: /webdev/javascript/rest/rest.html
+        - title: Example 1: Retrieving Data from a RESTFul API
+          url: /webdev/javascript/rest/rest.html
