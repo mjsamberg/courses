@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Example 1: Retrieving Data from a RESTFul API"
+title: "Retrieving Data from a RESTFul API"
 course: "webdev"
 unit: 9
 ---

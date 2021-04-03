@@ -253,5 +253,5 @@ webdev:
       pages:
         - title: HTTP and RESTful APIs, Defined
           url: /webdev/javascript/rest/rest.html
-        - title: Example 1: Retrieving Data from a RESTFul API
+        - title: Retrieving Data from a RESTFul API
           url: /webdev/javascript/rest/rest.html
