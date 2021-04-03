@@ -2,7 +2,7 @@
 layout: page
 title: "Retrieving Data from a RESTFul API"
 course: "webdev"
-unit: 9
+unit: 10
 ---
 
 We will start off with a very basic example of a RESTful web API. The [Unofficial Google Dictionary API](https://dictionaryapi.dev) allows you to input a word, and get back the definition simply by including everything in the URL:
