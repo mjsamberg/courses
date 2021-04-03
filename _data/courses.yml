@@ -248,7 +248,7 @@ webdev:
         - title: Assignment
           url: /webdev/javascript/frameworks/assignment.html
     10:
-      title: "RESTful APIs, Part I (Overview and ```GET```)"
+      title: "RESTful APIs, Part I (Overview and GET)"
       home: /webdev/javascript/rest/rest.html
       pages:
         - title: HTTP and RESTful APIs, Defined
