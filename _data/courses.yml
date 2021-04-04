@@ -255,3 +255,7 @@ webdev:
           url: /webdev/javascript/rest/rest.html
         - title: Retrieving Data from a RESTFul API
           url: /webdev/javascript/rest/intro.html
+        - title: APIs with Parameters
+          url: /webdev/javascript/rest/parameters.html
+        - title: Assignment
+          url: /webdev/javascript/rest/assignment.html
