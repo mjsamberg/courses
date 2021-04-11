@@ -264,6 +264,6 @@ webdev:
       home: /webdev/javascript/rest/post.html
       pages:
         - title: POSTing to RESTful APIs
-          url: /webdev/javascript/rest/rest.html
+          url: /webdev/javascript/rest/post.html
         - title: Assignment
           url: /webdev/javascript/rest/assignment2.html
