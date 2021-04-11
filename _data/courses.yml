@@ -259,3 +259,11 @@ webdev:
           url: /webdev/javascript/rest/parameters.html
         - title: Assignment
           url: /webdev/javascript/rest/assignment.html
+    11:
+      title: "RESTful APIs, Part II (POST)"
+      home: /webdev/javascript/rest/post.html
+      pages:
+        - title: POSTing to RESTful APIs
+          url: /webdev/javascript/rest/rest.html
+        - title: Assignment
+          url: /webdev/javascript/rest/assignment2.html
