@@ -27,9 +27,9 @@ Some writeable requests in jQuery look just like ```GET``` requests. Any ```POST
 
 Instead of something like:
 
-	```$.post("http://url", dataObject)```
+	$.post("http://url", dataObject)
 
-	```$.ajax("http://url", {"type": "PUT", "data": dataObject});```
+	$.ajax("http://url", {"type": "PUT", "data": dataObject});
 
 Everything else works the same including the use of ```.done()``` and ```.fail()````. 
 
@@ -44,6 +44,7 @@ For the first example, we will use a tool called [JSONbin.io](https://www.jsonbi
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
+
 ### ClickSend
 ClickSend is an API that can send emails or SMS messages. In this example, we will send an SMS. For security reasons, I'm leaving the API out of the CodePen so people who stumble across the CodePen can't spam anyone. The API key is ```bWpzYW1iZXJAbmNzdS5lZHU6MjNFMUJEODItMDgwOS03RTkyLTAzNkYtOTQ3OEMzOUZGMDRD```. [ClickSend's documentation](https://developers.clicksend.com/docs/rest/v3/?java#send-sms) states that the request body must contain an array of messages, each element of the array containing an object with a ```source```, ```body```, and ```to``` defined. It also needs an authorization token in the header containing the API key.
 
@@ -53,6 +54,7 @@ ClickSend is an API that can send emails or SMS messages. In this example, we wi
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 
 
 ### IFTTT
