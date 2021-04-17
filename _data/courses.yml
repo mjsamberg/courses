@@ -267,3 +267,11 @@ webdev:
           url: /webdev/javascript/rest/post.html
         - title: Assignment
           url: /webdev/javascript/rest/assignment2.html
+    11:
+      title: "Refactoring and Critical Friends"
+      home: /webdev/design/refactor/refactor.html
+      pages:
+        - title: Refactoring
+          url: /webdev/design/refactor/refactor.html
+        - title: Assignment
+          url: /webdev/design/refactor/assignment.html
