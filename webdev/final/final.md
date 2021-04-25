@@ -69,7 +69,7 @@ As some of the assignments have changed over the course of the semester, the gra
 <td>F</td>
 </tr>
 </tbody>
-<table>
+</table>
 
 ### Enhanced Satisfactory/Unsatisfactory Grading for COVID-19
 Students wishing to earn a grade of **S** using NC State's [Enhanced Satisfactory/Unsatisfactory Grading Option](https://studentservices.ncsu.edu/your-resources/covid-19/spring2020-sat-grading/) emerging as a result of the COVID-19 pandemic must earn a grade of **14 or better** in order to receive the **S** grade. 
