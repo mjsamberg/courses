@@ -277,6 +277,7 @@ webdev:
           url: /webdev/design/refactor/assignment.html
     13:
       title: "Next Steps and Final Projects"
+      home: /webdev/final/forms.html
       pages:
         - title: Forms and Form Validation
           url: /webdev/final/forms.html
