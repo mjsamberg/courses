@@ -275,3 +275,14 @@ webdev:
           url: /webdev/design/refactor/refactor.html
         - title: Assignment
           url: /webdev/design/refactor/assignment.html
+    13:
+      title: "Next Steps and Final Projects"
+      pages:
+        - title: Forms and Form Validation
+          url: /webdev/final/forms.html
+        - title: Google Apps Script and Next Steps
+          url: /webdev/final/next.html
+        - title: Moving Your Site
+          url: /webdev/final/moving.html
+        - title: Final Project and Grading
+          url: /webdev/final/final.html
