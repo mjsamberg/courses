@@ -2,7 +2,7 @@
 layout: page
 title: "Refactoring"
 course: "webdev"
-unit: 11
+unit: 12
 ---
 
 In computer science, the term _refactoring_ means to clean up code and reduce redundancy without impacting the functionality or appearance of an application. In web development, this typically means doing a few things:
