@@ -1,0 +1,43 @@
+# Config file for Git-Courseware
+
+# Build settings - Do not change these settings
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+
+remote_theme: mjsamberg/git-courseware
+# Site information. Change the information after the first semicolon (:) and before the pound sign (#)
+title: Courses
+style: ncstate # Site theme - Current values are "ncstate" and "generic"
+nav_showcourses: 1 # Set to 0 to show a "Courses" menu with a link to each course. Set to 1 to show each course in the navbar with a link to the units as a dropdown
+
+#College/Org Information
+org_name: College of Education # Name of the organization. For the ncstate theme, this should be the college
+org_url: https://ced.ncsu.edu # URL of the organization
+unit_name_long: "Department of Teacher Education and Learning Sciences" # Name of the department or unit within the organization
+unit_url: https://ced.ncsu.edu/tels # URL of the departmental unit
+address: "1890 Main Campus Drive<br/>Raleigh, NC 27606" # Physical Address
+phone: "919.513.8551" # Change to your phone number
+email: "mjsamber@ncsu.edu" # Change to your email address 
+
+github_url: https://github.com/mjsamberg/courses #URL of the GitHub Repository for people to fork
+#Social media links
+facebook_username: mjsamberg
+twitter_username: mjsamberg
+github_username:  mjsamberg
+
+
+
+# A list of the pages to display in the navigation bar and in the footer. Use "absolute: true" for external links
+header_pages:
+  - title: "Wolfware"
+    url: "https://wolfware.ncsu.edu"
+    absolute: true
+  - title: "Home"
+    url: "/"
+
+footer_pages: 
+  - title: Home
+    url: /

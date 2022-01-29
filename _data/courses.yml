@@ -1,0 +1,288 @@
+dlprograms:
+  title: "Digital Learning Program Development"
+  shorttitle: "DL Program Dev"
+  homepage: "index"
+  units:
+    1:
+      title: "Introduction"
+      home: intro/1_intro
+      pages:
+        - title: Introduction
+          url: intro/1_intro
+        - title: A (Very Brief) History of Digital Learning
+          url: intro/2_history
+        - title: Digital Learning in North Carolina
+          url: intro/3_nc
+        - title: Digital Learning Staff Roles
+          url: intro/4_roles
+    2:
+      title: "Leadership of School Technology Programs"
+      home: leadership/1_intro 
+      pages:
+        - title: Introduction
+          url: leadership/1_intro
+        - title: Data Collection
+          url: leadership/2_datacollection
+        - title: Program Planning
+          url: leadership/3_planning
+        - title: Marketing and Communications
+          url: leadership/4_marketing
+        - title: Program Evaluation
+          url: leadership/5_evaluation
+        - title: Frameworks and Models
+          url: leadership/6_dlmodels
+        - title: Policies and Laws
+          url: leadership/7_policy
+        - title: Unit 2 Projects
+          url: leadership/projects
+    3:
+      title: "Digital Content and Materials"
+      home: content/1_intro
+      pages:
+          - title: Introduction
+            url: content/1_intro
+          - title: Universal Design for Learning
+            url: content/udl
+          - title: Accessibility
+            url: content/accessibility
+          - title: Executive Function and Self-Regulation
+            url: content/execfunction
+          - title: Evaluating Digital Resources
+            url: content/4_evaluation
+          - title: Copyright
+            url: content/5_copyright
+          - title: Creative Commons
+            url: content/6_creativecommons
+          - title: Open Educational Resources
+            url: content/7_oer
+          - title: Teacher-Created Materials
+            url: content/8_teachercreated
+          - title: Interoperability
+            url: content/9_interoperability
+          - title: Projects
+            url: content/10_projects
+    4:
+      title: "Technology Infrastructure and Devices"
+      home: devices/1_intro
+      pages:
+        - title: Introduction
+          url: devices/1_intro
+        - title: Selection of Computing Devices
+          url: devices/2_selection
+        - title: BYOD and Guess Access
+          url: devices/3_byod
+        - title: Networks
+          url: devices/4_networks
+        - title: Other Devices
+          url: devices/5_otherdevices
+        - title: Furniture and Physical Spaces
+          url: devices/6_furniture
+        - title: Makerspaces
+          url: devices/7_makerspaces
+        - title: Technical Support Models
+          url: devices/8_supportmodels
+        - title: Home Internet Accesss
+          url: devices/9_homeaccess
+        - title: Unit Projects
+          url: devices/10_projects
+    5:
+      title: "Professional Learning"
+      home: pl/1_intro
+      pages:
+        - title: Introduction
+          url: pl/1_intro
+        - title: Coaching
+          url: pl/2_coaching
+        - title: Self-Directed Learning
+          url: pl/3_selfdirected
+        - title: Badging and Micro-credentials
+          url: pl/4_badging
+        - title: Online Learning
+          url: pl/5_online
+        - title: Projects
+          url: pl/projects
+    6:
+      title: "Funding"
+      home: funding/1_intro
+      pages:
+        - title: Introduction
+          url: funding/1_intro
+        - title: Funding in NC
+          url: funding/2_nc
+        - title: Budgeting
+          url: funding/3_budgeting
+        - title: Procurement
+          url: funding/4_procurement
+        - title: Grants
+          url: funding/5_grants
+        - title: E-Rate
+          url: funding/6_erate
+        - title: Disposition
+          url: funding/7_disposition
+        - title: Projects
+          url: funding/8_projects
+    7:
+      title: "Security"
+      home: cybersecurity/1_intro
+      pages:
+        - title: Introduction
+          url: cybersecurity/1_intro
+        - title: Networks and Disaster Recovery Planning
+          url: cybersecurity/2_networks
+        - title: Physical Security
+          url: cybersecurity/3_physical
+        - title: User Education
+          url: cybersecurity/4_user
+        - title: Data Security
+          url: cybersecurity/5_data
+        - title: Public Records Laws
+          url: cybersecurity/6_publicrecords
+        - title: Projects
+          url: cybersecurity/projects
+webdev:
+  title: "Introduction to Website and Web App Development"
+  shorttitle: "Web/App Dev"
+  homepage: "index"
+  units:
+    1:
+      title: "Introduction"
+      home: introduction/intro
+      pages:
+        - title: Introduction
+          url: introduction/intro
+        - title: A (Very Abbreviated) History of the Web
+          url: introduction/history
+        - title: Tools
+          url: introduction/tools
+        - title: Assignment
+          url: introduction/assignment
+    2:
+      title: "HTML: The Basics"
+      home: html/week1/html 
+      pages:
+        - title: An Overview of HTML
+          url: html/week1/html
+        - title: The Anatomy of an HTML Document
+          url: html/week1/anatomy
+        - title: Writing Clean (and Happy) Code
+          url: html/week1/clean
+        - title: HTML Week 1 Assignment
+          url: html/week1/assignment
+    3:
+      title: "HTML: Linking, Tables, Images, Embeds"
+      home: html/week2/links
+      pages:
+        - title: Linking
+          url: html/week2/links
+        - title: Tables
+          url: html/week2/tables
+        - title: Images and Embedded Content
+          url: html/week2/images
+        - title: Assignment
+          url: html/week2/assignment
+    4:
+      title: "CSS: Intro to CSS, Selectors, Text Formatting"
+      home: css/week1/intro
+      pages:
+        - title: Introduction - What is CSS?
+          url: css/week1/intro
+        - title: Getting Started with CSS
+          url: css/week1/setup
+        - title: Using CSS to Format Text
+          url: css/week1/css
+        - title: Using Browser Developer Tools
+          url: css/week1/devtools
+        - title: Assignment
+          url: css/week1/assignment
+    # 5:
+    #   title: "CSS: Page Layout"
+    #   home: css/week2/boxmodel
+    #   pages:
+    #     - title: The Box Model
+    #       url: css/week2/boxmodel
+    #     - title: Positioning Elements 
+    #       url: css/week2/placement
+    #     - title: Responsive Design 
+    #       url: css/week2/responsive
+    #     - title: Image Transformations and Backgrounds 
+    #       url: css/week2/images
+    #     - title: Assignment 
+    #       url: css/week2/assignment
+    # 6:
+    #   title: "CSS: Frameworks"
+    #   home: css/week3/frameworks
+    #   pages:
+    #     - title: Bootstrap and CSS Frameworks
+    #       url: css/week3/frameworks
+    #     - title: Glyphicons
+    #       url: css/week3/glyphicons
+    #     - title: Branching and Assignment
+    #       url: css/week3/branching
+    # 7:
+    #   title: "Accessiblity"
+    #   home: design/accessibility/universaldesign
+    #   pages:
+    #     - title: Universal Design
+    #       url: design/accessibility/universaldesign
+    #     - title: Accessibility
+    #       url: design/accessibility/accessibility
+    #     - title: Assignment
+    #       url: design/accessibility/assignment
+    # 8:
+    #   title: "Intro to JavaScript"
+    #   home: javascript/intro/intro
+    #   pages:
+    #     - title: Intro to JavaScript
+    #       url: javascript/intro/intro
+    # 9:
+    #   title: "JavaScript Libraries"
+    #   home: javascript/frameworks/jquery
+    #   pages:
+    #     - title: Frameworks, Libraries, and jQuery
+    #       url: javascript/frameworks/jquery
+    #     - title: Library Examples
+    #       url: javascript/frameworks/libraries
+    #     - title: API Examples
+    #       url: javascript/frameworks/apis
+    #     - title: Assignment
+    #       url: javascript/frameworks/assignment
+    # 10:
+    #   title: "RESTful APIs, Part I (Overview and GET)"
+    #   home: javascript/rest/rest
+    #   pages:
+    #     - title: HTTP and RESTful APIs, Defined
+    #       url: javascript/rest/rest
+    #     - title: Retrieving Data from a RESTFul API
+    #       url: javascript/rest/intro
+    #     - title: APIs with Parameters
+    #       url: javascript/rest/parameters
+    #     - title: Assignment
+    #       url: javascript/rest/assignment
+    # 11:
+    #   title: "RESTful APIs, Part II (POST)"
+    #   home: javascript/rest/post
+    #   pages:
+    #     - title: POSTing to RESTful APIs
+    #       url: javascript/rest/post
+    #     - title: Assignment
+    #       url: javascript/rest/assignment2
+    # 12:
+    #   title: "Refactoring and Critical Friends"
+    #   home: design/refactor/refactor
+    #   pages:
+    #     - title: Refactoring
+    #       url: design/refactor/refactor
+    #     - title: Assignment
+    #       url: design/refactor/assignment
+    # 13:
+    #   title: "Next Steps and Final Projects"
+    #   home: final/forms
+    #   pages:
+    #     - title: Forms and Form Validation
+    #       url: final/forms
+    #     - title: Google Apps Script and Next Steps
+    #       url: final/next
+    #     - title: Moving Your Site
+    #       url: final/moving
+    #     - title: Final Project and Grading
+    #       url: final/final

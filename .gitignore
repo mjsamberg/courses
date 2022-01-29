@@ -1,0 +1,12 @@
+_site
+.sass-cache
+.jekyll-metadata
+node_modules
+Gemfile.lock
+.DS_Store
+.vscode
+.Ulysses-Group.plist
+/.bundle
+/vendor
+.Ulysses-Settings.plist
+/.jekyll-cache
