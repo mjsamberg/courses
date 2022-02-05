@@ -194,20 +194,20 @@ webdev:
           url: css/week1/devtools
         - title: Assignment
           url: css/week1/assignment
-    # 5:
-    #   title: "CSS: Page Layout"
-    #   home: css/week2/boxmodel
-    #   pages:
-    #     - title: The Box Model
-    #       url: css/week2/boxmodel
-    #     - title: Positioning Elements 
-    #       url: css/week2/placement
-    #     - title: Responsive Design 
-    #       url: css/week2/responsive
-    #     - title: Image Transformations and Backgrounds 
-    #       url: css/week2/images
-    #     - title: Assignment 
-    #       url: css/week2/assignment
+    5:
+      title: "CSS: Page Layout"
+      home: css/week2/boxmodel
+      pages:
+        - title: The Box Model
+          url: css/week2/boxmodel
+        - title: Positioning Elements 
+          url: css/week2/placement
+        - title: Responsive Design 
+          url: css/week2/responsive
+        - title: Image Transformations and Backgrounds 
+          url: css/week2/images
+        - title: Assignment 
+          url: css/week2/assignment
     # 6:
     #   title: "CSS: Frameworks"
     #   home: css/week3/frameworks
