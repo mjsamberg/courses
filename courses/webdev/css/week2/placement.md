@@ -55,7 +55,7 @@ your element with the ```.absolute-center``` class would be exactly in the physi
 
 ```Flexbox``` and ```Grid``` are two relatively new constructs in CSS. To a large extent they solve similar problems - they make it easy to create boxes in boxes that look uniform, while taking the guesswork out of it. Consider a deck of cards. Either flexbox or grid allow you to place each card on the table and the CSS will automatically take care of making sure the cards look right. Grid [is better for large layouts and used much less](https://css-tricks.com/snippets/css/complete-guide-grid/). However, you should be familiar with Flexbox as it solves many problems, including making vertical centering very easy, making sure that cards are all the same size, and that cards fill the space available or wrap where needed. You should be familiar with Flexbox and the advantages it offers.
 
-Review the [CSS Tricks tutorial on Flexbox](https://css-tricks.com/snippets/css/complete-guide-grid/), and don't forget to expand the "Background" and "Basics & Terminology" sections at the top of the page. Review the examples on the page.
+Review the [CSS Tricks tutorial on Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), and don't forget to expand the "Background" and "Basics & Terminology" sections at the top of the page. Review the examples on the page.
 
 
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
