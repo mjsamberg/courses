@@ -11,9 +11,9 @@ To solve these issues, a new type of CSS framework was created: Glyphicons. Glyp
 ## Bootstrap Icons
 Bootstrap icons are brought to you by the same people who create the Bootstrap framework. Bootstrap icons are added to your doc by adding the following to your HTML file right above where you include Bootstrap:
 
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
 
 From there, you can browser the [Bootstrap Icons Website](https://icons.getbootstrap.com) to find the icon you want to use, and the HTML for including it directly is on the page (use the _Icon Font_ option). 
 
