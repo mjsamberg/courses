@@ -23,7 +23,7 @@ Bootstrap has two components that need to be added - the CSS and the JavaScript.
 
 The JavaScript needs to be included immediately **before** your closing ```</body>``` tag at the bottom of your document. These JavaScript libraries allow for some of the interactivity in the site (pop-up windows, collapsable panels, etc.). Simply cut and paste the following code:
 
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 	
 ### Containers
 Last week we discussed adding margins and spacing and the CSS box model, specifically as it pertains to keeping elements from going all the way to the edge of the screen. Bootstrap has some tools for page and block-level boxes, called *containers*. [Read more about Bootstrap containers](https://getbootstrap.com/docs/5.0/layout/containers/).
