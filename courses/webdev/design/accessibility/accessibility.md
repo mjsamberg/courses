@@ -44,10 +44,7 @@ Specific to webpages, you should use [HTML5 semantic styling][13] instead of rel
 
 WebAIM has a [WCAG checklist][14] that it is a good idea to run through on webpages that you create or webapps that you are evaluating for purchase. They also have created the [WAVE Browser Plugin][15] which can be used in any web browser and will flag accessibility errors as an overlay on any webpage when the extension is clicked. While screen readers are not the only form of accessible design, we can see in videos like this how it goes wrong. 
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dEbl5jvLKGQ?rel=0"></iframe>
-</div>
-<br/>
+{% include youtube.html id="dEbl5jvLKGQ" ratio="16x9" title="Screen Reader Demo" %}
 
 Within Bootstrap, [there are a few built-in tools for accessibility](https://getbootstrap.com/docs/4.6/getting-started/accessibility/). As you read the manual, you'll notice that accessibility issues are flagged throughout. However, the ```.sr-only``` class can be used for specific items to flag additional information that will only be identified by assistive devices like screen readers. This is useful in many examples, including links that open in a new window. Based on WCAG guidelines, you should identify a link will be opening in a new user so that users aren't confused when this happens. A best practice for screen readers is to include a note in the link text:
 
