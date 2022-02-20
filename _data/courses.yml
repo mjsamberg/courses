@@ -218,16 +218,16 @@ webdev:
           url: css/week3/glyphicons
         - title: Branching and Assignment
           url: css/week3/branching
-    # 7:
-    #   title: "Accessiblity"
-    #   home: design/accessibility/universaldesign
-    #   pages:
-    #     - title: Universal Design
-    #       url: design/accessibility/universaldesign
-    #     - title: Accessibility
-    #       url: design/accessibility/accessibility
-    #     - title: Assignment
-    #       url: design/accessibility/assignment
+    7:
+      title: "Usability and Accessiblity"
+      home: design/accessibility/universaldesign
+      pages:
+        - title: Universal Design
+          url: design/accessibility/universaldesign
+        - title: Accessibility
+          url: design/accessibility/accessibility
+        - title: Assignment
+          url: design/accessibility/assignment
     # 8:
     #   title: "Intro to JavaScript"
     #   home: javascript/intro/intro
