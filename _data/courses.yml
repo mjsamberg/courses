@@ -228,12 +228,12 @@ webdev:
           url: design/accessibility/accessibility
         - title: Assignment
           url: design/accessibility/assignment
-    # 8:
-    #   title: "Intro to JavaScript"
-    #   home: javascript/intro/intro
-    #   pages:
-    #     - title: Intro to JavaScript
-    #       url: javascript/intro/intro
+    8:
+      title: "Intro to JavaScript"
+      home: javascript/intro/intro
+      pages:
+        - title: Intro to JavaScript
+          url: javascript/intro/intro
     # 9:
     #   title: "JavaScript Libraries"
     #   home: javascript/frameworks/jquery

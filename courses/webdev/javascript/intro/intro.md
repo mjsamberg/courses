@@ -38,7 +38,7 @@ Because HTML has this predictable structure of element -> attributes -> content,
 JavaScript is very similar to other programming languages. If you're familiar with programming, you'll probably catch on pretty quickly. This week we will focus on learning the basic syntax of JavaScript (and most other programming languages). Next week, we will begin to apply them to HTML.
 
 ### Assignment
-* Go to [Free Code Camp's JavaScript Tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
-* Create an Account
-* Complete the Introduction to JavaScript Course - **You only need to do the basic JavaScript (111 Lessons)**
-* Upload a PDF of the assignment list with the checkmarks. 
+* Go to [Codecademy's JavaScript Tutorial](https://www.codecademy.com/learn/introduction-to-javascript)
+* Create an Account. You **DO NOT** need to sign up for a paid account.
+* Complete the Introduction to JavaScript Course - **Do not complete any assignments labeled ```Pro```. These require payments and are not required.**
+* Upload a PDF/screenshot of the assignment list with the checkmarks. 
