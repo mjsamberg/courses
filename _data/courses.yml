@@ -234,18 +234,18 @@ webdev:
       pages:
         - title: Intro to JavaScript
           url: javascript/intro/intro
-    # 9:
-    #   title: "JavaScript Libraries"
-    #   home: javascript/frameworks/jquery
-    #   pages:
-    #     - title: Frameworks, Libraries, and jQuery
-    #       url: javascript/frameworks/jquery
-    #     - title: Library Examples
-    #       url: javascript/frameworks/libraries
-    #     - title: API Examples
-    #       url: javascript/frameworks/apis
-    #     - title: Assignment
-    #       url: javascript/frameworks/assignment
+    9:
+      title: "JavaScript Libraries"
+      home: javascript/frameworks/jquery
+      pages:
+        - title: Frameworks, Libraries, and jQuery
+          url: javascript/frameworks/jquery
+        - title: Library Examples
+          url: javascript/frameworks/libraries
+        - title: API Examples
+          url: javascript/frameworks/apis
+        - title: Assignment
+          url: javascript/frameworks/assignment
     # 10:
     #   title: "RESTful APIs, Part I (Overview and GET)"
     #   home: javascript/rest/rest
