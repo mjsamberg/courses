@@ -246,18 +246,18 @@ webdev:
           url: javascript/frameworks/apis
         - title: Assignment
           url: javascript/frameworks/assignment
-    # 10:
-    #   title: "RESTful APIs, Part I (Overview and GET)"
-    #   home: javascript/rest/rest
-    #   pages:
-    #     - title: HTTP and RESTful APIs, Defined
-    #       url: javascript/rest/rest
-    #     - title: Retrieving Data from a RESTFul API
-    #       url: javascript/rest/intro
-    #     - title: APIs with Parameters
-    #       url: javascript/rest/parameters
-    #     - title: Assignment
-    #       url: javascript/rest/assignment
+    10:
+      title: "RESTful APIs, Part I (Overview and GET)"
+      home: javascript/rest/rest
+      pages:
+        - title: HTTP and RESTful APIs, Defined
+          url: javascript/rest/rest
+        - title: Retrieving Data from a RESTFul API
+          url: javascript/rest/intro
+        - title: APIs with Parameters
+          url: javascript/rest/parameters
+        - title: Assignment
+          url: javascript/rest/assignment
     # 11:
     #   title: "RESTful APIs, Part II (POST)"
     #   home: javascript/rest/post
