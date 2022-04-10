@@ -2,7 +2,7 @@
 layout: page
 title: "Forms and Form Validation"
 course: "webdev"
-unit: 13
+unit: 11
 ---
 
 We've done a lot of work in previous units with HTML forms, but haven't explored them in-depth beyond using them as vehicles to get input to and from JavaScript. Before we wrap up for the semester, I want to take a deeper dive into HTML forms. Whether it looks like a proper form or not, anywhere you input data on a website - from a search box to a radio button - is an HTML form. [Bootstrap](https://getbootstrap.com/docs/4.1/components/forms/) has some ways to style them built in, and there are a number of other CSS and [JavaScript](https://bashooka.com/coding/javascript-libraries-for-amazing-and-functional-forms/) libraries that can help with the appearance and the functionality of your forms. 

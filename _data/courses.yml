@@ -258,31 +258,31 @@ webdev:
           url: javascript/rest/parameters
         - title: Assignment
           url: javascript/rest/assignment
-    # 11:
-    #   title: "RESTful APIs, Part II (POST)"
-    #   home: javascript/rest/post
-    #   pages:
-    #     - title: POSTing to RESTful APIs
-    #       url: javascript/rest/post
-    #     - title: Assignment
-    #       url: javascript/rest/assignment2
-    # 12:
-    #   title: "Refactoring and Critical Friends"
-    #   home: design/refactor/refactor
-    #   pages:
-    #     - title: Refactoring
-    #       url: design/refactor/refactor
-    #     - title: Assignment
-    #       url: design/refactor/assignment
-    # 13:
-    #   title: "Next Steps and Final Projects"
-    #   home: final/forms
-    #   pages:
-    #     - title: Forms and Form Validation
-    #       url: final/forms
-    #     - title: Google Apps Script and Next Steps
-    #       url: final/next
-    #     - title: Moving Your Site
-    #       url: final/moving
-    #     - title: Final Project and Grading
-    #       url: final/final
+     11:
+       title: "RESTful APIs, Part II (POST)"
+       home: javascript/rest/post
+       pages:
+         - title: POSTing to RESTful APIs
+           url: javascript/rest/post
+         - title: Forms and Form Validation
+           url: final/forms
+         - title: Assignment
+           url: javascript/rest/assignment2
+     12:
+       title: "Refactoring and Critical Friends"
+       home: design/refactor/refactor
+       pages:
+         - title: Refactoring
+           url: design/refactor/refactor
+        - title: Assignment
+           url: design/refactor/assignment
+     13:
+       title: "Next Steps and Final Projects"
+       home: final/forms
+       pages:
+         - title: Google Apps Script and Next Steps
+           url: final/next
+         - title: Moving Your Site
+           url: final/moving
+         - title: Final Project and Grading
+           url: final/final
