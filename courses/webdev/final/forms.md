@@ -72,7 +72,7 @@ Many of the JavaScript libraries can also help with form validation. There are t
 So far, we've used ```event.preventDefault()``` in order to let JavaScript handle the forms instead of submitting it. However, without ```event.preventDefault``` the form would submit. However, you can include things that happen before the form submits. For example, you can check the values in form fields. Adding ```return false``` in the validation function would stop the form from submitting. No action or ```return true``` allows the form to submit as usual. See for example:
 
 <p class="codepen" data-height="550" data-theme-id="dark" data-default-tab="js,result" data-user="mjsamberg" data-slug-hash="XWpOewp" style="height: 550px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Formspree Validation Demo">
-  <span>See the Pen <a href="https://codepen.io/mjsamberg/pen/XWpOewp">
+  <span>See the Pen <a href="https://codepen.io/mjsamberg/pen/zYpaoPE">
   Formspree Validation Demo</a> by Mark Samberg (<a href="https://codepen.io/mjsamberg">@mjsamberg</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
