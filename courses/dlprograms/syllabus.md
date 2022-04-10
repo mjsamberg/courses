@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ECI 518: Digital Learning Program and Staff Development: Fall 2020
+title: ECI 518 Digital Learning Program and Staff Development Fall 2020
 course: dlprograms
 ---
 # Instructor Information
