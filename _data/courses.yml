@@ -278,7 +278,7 @@ webdev:
           url: design/refactor/assignment
     13:
       title: "Next Steps and Final Projects"
-      home: final/forms
+      home: final/next
       pages:
         - title: Google Apps Script and Next Steps
           url: final/next
