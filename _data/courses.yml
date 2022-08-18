@@ -15,130 +15,130 @@ dlprograms:
           url: intro/3_nc
         - title: Digital Learning Staff Roles
           url: intro/4_roles
-    2:
-      title: "Leadership of School Technology Programs"
-      home: leadership/1_intro 
-      pages:
-        - title: Introduction
-          url: leadership/1_intro
-        - title: Data Collection
-          url: leadership/2_datacollection
-        - title: Program Planning
-          url: leadership/3_planning
-        - title: Marketing and Communications
-          url: leadership/4_marketing
-        - title: Program Evaluation
-          url: leadership/5_evaluation
-        - title: Frameworks and Models
-          url: leadership/6_dlmodels
-        - title: Policies and Laws
-          url: leadership/7_policy
-        - title: Unit 2 Projects
-          url: leadership/projects
-    3:
-      title: "Digital Content and Materials"
-      home: content/1_intro
-      pages:
-          - title: Introduction
-            url: content/1_intro
-          - title: Universal Design for Learning
-            url: content/udl
-          - title: Accessibility
-            url: content/accessibility
-          - title: Executive Function and Self-Regulation
-            url: content/execfunction
-          - title: Evaluating Digital Resources
-            url: content/4_evaluation
-          - title: Copyright
-            url: content/5_copyright
-          - title: Creative Commons
-            url: content/6_creativecommons
-          - title: Open Educational Resources
-            url: content/7_oer
-          - title: Teacher-Created Materials
-            url: content/8_teachercreated
-          - title: Interoperability
-            url: content/9_interoperability
-          - title: Projects
-            url: content/10_projects
-    4:
-      title: "Technology Infrastructure and Devices"
-      home: devices/1_intro
-      pages:
-        - title: Introduction
-          url: devices/1_intro
-        - title: Selection of Computing Devices
-          url: devices/2_selection
-        - title: BYOD and Guess Access
-          url: devices/3_byod
-        - title: Networks
-          url: devices/4_networks
-        - title: Other Devices
-          url: devices/5_otherdevices
-        - title: Furniture and Physical Spaces
-          url: devices/6_furniture
-        - title: Makerspaces
-          url: devices/7_makerspaces
-        - title: Technical Support Models
-          url: devices/8_supportmodels
-        - title: Home Internet Accesss
-          url: devices/9_homeaccess
-        - title: Unit Projects
-          url: devices/10_projects
-    5:
-      title: "Professional Learning"
-      home: pl/1_intro
-      pages:
-        - title: Introduction
-          url: pl/1_intro
-        - title: Coaching
-          url: pl/2_coaching
-        - title: Self-Directed Learning
-          url: pl/3_selfdirected
-        - title: Badging and Micro-credentials
-          url: pl/4_badging
-        - title: Online Learning
-          url: pl/5_online
-        - title: Projects
-          url: pl/projects
-    6:
-      title: "Funding"
-      home: funding/1_intro
-      pages:
-        - title: Introduction
-          url: funding/1_intro
-        - title: Funding in NC
-          url: funding/2_nc
-        - title: Budgeting
-          url: funding/3_budgeting
-        - title: Procurement
-          url: funding/4_procurement
-        - title: Grants
-          url: funding/5_grants
-        - title: E-Rate
-          url: funding/6_erate
-        - title: Disposition
-          url: funding/7_disposition
-        - title: Projects
-          url: funding/8_projects
-    7:
-      title: "Security"
-      home: cybersecurity/1_intro
-      pages:
-        - title: Introduction
-          url: cybersecurity/1_intro
-        - title: Networks and Disaster Recovery Planning
-          url: cybersecurity/2_networks
-        - title: Physical Security
-          url: cybersecurity/3_physical
-        - title: User Education
-          url: cybersecurity/4_user
-        - title: Data Security
-          url: cybersecurity/5_data
-        - title: Public Records Laws
-          url: cybersecurity/6_publicrecords
-        - title: Projects
-          url: cybersecurity/projects
+    # 2:
+    #   title: "Leadership of School Technology Programs"
+    #   home: leadership/1_intro 
+    #   pages:
+    #     - title: Introduction
+    #       url: leadership/1_intro
+    #     - title: Data Collection
+    #       url: leadership/2_datacollection
+    #     - title: Program Planning
+    #       url: leadership/3_planning
+    #     - title: Marketing and Communications
+    #       url: leadership/4_marketing
+    #     - title: Program Evaluation
+    #       url: leadership/5_evaluation
+    #     - title: Frameworks and Models
+    #       url: leadership/6_dlmodels
+    #     - title: Policies and Laws
+    #       url: leadership/7_policy
+    #     - title: Unit 2 Projects
+    #       url: leadership/projects
+    # 3:
+    #   title: "Digital Content and Materials"
+    #   home: content/1_intro
+    #   pages:
+    #       - title: Introduction
+    #         url: content/1_intro
+    #       - title: Universal Design for Learning
+    #         url: content/udl
+    #       - title: Accessibility
+    #         url: content/accessibility
+    #       - title: Executive Function and Self-Regulation
+    #         url: content/execfunction
+    #       - title: Evaluating Digital Resources
+    #         url: content/4_evaluation
+    #       - title: Copyright
+    #         url: content/5_copyright
+    #       - title: Creative Commons
+    #         url: content/6_creativecommons
+    #       - title: Open Educational Resources
+    #         url: content/7_oer
+    #       - title: Teacher-Created Materials
+    #         url: content/8_teachercreated
+    #       - title: Interoperability
+    #         url: content/9_interoperability
+    #       - title: Projects
+    #         url: content/10_projects
+    # 4:
+    #   title: "Technology Infrastructure and Devices"
+    #   home: devices/1_intro
+    #   pages:
+    #     - title: Introduction
+    #       url: devices/1_intro
+    #     - title: Selection of Computing Devices
+    #       url: devices/2_selection
+    #     - title: BYOD and Guess Access
+    #       url: devices/3_byod
+    #     - title: Networks
+    #       url: devices/4_networks
+    #     - title: Other Devices
+    #       url: devices/5_otherdevices
+    #     - title: Furniture and Physical Spaces
+    #       url: devices/6_furniture
+    #     - title: Makerspaces
+    #       url: devices/7_makerspaces
+    #     - title: Technical Support Models
+    #       url: devices/8_supportmodels
+    #     - title: Home Internet Accesss
+    #       url: devices/9_homeaccess
+    #     - title: Unit Projects
+    #       url: devices/10_projects
+    # 5:
+    #   title: "Professional Learning"
+    #   home: pl/1_intro
+    #   pages:
+    #     - title: Introduction
+    #       url: pl/1_intro
+    #     - title: Coaching
+    #       url: pl/2_coaching
+    #     - title: Self-Directed Learning
+    #       url: pl/3_selfdirected
+    #     - title: Badging and Micro-credentials
+    #       url: pl/4_badging
+    #     - title: Online Learning
+    #       url: pl/5_online
+    #     - title: Projects
+    #       url: pl/projects
+    # 6:
+    #   title: "Funding"
+    #   home: funding/1_intro
+    #   pages:
+    #     - title: Introduction
+    #       url: funding/1_intro
+    #     - title: Funding in NC
+    #       url: funding/2_nc
+    #     - title: Budgeting
+    #       url: funding/3_budgeting
+    #     - title: Procurement
+    #       url: funding/4_procurement
+    #     - title: Grants
+    #       url: funding/5_grants
+    #     - title: E-Rate
+    #       url: funding/6_erate
+    #     - title: Disposition
+    #       url: funding/7_disposition
+    #     - title: Projects
+    #       url: funding/8_projects
+    # 7:
+    #   title: "Security"
+    #   home: cybersecurity/1_intro
+    #   pages:
+    #     - title: Introduction
+    #       url: cybersecurity/1_intro
+    #     - title: Networks and Disaster Recovery Planning
+    #       url: cybersecurity/2_networks
+    #     - title: Physical Security
+    #       url: cybersecurity/3_physical
+    #     - title: User Education
+    #       url: cybersecurity/4_user
+    #     - title: Data Security
+    #       url: cybersecurity/5_data
+    #     - title: Public Records Laws
+    #       url: cybersecurity/6_publicrecords
+    #     - title: Projects
+    #       url: cybersecurity/projects
 webdev:
   title: "Introduction to Website and Web App Development"
   shorttitle: "Web/App Dev"
