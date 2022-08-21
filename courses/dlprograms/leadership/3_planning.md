@@ -31,7 +31,7 @@ Color-coding any element in a logic model can be helpful for improving readabili
 
 The logic model below was developed by Dr. Jeni Corn for a flipped classroom model called FIZZ, developed by Dr. Lodge McCammon. Notice that the activities are broken up by programmatic activities in FIZZ and by classroom activities and that outcomes are broken into short-term and intermediate outcomes.
 
-{% include figure.html image="leadership/fizz-logic-model.png.png" alt="FIZZ Logic Model" caption="Source: Drs. Jeni Corn and Lodge McCammon" %}
+{% include figure.html image="leadership/fizz-logic-model.png" alt="FIZZ Logic Model" caption="Source: Drs. Jeni Corn and Lodge McCammon" %}
 
 
 
