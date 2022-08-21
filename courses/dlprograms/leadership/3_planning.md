@@ -8,10 +8,8 @@ Once a vision for digital-age learning has been built and the current status is 
 
 ## Logic Models
 A [logic model][1] is a tool for articulating the key elements of a project to support strategic planning and change management efforts. It's a graphical representation that can support a clear understanding of the project, goals, and assumptions. It can also be used as a tool for promoting stakeholder buy-in. Logic Models tend to be living documents and are typically revised often throughout a program cycle.
-<figure class="text-center">
-  <img src="{{site.baseurl}}/dlprograms/leadership/samplelogicmodel.png" alt="Sample Logic Model" style="width: 50%; height: auto" class="mx-auto d-block"/>
-  <cite class="mx-auto d-block">Source: Friday Institute Research and Evaluation Team</cite>
-</figure>
+
+{% include figure.html image="leadership/samplelogicmodel.png" alt="Sample Logic Model" caption="Source: Friday Institute Research and Evaluation Team" %}
 
 Logic models contain three major elements:
 * Strategies/activities - the main activities being done in the project.
@@ -32,17 +30,16 @@ Fourth, develop your linkages. Like in most process diagram, the actual work to 
 Color-coding any element in a logic model can be helpful for improving readability or in helping to better articulate relationships. 
 
 The logic model below was developed by Dr. Jeni Corn for a flipped classroom model called FIZZ, developed by Dr. Lodge McCammon. Notice that the activities are broken up by programmatic activities in FIZZ and by classroom activities and that outcomes are broken into short-term and intermediate outcomes.
-<figure class="text-center">
-  <img src="{{site.baseurl}}/dlprograms/leadership/fizz-logic-model.png" alt="FIZZ Logic Model" style="width: 100%; height: auto" class="mx-auto d-block"/>
-  <cite class="mx-auto d-block">Source: Drs. Jeni Corn and Lodge McCammon</cite>
-</figure>
+
+{% include figure.html image="leadership/fizz-logic-model.png.png" alt="FIZZ Logic Model" caption="Source: Drs. Jeni Corn and Lodge McCammon" %}
 
 
 
 ## Strategic Plans
 Once a logic model has been developed the next step is to turn the model into a strategic plan. A strategic plan turns the logic model into an operational document - the details of the step-by-step plans and measures and evaluation criteria that the program will use. The logic model moves to the strategic plan typically through a process like a SWOT analysis. SWOT stands for **strengths, weaknesses, opportunities, and threats.** The SWOT analysis examines your linkages in your logic model and the activities and outcomes that you've identified. In the process of developing the SWOT analysis, you should be thinking about how to leverage strengths and opportunities to overcome weaknesses and threats. This SWOT template, provided by ISTE, is a good place to start:
+
 <figure class="text-center">
-  <img src="https://id.iste.org/sf-images/edtekhub/tech-plan-1.png?Status=Temp&sfvrsn=2" alt="SWOT Analysis Template - Four boxes to list strengths, weakness, opportunities, and challenges." style="width: 50%; height: auto" class="mx-auto d-block"/>
+  <img src="https://blogs.ubc.ca/personalizedlearningetec522sep12/files/2012/10/SWOT-analysis.png" alt="SWOT Analysis Template - Four boxes to list strengths, weakness, opportunities, and challenges." style="width: 50%; height: auto" class="mx-auto d-block"/>
   <cite class="mx-auto d-block">Source: ISTE</cite>
 </figure>
 

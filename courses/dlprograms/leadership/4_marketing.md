@@ -10,10 +10,7 @@ You may have heard this quote before. Schools have a wide and varied audience, a
 
 When crafting your message, it's a best practice to start with a story. Notice all of the videos shared in the unit thus far have shared data and information about the school programs, but they are also telling a story about a student or a school. Storytelling captures attention and imagination, and allows a more Human connection to what's happening in a school. 
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AL-PAzrpqUQ?rel=0"></iframe>
-</div>
-<br/>
+{% include youtube.html id="AL-PAzrpqUQ" ratio="16x9" %}
 
 When telling a story, it's critical for everyone in an organization to be telling the _same_ story, from the same or different perspectives. If stakeholders are sharing different stories with different and contradictory outcomes, your message will get muddied or lost. [Transparency][1] in your process also helps everyone speak the same language and can garner buy-in for your vision. Shared leadership models are a significant enabler for transparency in schools.  
 

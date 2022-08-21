@@ -23,10 +23,7 @@ From there, I will typically see where the conversation goes, and ask probing qu
 
 Focus groups can also be longer activities designed to foster deeper input as in this example from New York City Public Schools:
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XIRkVZDILzM?rel=0"></iframe>
-</div>
-<br/>
+{% include youtube.html id="XIRkVZDILzM" ratio="16x9" title="CEC1 Community Engagement" %}
 
 ### Surveys
 Surveys also provide valuable data for developing a vision. The [School Technology Needs Assessment (STNA) for Teachers][3] and [for students][4] are older surveys currently being revised that provide insight into student needs, comfort, and use of technology and digital tools. The [Texas Teacher School Technology and Readiness (STaR)][5] chart is a rubric that teachers can use to self-assess their readiness and status in digital learning.
@@ -52,7 +49,6 @@ In the interpretation phase, it is important to be aware of biases. In tradition
 
 In order to generate buy-in from stakeholders in the process, it's important to share interpretations of the data once they have been collected. These representations may take the form of summary reports, infographics, narrative stories, or through making data available in databases or electronic data structures. And while you may share raw data with your stakeholders, it's more likely that they will be focused on what you've learned from the data and what you've identified as a resulting need. In design, these summaries would be tailored to the specific stakeholder group, and used to both validate your interpretation and to collect additional data. 
 
-
 Once themes have been identified, conduct a *root cause analysis* to ensure that you have fully identified "why" a problem or barrier may exist. Root cause analyses help us to understand whether the problem we've identified is actually the problem, or rather if it is a symptom of another problem. Consider this example of a restaurant: you go to a restaurant and order dinner. Everyone receives their orders, but it takes 45 minutes and all of the food is cold. Typically, one might say that the restaurant is "disorganized" or has "lousy service". However, if you were in charge of reviewing the operations of the restaurant, you may determine that the waitstaff is inefficiently routed through the restaurant, or it is hard for the waitstaff to know when food is ready to be picked up, or the chef and the waitstaff are misinterpreting their notes and additional training is needed. Sometimes the root causes yield more obvious solutions (for example, the ["I Voted" sticker is a simple solution that does get people to go vote](https://time.com/4541760/i-voted-sticker-history-origins/)).
 
 A fishbone diagram can help with a Root Cause analysis. 
@@ -63,17 +59,15 @@ A fishbone diagram can help with a Root Cause analysis.
 
 Take a look at this entire process from start to finish in the healthcare field, using this example below. 
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/T1HF3c-GmvU?rel=0"></iframe>
-</div>
+{% include youtube.html id="T1HF3c-GmvU" ratio="16x9" title="Phillips Healthcare Infusion Center" %}
 
 <br/>
 
 [1]:	https://balancedscorecard.org/bsc-basics/articles-videos/the-deming-cycle/
 [2]:	https://designthinkingformuseums.files.wordpress.com/2013/03/sfmoma-interview-tips-and-questions.pdf
-[3]:	https://eval.fi.ncsu.edu/school-technology-needs-assessment-stna/
-[4]:	https://eval.fi.ncsu.edu/school-technology-needs-assessment-for-students-stna-s/
+[3]:	https://www.fi.ncsu.edu/resources/school-technology-needs-assessment-stna/
+[4]:	https://www.fi.ncsu.edu/resources/school-technology-needs-assessment-for-students-stna-s/
 [5]:	https://tea.texas.gov/Academics/Learning_Support_and_Programs/Technology_Resources/School_Technology_and_Readiness_Chart
-[6]:	https://ncdli.fi.ncsu.edu/rubric/index.html
+[6]:	https://drive.google.com/file/d/1J0f9M11kY2O6f4u1CgNpGwaPGevUVU1W/view?usp=sharing
 [7]:	https://dashboard.futurereadyschools.org/framework
 [8]:	https://www.iste.org/standards/essential-conditions

@@ -11,13 +11,10 @@ A system so engrained in American society, in which every person has participate
 
 While managing change in any context is difficult, managing change in an educational context may be among the most difficult. Managing change is as much art as science, and is much more about building positive culture than about the change "being the right thing". The best, most positive and worthwhile change will almost always fail without sufficient buy-in, a shared vision, professional learning, and adequate resources. This is represented best in Knoster's Model for Managing Complex Change.
 
-![Knoster's Model for Managing Complex Change - Change requires vision, skills, incentives, resources, and an action plan. A lack of an action plan yields false starts. A lack of resources yields frustration. A lack of Incentives yields resistance. A lack of skills yields anxiety. A lack of vision yields confusion.][image-1]
+{% include figure.html image="leadership/knostermodel.png" alt="Knoster's Model for Managing Complex Change - Change requires vision, skills, incentives, resources, and an action plan. A lack of an action plan yields false starts. A lack of resources yields frustration. A lack of Incentives yields resistance. A lack of skills yields anxiety. A lack of vision yields confusion." caption="Knoster's Model for Managing Complex Change" %}
 
-In any change management culture, it's also critical to manage the different types of personalities within a school and their approach to change. Dr. Michael Armstrong, a former local principal, described these groups as trailblazers, pioneers, settlers, nomads, and snipers.
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iZTFpwwPMI0?rel=0"></iframe>
-</div>
-<br/>
+In any change management culture, it's also critical to manage the different types of personalities within a school and their approach to change. The late Dr. Michael Armstrong, a former local principal, described these groups as trailblazers, pioneers, settlers, nomads, and snipers.
+{% include youtube.html id="iZTFpwwPMI0" ratio="16x9" title="Tailblazers, Pioneers, Settlers, Nomads, and Snipers" %}
 
 ## Design Thinking
 >Design "with." Don't design "for."
@@ -41,9 +38,7 @@ Design thinking is often referred to as a process with five discrete stages:
 
 In reality, these are not discrete steps, nor do you move from phase to phase and leave everything behind. For example, when you are creating your prototypes, a good designer will reach back out to the people they interviewed in the *empathize* stage of the process for their feedback. Like many change management processes, Design Thinking has roots in the [Demming Cycle](https://balancedscorecard.org/bsc-basics/articles-videos/the-deming-cycle/) (plan, do, study, act). 
 
-<div class="embed-responsive embed-responsive-16by9 mb-5" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/a7sEoEvT8l8?rel=0"></iframe>
-</div>
+{% include youtube.html id="a7sEoEvT8l8" ratio="16x9" title="What is Design Thinking?" %}
 
 
 ## Visioning
@@ -55,10 +50,7 @@ The vision should be responsive to the needs of the students and the local commu
 
 The vision for a school's digital-age learning program should be reflective of the needs of the school, the students in the school, and the local community.  This will mean different things in different places. But every stakeholder should be able to see their role in realizing the vision and how they will be impacted by the changes. Consider this example from Talladega County, Alabama. While they talk about the role of technology, you can also see how they are shifting instruction accordingly, such as project-based learning. Also pay attention to the statements from the superintendent of Alabama schools about how they went about engaging in this process.
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/115tlF_jJBE?rel=0"></iframe>
-</div>
-<br/>
+{% include youtube.html id="115tlF_jJBE" ratio="16x9" title="Digital Learning Day 2014: Talladega Schools" %}
 
 The vision is more than a statement. While it's important to create a "vision statement", that is a short and succinct version of the vision. The real **vision** for a digital-age learning vision may be several pages long. Everyone should be able to buy into the vision and be able to see themselves reflected in it. The vision statement is a good tool for stakeholders to articulate the vision for digital-age learning. There are numerous tools that should be employed to create the vision, including focus groups and surveys. 
 
@@ -72,10 +64,8 @@ Often, in technology, shared leadership will take the form of a Media and Techno
 A shared leadership committee should include stakeholders from across the school - teachers, support staff, parents, and students. Also, the tendency for these types of committees is to pick the "high-flyers" and the "trailblazers" for these types of groups - a truly effective shared leadership structure is reflective of the entire community it serves. 
 
 Review the video below from Wisconsin. Notice shared leadership in action - the teachers involved have a voice in developing the program as do the students, and everything from the curriculum to the furniture supports the vision.
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WFgmQIQpMi4?rel=0"></iframe>
-</div>
-<br/>
+{% include youtube.html id="WFgmQIQpMi4" ratio="16x9" title="Flight Academy" %}
+
 
 [1]:	http://hackeducation.com/2015/04/25/factory-model
 [2]:	https://courses.lumenlearning.com/teachereducationx92x1/chapter/educational-reforms/
