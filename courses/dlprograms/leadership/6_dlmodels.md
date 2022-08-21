@@ -10,7 +10,10 @@ Models, standards, and frameworks can provide a research base for your digital-a
 [Personalized learning][1] is an approach to learning that aims to customize learning for each students strengths, needs, skills, and interests. This typically involves the use of competency-based progressions, learner profiles, and flexible learning environments. [Digital Promise's Learner Variability Project][2] is a web-app with customized lessons to support the development of personalized learning pathways in reading and math.
 
 In [North Carolina, Personalized Learning][3] includes four areas as a part of our statewide [ESSA plan][4]: learner profiles, individual learning paths, competency based progression, and flexible learning environments:
-![Personalized learning elements, taken from https://www.ednc.org/perspective-north-carolinas-viewpoint-on-personalized-learning/#fnref-89998-1][image-1]{:class="mx-auto d-block"}
+<figure class="text-center">
+  <img src="https://www.ednc.org/wp-content/uploads/2019/10/pic1.png" alt="Personalized learning elements, taken from https://www.ednc.org/perspective-north-carolinas-viewpoint-on-personalized-learning/#fnref-89998-1." style="width: 75%; height: auto" class="mx-auto d-block"/>
+  <cite class="mx-auto d-block">Source: NC Department of Public Instruction</cite>
+</figure>
 
 NC DPI has created a [Personalized Learning Matrix][5] worksheet and [exploration guides]() for schools to better understand personalized learning. 
 
