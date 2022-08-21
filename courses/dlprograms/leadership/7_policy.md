@@ -70,10 +70,13 @@ IDEA provides the legal background for all Federally-funded special education se
 ## HIPAA: Health Insurance Portability and Accountability Act
 The HIPPA act, passed in 1996, contains numerous provisions about medical records and patient privacy. Even in nursing and special education contexts, HIPAA's privacy regulations [do not apply in schools](https://www.hhs.gov/hipaa/for-professionals/faq/513/does-hipaa-apply-to-an-elementary-school/index.html). This is largely because special education services such as psychology, speech, occupational and physical therapy are provided to promote student access to the educational environment. Therefore, these records are educational records and not medical records. Privacy for these records is ensured under FERPA as a result. The same thinking applies to student medications - that it is part of the student's educational record.
 
+## COVID-19 and Digital Policy
+In the wake of COVID-19, and the significant increase in both the frequency and variety of educational technology tools used, schools are [struggling to protect student data](https://www.edweek.org/technology/there-are-so-many-issues-why-schools-are-struggling-to-protect-student-data/2022/04) and to enact policies to vet digital resources prior to use (which we will cover in greater detail in future units). This will likely lead to [additional policy levers in the future](https://er.educause.edu/articles/2020/8/the-post-pandemic-evolution-of-student-data-privacy) to protect student data.
+
 [1]:	https://www.uft.org/files/attachments/doe-social-media-guidelines.pdf
 [2]:	https://www.jpsk12.org/cms/lib/MI01908028/Centricity/Domain/505/JPS%202017-%202018%20Social%20Media%20Policy%20staff%20final.pdf
-[3]:	https://www.cosn.org/sites/default/files/pdf/MakingProgress_Web%20-Final.pdf
-[4]:	https://www.cosn.org/sites/default/files/pdf/Revised%20AUP%20March%202013_final.pdf
+[3]:	https://dmlhub.net/wp-content/uploads/files/MakingProgress_Report.pdf
+[4]:	https://bplawassets.learningaccelerator.org/artifacts/pdf_files/Revised-AUP-March-2013_final.pdf
 [5]:	http://www.bpsedtech.org/wp-content/uploads/2017/08/BPS-AUP.pdf
 [6]:	https://www.wcpss.net/Page/13046
 [7]:	https://www.bostonpublicschools.org/domain/2330
@@ -91,5 +94,5 @@ The HIPPA act, passed in 1996, contains numerous provisions about medical record
 [19]:	https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions#Schools
 [20]:	https://www.commonsense.org/education/digital-citizenship
 [21]:	https://www.aclu.org/other/dont-filter-me-final-report
-[22]:	https://www2.ed.gov/policy/gen/guid/fpco/ppra/parents.html
+[22]:	https://studentprivacy.ed.gov/topic/protection-pupil-rights-amendment-ppra
 [23]:	https://nces.ed.gov/pubs2004/privacy/section_2d.asp

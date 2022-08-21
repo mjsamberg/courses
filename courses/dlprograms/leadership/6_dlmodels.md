@@ -31,6 +31,11 @@ The [Technology Integration Matrix][15] was developed by the University of South
 
 ![Technology Integration Matrix Slide][image-3]{:class="mx-auto d-block"}
 
+## Triple-E Framework
+The [Triple-E framework](https://www.tripleeframework.com/about.html) was developed in 2011 by Liz Kolb at the University of Michigan, and was designed for evaluating the effective use of technology in instructional practice. Unlike the SAMR model described below, Triple-E framework has research validation behind it. Also unlike many other frameworks described below (TPaCK, SAMR, etc.), Triple-E doesn't ascribe "quality" measures to the integration of technology, but rather describes the "bestness of fit" between the learning goal and the tool being used. This is a way to help teachers identify that they are using the "right" tool for the job. [Review the Triple-E Rubric for Teachers](https://www.tripleeframework.com/uploads/2/2/8/7/2287991/educationaltechnologyvalueevaluation__2___1_.pdf)
+
+
+
 ## Other Frameworks
 
 The Buck Institute (now PBLWorks) has created a framework for "[Gold Standard Project Based Learning][16]", including a challenging problem or question, sustained inquiry, authenticity, student voice and choice, reflection, critique and revision, and a public product.
@@ -84,7 +89,7 @@ The TPaCK framework is not an instructional design model. The CPR model is a dif
 [21]:	http://hippasus.com/rrpweblog/archives/2015/10/SAMR_ABriefIntro.pdf
 
 [image-1]:	https://www.ednc.org/wp-content/uploads/2019/10/pic1.png
-[image-2]:	https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/styles/1_1_small/public/tlr-blog/iste-standards.png?itok=vTEBcJZ1
+[image-2]:	https://cdn.iste.org/www-root/ISTE%20Standards_Students_Orbit-Graphic_2019.png
 [image-3]:	https://fcit.usf.edu/matrix/wp-content/uploads/2016/12/Characteristics_FadeOutSlide_IconVersion_Wide.jpg
 [image-4]:	https://www.pblworks.org/sites/default/files/2019-03/gold_standard_design_0326.png
 [image-5]:	https://www.pblworks.org/sites/default/files/2019-04/gold_standard_teaching_0326.png

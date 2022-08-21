@@ -15,26 +15,26 @@ dlprograms:
           url: intro/3_nc
         - title: Digital Learning Staff Roles
           url: intro/4_roles
-    # 2:
-    #   title: "Leadership of School Technology Programs"
-    #   home: leadership/1_intro 
-    #   pages:
-    #     - title: Introduction
-    #       url: leadership/1_intro
-    #     - title: Data Collection
-    #       url: leadership/2_datacollection
-    #     - title: Program Planning
-    #       url: leadership/3_planning
-    #     - title: Marketing and Communications
-    #       url: leadership/4_marketing
-    #     - title: Program Evaluation
-    #       url: leadership/5_evaluation
-    #     - title: Frameworks and Models
-    #       url: leadership/6_dlmodels
-    #     - title: Policies and Laws
-    #       url: leadership/7_policy
-    #     - title: Unit 2 Projects
-    #       url: leadership/projects
+    2:
+      title: "Leadership of School Technology Programs"
+      home: leadership/1_intro 
+      pages:
+        - title: Introduction
+          url: leadership/1_intro
+        - title: Data Collection
+          url: leadership/2_datacollection
+        - title: Program Planning
+          url: leadership/3_planning
+        - title: Marketing and Communications
+          url: leadership/4_marketing
+        - title: Program Evaluation
+          url: leadership/5_evaluation
+        - title: Frameworks and Models
+          url: leadership/6_dlmodels
+        - title: Policies and Laws
+          url: leadership/7_policy
+        - title: Unit 2 Projects
+          url: leadership/projects
     # 3:
     #   title: "Digital Content and Materials"
     #   home: content/1_intro
