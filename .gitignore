@@ -10,3 +10,4 @@ Gemfile.lock
 /vendor
 .Ulysses-Settings.plist
 /.jekyll-cache
+.nova
