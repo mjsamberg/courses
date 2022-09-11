@@ -30,10 +30,7 @@ The UDL framework recommends providing multiple means of:
 * **Representation**. In addition to providing accessible content, UDL recommends that content is represented in multiple different means (i.e. video, audio, reading, and graphical), that vocabulary is made clear, that multiple media types are used, and that content is framed in the context of both existing background knowledge and generalizability.
 * **Action and Expression**. In addition to allowing students the flexibility to express their knowledge in different ways, UDL recommends providing students options for fostering executive functioning including supporting goal setting, planning, information management, and progress monitoring.
 
-<div class="embed-responsive embed-responsive-16by9" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bDvKnY0g6e4?rel=0"></iframe>
-</div>
-<br/>
+{% include youtube.html id="bDvKnY0g6e4" ratio="16x9" title="UDL Overview" %}
 
 ## [Review the UDL Guidelines][5] by clicking through the links in the rubric.
 
