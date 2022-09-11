@@ -13,12 +13,12 @@ For apps that require logins, there are multiple ways to provision accounts. Som
 ## Rostering
 Beyond creating accounts, students usually need to be placed into classes within the application. Many applications tend to achieve this using a data extract from the SIS, though some applications can connect to the SIS directly. 
 
-The [IMS Global Consortium][1] maintains many of the standards discussed on this page. One of them is the [OneRoster protocol][2], which allows applications to be provided roster data and transmit grades back to an authoritative source.  Canvas can be a provider and consumer for OneRoster data, and as an LMS, can roster students in consumer apps based on their Canvas classes and then feed grades back in to Canvas.
+The [1EdTech Consortium][1] (formerly known as _IMS Global_) maintains many of the standards discussed on this page. One of them is the [OneRoster protocol][2], which allows applications to be provided roster data and transmit grades back to an authoritative source.  Canvas can be a provider and consumer for OneRoster data, and as an LMS, can roster students in consumer apps based on their Canvas classes and then feed grades back in to Canvas.
 
 ## Content Sharing
 The [Learning Tools Interoperability (LTI)][3] framework allows activities to be shared between systems so that learning objects can be embedded into learning management systems. For example, the #GoOpenNC platform supports LTI. Therefore, it is possible from within the Canvas or Schoology LMSes to browse the #GoOpenNC platform, select learning objects, and pull them into your course all from within the LMS. LTI also supports more advanced features where if the destination system provides assessment support, the grades can be sent back to the host LMS.
 
-The [IMS Common Cartridge][4] standard is a standardized export format from LMS systems. A Common Cartridge exported from one LMS should be able to be consumed by any other LMS system and displayed with fidelity, provided no features that aren't supported in the IMS-CC spec are used. Some textbook vendors distribute coursepacks as common cartridges such that a teacher can import a complete course based on a textbook into any LMS. 
+The [1EdTEch Common Cartridge][4] standard is a standardized export format from LMS systems. A Common Cartridge exported from one LMS should be able to be consumed by any other LMS system and displayed with fidelity, provided no features that aren't supported in the 1ET-CC spec are used. Some textbook vendors distribute coursepacks as common cartridges such that a teacher can import a complete course based on a textbook into any LMS. 
 
 [1]:	https://www.imsglobal.org/
 [2]:	https://www.imsglobal.org/activity/onerosterlis
