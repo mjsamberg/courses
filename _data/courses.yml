@@ -61,30 +61,30 @@ dlprograms:
             url: content/9_interoperability
           - title: Projects
             url: content/10_projects
-    # 4:
-    #   title: "Technology Infrastructure and Devices"
-    #   home: devices/1_intro
-    #   pages:
-    #     - title: Introduction
-    #       url: devices/1_intro
-    #     - title: Selection of Computing Devices
-    #       url: devices/2_selection
-    #     - title: BYOD and Guess Access
-    #       url: devices/3_byod
-    #     - title: Networks
-    #       url: devices/4_networks
-    #     - title: Other Devices
-    #       url: devices/5_otherdevices
-    #     - title: Furniture and Physical Spaces
-    #       url: devices/6_furniture
-    #     - title: Makerspaces
-    #       url: devices/7_makerspaces
-    #     - title: Technical Support Models
-    #       url: devices/8_supportmodels
-    #     - title: Home Internet Accesss
-    #       url: devices/9_homeaccess
-    #     - title: Unit Projects
-    #       url: devices/10_projects
+    4:
+      title: "Technology Infrastructure and Devices"
+      home: devices/1_intro
+      pages:
+        - title: Introduction
+          url: devices/1_intro
+        - title: Selection of Computing Devices
+          url: devices/2_selection
+        - title: BYOD and Guess Access
+          url: devices/3_byod
+        - title: Networks
+          url: devices/4_networks
+        - title: Other Devices
+          url: devices/5_otherdevices
+        - title: Furniture and Physical Spaces
+          url: devices/6_furniture
+        - title: Makerspaces
+          url: devices/7_makerspaces
+        - title: Technical Support Models
+          url: devices/8_supportmodels
+        - title: Home Internet Accesss
+          url: devices/9_homeaccess
+        - title: Unit Projects
+          url: devices/10_projects
     # 5:
     #   title: "Professional Learning"
     #   home: pl/1_intro

@@ -18,6 +18,8 @@ In addition to a lot of tools, many makerspaces include tools for learning robot
 
 The best makerspaces are responsive to their programs. While some schools need 3-D printers, others need LEGOs.  Before building a makerspace, it's important to conduct a needs assessment to figure out what's actually needed.
 
+Professional makerspaces exist for adults at places like the [NC State Libraries](https://entrepreneurship.ncsu.edu/spaces/makerspaces/) and for kids at places like [Children's Museum of Pittsburgh](https://pittsburghkids.org/exhibit/makeshop/). 
+
 [1]:	https://www.imls.gov/assets/1/AssetManager/Makerspaces.pdf
 [2]:	https://ideas.demco.com/blog/create-amazing-low-tech-library-makerspace-easy-ideas/
 [3]:	https://drive.google.com/drive/folders/0B1mqk303aLATNUpzYjAyYU9MYU0

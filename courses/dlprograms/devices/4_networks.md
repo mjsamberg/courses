@@ -51,4 +51,4 @@ Many older school buildings were not built with network closets in mind. As a re
 [1]:	https://www.fi.ncsu.edu/projects/nc-school-connectivity-program/
 [2]:	https://www.educationsuperhighway.org/upgrade/types-of-fiber-services/k-12-bandwidth-goals/
 [3]:	https://stateofthestates.educationsuperhighway.org/?postalCd=NC#state
-[4]:	https://www2.mcnc.org/ncren/portal/reporting/ncren_utilization_map
+[4]:	https://portal.mcnc.org/reporting/ncren_utilization_map
