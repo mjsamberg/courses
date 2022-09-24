@@ -14,6 +14,8 @@ Recently, the NC Broadband Office [maintains a dashboard on access in NC](https:
 The Broadband Infrastructure Office, in partnership with the Friday Institute and the NC DMV, conducted a [survey for all NC households](https://www.ncbroadband.gov/north-carolina-broadband-survey) that can be taken by phone, SMS, or online. They have also made a [dashboard of the results](https://www.ncbroadband.gov/broadband-survey/broadband-survey-dashboards) available. 
 
 ## Addressing the Homework Gap
+It's not a lack of desire to serve areas, but much of the country still lacks Internet. However, many rural areas don't have the customer base who can afford Internet access and running fiber costs an average of $32,000 per mile. Internet Providers are for-profit companies - they have to be able to recoup their investment costs to serve an area. 
+
 While there's no "silver bullet" to address the homework gap, many organizations and districts have solutions to help:
 
 ### Affordable Connectivity Program
@@ -33,6 +35,9 @@ Some school districts are partnering with community hubs to provide Internet acc
 
 ### Bus Wi-Fi
 Kajeet offers a solution to connect buses to the Internet with enough wireless capacity to serve a bus full of students. In addition to allowing Internet access to students on their way to and from schools, this solution can provide Internet access in communities as well. Since bus drivers disproportionately live in lower-income neighborhoods, allowing drivers to take their buses home and leaving the wifi running on the bus overnight can cover a small area with Internet access. Many schools adopted this [approach during COVID as well](https://www.ncbroadband.gov/covid-19/wi-fi-bus-partnership). 
+
+### GREAT Grants 
+Targeted at ISPs, North Carolina [GREAT Grants](https://www.ncbroadband.gov/grants/other-resources/great-grant-state) provide funding for providers to serve hard-to-reach areas in North Carolina. This can offset the significant cost of building out infrastructure for rural areas. 
 
 ## Emerging Solutions
 New technologies, such as [Citizens Broadband Radio Service (CBRS)][13] will allow independent providers to set up small-scale private cellular towers that can cover larger areas than traditional wifi at a lower cost. When realized, a school district could build out a small cellular network originating from each school in the district that could cover large swaths of the district with private cellular data coverage for student use at relatively low cost. [SpaceX's StarLink][14] program will be up and running in North America by late 2020, and can provide cable modem-like speeds anywhere via satellite at a price point similar to traditional wireline Internet services. While SpaceX's solution won't provide a solution for families that can't afford Internet, it will revolutionize access for families with geographical restrictions on their Internet access. 
