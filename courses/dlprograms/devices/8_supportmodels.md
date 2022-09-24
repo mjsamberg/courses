@@ -5,10 +5,8 @@ course: "dlprograms"
 unit: 4
 ---
 Because of the fact that the ITF is the only "tech person" that is in a school full-time, the bulk of the tech support tends to fall on the shoulders of the ITF, even though that should be outside the scope of their responsibilities. Also, the line between tech support and training can sometimes be blurry:
-<div class="embed-responsive embed-responsive-4by3" style="max-height: 500px; width: auto;">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pQHX-SjgQvQ?rel=0"></iframe>
-</div>
-<br/>
+
+{% include youtube.html id="pQHX-SjgQvQ" ratio="16x9" title="Medievil Helpdesk" %}
 
 ## The Technology Support Team
 While the CTO is the lead IT contact for the district, [they don't always do it alone][1] (except in very small districts). A CTO with an instructional background typically has a staff member designated as the **Technology Support Manager** (sometimes called the Director/Coordinator of Technology Services or similar) which leads and supervises all aspects of technology infrastructure and support in the district. This position reports directly to the CTO and supervises all of the technical support staff in the district. A district may also have a **Network Analyst** responsible for managing the switches, routers, firewalls, wireless access points, and other technology infrastructure in the district. Because these positions typically demand high pay, some districts will contract out for these services as well. **Technology Support Technicians** are responsible for conducting the day-to-day support and repair of equipment in the school and the deployment of new equipment. Level I technicians are typically the most numerous, assigned to a small number of schools or to a central helpdesk. They do "first pass" technical support, fixing a majority of the routine problems. In the event there is a problem they cannot solve, they refer problems to a level II technician who has more specialized skills and can solve more unusual problems. Some districts also have level III technicians who deal with the most difficult problems and may also tackle long-range technology projects for the district.   
