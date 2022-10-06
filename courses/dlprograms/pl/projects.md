@@ -15,7 +15,7 @@ Create a professional learning module for face-to-face professional learning (th
 Create a logic model for your work with coaching teachers. Include a timeline, resources needed, who will be involved, and any outputs and outcomes. Your logic model should contain outputs and outcomes for the short term, medium term, and long term (4 points). This plan should be SMART (specific, measurable, attainable, realistic, and time-bound) and should be created in partnership with your school leadership (2 points for submitting evidence of this). Include evidence of this process and revision in your write-up, along with the rationale for the strategies you selected, barriers to implementation and any concerns you have, and your process for moving forward (4 points).
 
 ## Option 4: Conduct a Twitter chat
-_Note: Participants in this project have already been selected._
+**NOTE: If you want to complete this project, please let me know as soon as possible. You will be starting work on this project during the two weeks, but will likely conduct the chat itself after the unit has concluded.**
 Conduct a Twitter chat on the topic of your choice. In a small group, develop a series of marketing tweets (2 points) and up to 5 questions for a 1-hour chat (2 points). Moderate the chat at a time and date chosen by the group (4 points) and complete a write-up reflecting on the experience including challenges faced and a review of professional learning in this format (2 points). Students not moderating the Twitter chat can participate in lieu of a virtual meeting.
 
 ## Option 5: Develop a micro-credential stack.
