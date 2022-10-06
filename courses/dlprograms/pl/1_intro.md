@@ -74,4 +74,4 @@ Many of the theories above are focused on large or whole-group professional deve
 [15]:	https://docs.google.com/forms/d/e/1FAIpQLScggP5FFM4Sut0gjLWp5-Up3a3R4t58AhXD0Ut_QVKhZ_F8BA/viewform?usp=sf_link
 [16]:	https://elearningindustry.com/the-adult-learning-theory-andragogy-of-malcolm-knowles
 
-[image-1]:	https://www.researchgate.net/profile/Wanty_Widjaja/publication/286640011/figure/fig1/AS:614117949853697@1523428537089/nterconnected-Model-of-Professional-Growth-Clarke-and-Hollingsworth-2002-p-951.png
+[image-1]:	[https://www.researchgate.net/profile/Wanty_Widjaja/publication/286640011/figure/fig1/AS:614117949853697@1523428537089/nterconnected-Model-of-Professional-Growth-Clarke-and-Hollingsworth-2002-p-951.png](https://www.researchgate.net/profile/Wanty_Widjaja/publication/286640011/figure/fig1/AS:614117949853697@1523428537089/nterconnected-Model-of-Professional-Growth-Clarke-and-Hollingsworth-2002-p-951.png)
