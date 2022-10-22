@@ -44,21 +44,21 @@ There are two major technology-related quirks that CTOs need to be aware of in t
 
 Additionally, the state budget runs on a fiscal year cycle beginning on July 1, and ending on June 30. It's possible to change a budget code or PRC for a purchase all the way up until June 30. This is because funding in some PRCs will roll in a districts ledger from year-to-year, while other funding reverts back to the state's general fund if it's not spent by June 30 (note: in order to be considered "spent", a purchase order has to be issued, received, invoiced, paid, and closed). PRC015 will roll from year-to-year. As a CTO, it's good practice to review your PRC015 expenditures at the end of each fiscal year and move them out of PRC015 into other non-recurring funds such that you can keep your PRC015 funds from year-to-year. Additionally, at the end of the year, most districts have a lot of money that is still unspent. As a CTO, it's advisable to keep a list of items that are needed in the district and that can be purchased and received quickly -- and to make sure your superintendent and finance officer know about this list, so that they'll call on you if there is money that needs to be spent. This technique has always served me well, and by scraping funding from different sources, I am typically able to double my budget at the end of each year. Superintendents would often rather see this money go to innovative technology programs than to frivolous purchases (or worse, a technology purchase that bypasses the tech department, which happens a lot in the end-of-year rush). 
 
-## CARES Act
+## COVID Relief Funds
 Nearly $390 million was made available to K-12 schools as a result of the CARES Act. An [allotment manual][15] describes these PRCs and how money may be used. There is quite a bit of money in this funding for technology, including money for digital content (PRC165), Canvas (PRC166), and computers and hotspots (though the funds can only be used to pay for hotspot devices and not service). 
 
 [1]:	https://www.dpi.nc.gov/districts-schools/district-operations/financial-and-business-services/demographics-and-finances/student-accounting-data
 [2]:	https://law.justia.com/cases/north-carolina/supreme-court/1997/179pa96-0.html
 [3]:	https://www.ncforum.org/wp-content/uploads/2019/12/Sound-Basic-Education-for-All-An-Action-Plan-for-North-Carolina.pdf
-[4]:	https://www.ncforum.org/2020-local-school-finance-study/
-[5]:	https://www.dpi.nc.gov/districts-schools/district-operations/financial-and-business-services/school-district-finance-operations/chart-accounts#working-documents-fy-2019-2020
+[4]:	https://www.ncforum.org/lsfs/
+[5]:	https://www.dpi.nc.gov/districts-schools/district-operations/financial-and-business-services/school-district-finance-operations/chart-accounts#working-documents-fy-2022-2023
 [6]:	https://files.nc.gov/dpi/documents/fbs/finance/reporting/coa/2020/fundcodes.pdf
-[7]:	https://files.nc.gov/dpi/documents/fbs/finance/reporting/coa/2020/purposesummary.pdf
-[8]:	https://files.nc.gov/dpi/documents/fbs/finance/reporting/coa/2020/programreportcodes.pdf
-[9]:	https://files.nc.gov/dpi/documents/fbs/finance/reporting/coa/2020/objectsummary.pdf
-[10]:	https://files.nc.gov/dpi/documents/fbs/finance/reporting/coa/2020/coaexcel.xls
-[11]:	https://files.nc.gov/dpi/documents/fbs/finance/reporting/coa/2020/attacha19-20.xls
-[12]:	https://files.nc.gov/dpi/documents/fbs/allotments/general/2018-19policymanual.pdf
+[7]:	https://www.dpi.nc.gov/media/15665/download?attachment
+[8]:	https://www.dpi.nc.gov/media/15785/download?attachment
+[9]:	https://www.dpi.nc.gov/media/15345/download?attachment
+[10]:	https://www.dpi.nc.gov/documents/fbs/finance/reporting/coa/coa-10-06-2022xls/download?attachment
+[11]:	https://schfin.dpi.state.nc.us/ReportDownload/AttachAExcel
+[12]:	https://www.dpi.nc.gov/media/8595/download
 [13]:	http://apps.schools.nc.gov/ords/f?p=144:1::::::
 [14]:	https://www.carolinajournal.com/news-article/court-gives-the-state-more-time-to-pay-730-million-judgment-in-lawsuit-over-school-technology-funds/
-[15]:	https://files.nc.gov/dpi/documents/fbs/apm-20-21-covid-manual-10-09-2020.pdf
+[15]:	https://www.dpi.nc.gov/districts-schools/district-operations/financial-and-business-services/covid-funds#esser-iii
