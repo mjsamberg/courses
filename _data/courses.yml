@@ -101,26 +101,26 @@ dlprograms:
           url: pl/5_online
         - title: Projects
           url: pl/projects
-    # 6:
-    #   title: "Funding"
-    #   home: funding/1_intro
-    #   pages:
-    #     - title: Introduction
-    #       url: funding/1_intro
-    #     - title: Funding in NC
-    #       url: funding/2_nc
-    #     - title: Budgeting
-    #       url: funding/3_budgeting
-    #     - title: Procurement
-    #       url: funding/4_procurement
-    #     - title: Grants
-    #       url: funding/5_grants
-    #     - title: E-Rate
-    #       url: funding/6_erate
-    #     - title: Disposition
-    #       url: funding/7_disposition
-    #     - title: Projects
-    #       url: funding/8_projects
+    6:
+      title: "Funding"
+      home: funding/1_intro
+      pages:
+        - title: Introduction
+          url: funding/1_intro
+        - title: Funding in NC
+          url: funding/2_nc
+        - title: Budgeting
+          url: funding/3_budgeting
+        - title: Procurement
+          url: funding/4_procurement
+        - title: Grants
+          url: funding/5_grants
+        - title: E-Rate
+          url: funding/6_erate
+        - title: Disposition
+          url: funding/7_disposition
+        - title: Projects
+          url: funding/8_projects
     # 7:
     #   title: "Security"
     #   home: cybersecurity/1_intro
