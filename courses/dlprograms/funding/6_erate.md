@@ -61,6 +61,9 @@ In North Carolina, districts and charters participate in the School Connectivity
 ## Support
 The E-Rate program is incredibly complex and time-consuming, but provides great benefit for school districts. North Carolina employs three E-Rate support coordinators out of DPI who are responsible for supporting districts in filing for E-Rate. E-Rate consultants, who work on commission, also support districts and private schools in filing for E-Rate and maximizing available benefits. 
 
+## COVID-19 Relief Funding
+The FCC allocated additional money during COVID for the [Emergency Connectivity Fund (ECF)](https://www.fcc.gov/emergency-connectivity-fund) to purchase broadband equipment and devices including hotspots and laptops. This represents an additional $158 million of COVID funding, specifically for technology, in North Carolina. 
+
 [1]:	https://www.fcc.gov/general/universal-service-fund
 [2]:	https://www.usac.org/
 [3]:	https://docs.fcc.gov/public/attachments/DA-21-1602A1.pdf
