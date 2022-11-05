@@ -13,6 +13,9 @@ Create a training module for users on the topic(s) of your choice throughout Uni
 ## Option 3: Create a BYOD Data Security Policy
 Create a policy for users who are accessing work data on personally owned devices. This should include encryption and password standards, data breach notifications, and other best practices (7 points). In your reflection, address the decisions you made, challenges you faced, and how you plan to monitor compliance (3 points).
 
+## Option 4: Create another cybersecurity Policy
+Create a policy for cybersecurity for a school district or organization. This should include encryption and password standards, data sharing notifications, and other best practices (7 points). In your reflection, address the decisions you made, challenges you faced, and how you plan to monitor compliance (3 points).
+
 ## Option 4: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 

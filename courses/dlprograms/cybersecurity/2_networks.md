@@ -30,6 +30,8 @@ The easiest thing you can do to protect a computer network from being a victim o
   
 In addition to workstations, any Internet connected device in your school is a potential attack vector. Your phones and phone systems, printers, HVAC systems, lighting systems, servers, applications, PA systems, etc. are all potential targets for attack or vectors that can be used to attack other systems. These systems can also be impacted by ransomware attacks (many phone systems have been compromised in ransomware attacks). These devices all need to be patched and maintained (which is another argument for standardization). In the event that a device can no longer be patched or upgraded, it is a liability and should be discarded.
 
+The Common Vulnerabilites and Exposures [(CVE) Database](https://www.cve.org) tracks security issues in hardware and software, and which patches will resolve them. 
+
 ## Anti-Malware Tools
 Beyond patching, there are a variety of tools that can proactively detect malware on a computer and prevent a computer from being infected or spread. [Google Suite][4] and [Office 365][5] feature built-in anti-phishing and anti-malware protection that can automatically detect and quarantine malware and flag potential phishing emails. Content filters like [ZScaler][6] and many firewalls can also proactively detect and block malware.  
 

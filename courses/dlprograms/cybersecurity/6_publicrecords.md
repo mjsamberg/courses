@@ -14,9 +14,9 @@ Employees are responsible for maintaining their own records that are created out
 
 When public records requests come in, a lawyer will typically review the request, pull the relevant records in cooperation with the CTO, and redact anything that needs to be redacted prior to release. Some of these requests may be significant - some newspapers have outstanding requests for "all emails". It is never the duty of the CTO, and a serious breach of professional ethics, to review or release public records without following district processes or consulting legal counsel. The CTO's responsibility is to ensure that districts have systems in place to store and retrieve records as required.
 
-The Department of Cultural Resources maintains responsibility for developing a [records retention schedule][3] that defines what districts must keep and for how long. An additional draft schedule [created by NCDCR and NCDPI is pending approval][4]. 
+The Department of Cultural Resources maintains responsibility for developing a [records retention schedule][3] that defines what districts must keep and for how long. An additional schedule has been [created by NCDCR and NCDPI ][4] for school records. 
 
 [1]:	https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/public_records_overview.pdf
 [2]:	https://support.google.com/vault/answer/2462365?hl=en
-[3]:	https://files.nc.gov/dncr-archives/documents/files/2019_local_standards_0.pdf
-[4]:	https://content.govdelivery.com/attachments/NCSBE/2020/02/28/file_attachments/1389126/LEA.2020.docx
+[3]:	https://archives.ncdcr.gov/government/state
+[4]:	https://archives.ncdcr.gov/media/810/open

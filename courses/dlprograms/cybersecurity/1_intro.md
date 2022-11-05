@@ -47,6 +47,15 @@ Ransomware is a form of malware that encrypts files on a computer such that a us
 ### Denial of Service
 A Denial of Service attack is where one computer (or lots of computers, in which case it's called a Distributed Denial of Service attack, or DDoS) generates lots of traffic to a website, network, or server. The purpose of this attack is not to steal data, but to crash the website or overwhelm a network. DoS attacks are hard to prevent, but typically, shutting down the impacted site, waiting for the attack to pass, and then bringing everything back up will mitigate this type of attack. Firewalls can also intelligently handle and adapt to DDoS attacks using a function called "rate limiting", where all requests from an IP address are automatically blocked above a certain threshold. 
 
+## Systems of Support  
+Cybersecurity can be overwhelming, especially in a district. In the climate we're in, it's not necessarily a matter of *if* a cyberattack will occur, but rather *when*. There are numerous supports available to a district, including:
+* The School Connectivity Initiative provides security assessments and vulnerability scans free of charge to NC school districts.
+* ESSER funds have been used in North Carolina to provide [KnowBe4](https://www.knowbe4.com/?hsLang=en) cyber training to all PSU employees, as well as [CrowdStrike Anti-Malware](https://www.crowdstrike.com/products/bundles/falcon-pro/).
+* The [Joint Cybersecurity Task Force](https://governor.nc.gov/news/press-releases/2022/03/16/governor-cooper-signs-executive-order-establishing-state-north-carolina-joint-cybersecurity-task) is the first point of response for all state and local agencies.
+* The [NC Local Government Information Systems Association (NCLGISA) Strike Team](https://www.nclgisa.org/page/strike-team) provides emergency supports to PSUs and local governments in the event of a disaster, including a cyberattack.
+* The [Multi-State Information Sharing and Analysis Center MS-ISAC](https://www.cisecurity.org/ms-isac) is a membership organization created by the Center for Internet Security that provides incident response, alerts, tracking, and tools to state and local governments. 
+* All of these organizations will typically also coordinate with law enforcement, including local authorities, the FBI, and in cases of financial fraud, the Secret Service. 
+
 [1]:	https://www.fi.ncsu.edu/resources/cybersecurity-in-k-12-an-overview-of-the-threat-landscape/
 [2]:	https://statescoop.com/Ransomware-Map/
 [3]:	https://www.charlotteobserver.com/news/politics-government/article189428824.html
