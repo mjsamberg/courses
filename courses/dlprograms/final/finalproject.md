@@ -2,9 +2,13 @@
 layout: page
 title: "Final Project"
 ---
-The final project for this course will be to create your **Philosophy Statement**. A Teaching Philosophy Statement is typically required for faculty interviews at universities, and is a narrative (typically 1-2 pages) about your beliefs about teaching and learning, how you teach, and a justification for your beliefs and methods. This statement becomes a part of your interview packet or portfolio that you would share with a potential employer to help them determine if your values and theirs are in alignment. While not a research paper, it should be grounded in research while conveying your values and beliefs and showing that you know how to operationalize them in a classroom. It can and should be written in first person and may be relatively informal (though should still use proper grammar and structure and should avoid the use of passive voice).   
+The final project for this course will be to create your **Philosophy Statement** - your statement on yourself as an educational technology leader.
 
-For this course, your final project will be to create your **Digital Learning Program Philosophy Statement**. Like a teaching philosophy statement, this will be your beliefs about digital learning programs in schools, how you would build one, and a justification for your beliefs and methods. You should create a usable product that is tailored to the role you want to move to next, whether you want to continue in the classroom or move on to be an instructional coach, curriculum specialist, a CTO, or something else. As a result, you may choose to title this a _coaching philosophy_ or a _leadership philosophy_ as appropriate. The statement should include your views with respect to at least two of the elements from this course: visioning, digital content, technology infrastructure, professional learning, funding, or cybersecurity. 
+A Teaching Philosophy Statement is typically required for faculty interviews at universities, and is a narrative (typically 2-3 pages) about your beliefs about teaching and learning, how you teach, and a justification for your beliefs and methods. This statement becomes a part of your interview packet or portfolio that you would share with a potential employer to help them determine if your values and theirs are in alignment. While not a research paper, it should be grounded in research while conveying your values and beliefs and showing that you know how to operationalize them in a classroom. It can and should be written in first person and may be relatively informal (though should still stick to grammatical norms that you would want a potential employer to be impressed by).   
+
+For this course, your final project will be to create your **Digital Learning Program Philosophy Statement**. Like a teaching philosophy statement, this will be your beliefs about digital learning programs in schools, how you would build one, and a justification for your beliefs and methods. You should create a usable product that is tailored to the role you want to move to next, whether you want to continue in the classroom or move on to be an instructional coach, curriculum specialist, a CTO, or something else. As a result, you may choose to title this a _coaching philosophy_ or a _leadership philosophy_ as appropriate. Again, think about it as your statement on how you want to lead, where you want to lead. It could also aptly be described as an "operationalizable vision statement" as well.
+
+ The statement should include your views with respect to at least three of the elements from this course: visioning, digital content, technology infrastructure, professional learning, funding, or cybersecurity. 
 
 ## Relevant Guidance
 While the guidance presented focuses exclusively on teaching philosophy statements, the guidance is relevant to positions and responsibilities beyond teaching. 
@@ -36,12 +40,12 @@ The assignment will be worth 10 points, as follows:
 [1]:	https://cei.umn.edu/writing-your-teaching-philosophy
 [2]:	https://gradschool.cornell.edu/academic-progress/pathways-to-success/prepare-for-your-career/take-action/teaching-philosophy-statement/
 [3]:	https://www.sciencemag.org/careers/2006/04/writing-teaching-statement
-[4]:	https://ucat.osu.edu/professional-development/teaching-portfolio/philosophy/
+[4]:	https://drakeinstitute.osu.edu/instructor-support/teaching-portfolio-development/philosophy-teaching-statement
 [5]:	https://www.celt.iastate.edu/teaching/document-your-teaching/writing-a-teaching-philosophy-statement/
 [6]:	https://www.chronicle.com/article/How-to-Write-a-Statement-of/45133
 [7]:	https://www.depts.ttu.edu/tlpdc/Resources/Teaching_resources/TLPDC_teaching_resources/Documents/WritingYourTeachingPhilosophywhitepaper.pdf
 [8]:	https://www.thoughtco.com/teaching-philosophy-examples-2081517
-[9]:	https://oregonstate.edu/instruct/ed416/sample.html
-[10]:	https://teach.its.uiowa.edu/sites/teach.its.uiowa.edu/files/docs/docs/Philosophy_of_Teaching_Statement_ed.pdf
+[9]:	https://career.oregonstate.edu/sites/career.oregonstate.edu/files/research_and_teaching_statements.pdf
+[10]:	https://webcache.googleusercontent.com/search?q=cache:cxYseXq3PesJ:https://teach.its.uiowa.edu/sites/teach.its.uiowa.edu/files/docs/docs/Philosophy_of_Teaching_Statement_ed.pdf&cd=1&hl=en&ct=clnk&gl=us&client=safari
 [11]:	https://blogs.illinois.edu/files/1499/180076/103546.pdf
 [12]:	http://www2.gvsu.edu/morseli/philosophy.pdf

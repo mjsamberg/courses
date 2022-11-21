@@ -139,6 +139,14 @@ dlprograms:
           url: cybersecurity/6_publicrecords
         - title: Projects
           url: cybersecurity/projects
+    8:
+    title: "Final: Self as Leader"
+    home: final/leadership
+    pages:
+      - title: Self as a Leader
+        url: final/leadership
+      - title: Final Project
+        url: final/finalproject
 webdev:
   title: "Introduction to Website and Web App Development"
   shorttitle: "Web/App Dev"
