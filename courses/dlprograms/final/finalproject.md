@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Final Project"
+course: "dlprograms"
+unit: 8
 ---
 The final project for this course will be to create your **Philosophy Statement** - your statement on yourself as an educational technology leader.
 
