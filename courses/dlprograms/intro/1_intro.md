@@ -7,7 +7,11 @@ unit: 1
 
 This unit will explore the definition and origins of the term "digital learning". At the core, the term "digital learning" has evolved into shorthand for the transition from the "traditional" model of education to a model that aims to disrupt this model by leveraging emerging technologies. This includes a wide array of ideas, from simply using laptops in classrooms to radically redefining some of the basic tentpoles of our education system such as the [Carnegie Unit][1] or placing students in grade levels or requiring students to attend school in a physical building.
 
-The [Alliance for Excellent Education][2], a non-profit organization that promotes digital and personalized learning (and also coordinates National Digital Learning Day), defines "digital learning" as: 
+For many years, students were classified as "digital natives" as having grown up with technology while adults were considered "digital immigrants" having come to technology in adulthood. The belief was that "digital natives" required technology to be engaged in learning and that students would be more engaged in technology-based lessons. Adults, on the other hand, would struggle to adapt new technologies into instructional contexts. In reality, the iPad was invented in 2010 and the Chromebook was released in 2011 so many students were in school in a time before these technologies were widespread. Also, most teachers with less than ten years of expereince are now considered "digital natives" by the definition. While we know that the way students interact with technology is different (see video below) and that many kindergartners enter a computer lab expecting a touchscreen device, we also know that the use of technology does not automatically yield increased engagement - engaging lessons increase engagement. We will discuss this in more detail later in the course.
+
+{% include youtube.html id="jTH3ob1IRFo" ratio="16x9" title="It's on the App! | Phones | Bluey" %}
+
+To encapsulate the impact and best practies around digital learning, the [Alliance for Excellent Education][2], a non-profit organization that promotes digital and personalized learning (and also coordinates National Digital Learning Day), defines "digital learning" as: 
 > Digital learning is any instructional practice that effectively uses technology to strengthen a student’s learning experience. It emphasizes high-quality instruction and provides access to challenging content, feedback through formative assessment, opportunities for learning anytime and anywhere, and individualized instruction to ensure all students reach their full potential to succeed in college and a career.
 
 The [North Carolina Digital Learning Plan][3] further operationalized this definition by comparing traditional learning models with digital-age learning models:
@@ -44,7 +48,7 @@ The [Future Ready Initiative][16] launched in November, 2014 as a partnership be
 
 [1]:	https://www.carnegiefoundation.org/faqs/carnegie-unit/
 [2]:	https://all4ed.org/digital-learning-day/
-[3]:	https://www.fi.ncsu.edu/resources/north-carolina-digital-learning-plan-detailed-plan-september-2015/
+[3]:	https://www-data.fi.ncsu.edu/wp-content/uploads/2021/02/25131437/dlplan.pdf
 [4]:	https://www.commonsensemedia.org/articles/do-tweens-and-teens-believe-fake-news
 [5]:	https://hbr.org/1998/05/the-alternative-workplace-changing-where-and-how-people-work
 [6]:	https://www.forbes.com/sites/shelcyvjoseph/2019/10/17/forget-work-life-balance-try-achieving-work-life-blend-instead/#68eae943d946
