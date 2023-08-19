@@ -11,6 +11,7 @@ For many years, students were classified as "digital natives" as having grown up
 
 {% include youtube.html id="39qhYmxqh_c" ratio="16x9" title="It's on the App! | Phones | Bluey" %}
 
+
 To encapsulate the impact and best practies around digital learning, the [Alliance for Excellent Education][2], a non-profit organization that promotes digital and personalized learning (and also coordinates National Digital Learning Day), defines "digital learning" as: 
 > Digital learning is any instructional practice that effectively uses technology to strengthen a student’s learning experience. It emphasizes high-quality instruction and provides access to challenging content, feedback through formative assessment, opportunities for learning anytime and anywhere, and individualized instruction to ensure all students reach their full potential to succeed in college and a career.
 
