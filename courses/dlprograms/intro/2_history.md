@@ -35,7 +35,7 @@ Throughout the 90s and 2000s, schools began to recognize the power of technology
 However, technology faced an affordability problem. The [OLPC project][15] aimed to fix this, by creating a laptop that cost $100 and was designed for places with limited access to connectivity and electricity. While this device failed, it led the development of devices such as Netbooks and Chromebooks which eventually made technology more affordable ([Moore’s law][16] is also a huge driver of costs in education):
 {% include youtube.html id="PM33EEAszHA" ratio="16x9" title="The One Laptop Per Child Project" %}
 
-We will discuss more of the COVID-19 implications throughout the course. However, it remains to be seen how and what impact it will have long-term. We know that the [edtech software landscape has changed](https://www.edweek.org/technology/pandemic-tech-tools-that-are-here-to-stay/2022/03), and that there remain [equity gaps that need to be addressed](https://learnplatform.com/insights/infographic/2020-digital-equity-in-review) in terms of technology and [Internet access gaps](https://nces.ed.gov/blogs/nces/post/students-internet-access-before-and-during-the-coronavirus-pandemic-by-household-socioeconomic-status). Also, while we know that learning remotely isn't anything new (North Carolina has had distance learning efforts dating back 30+ years), there is likely to be some pushback against remote learning, leading some to create a taxonomy of remote learning: 
+We will discuss more of the COVID-19 implications throughout the course. However, it remains to be seen how and what impact it will have long-term. We know that the [edtech software landscape has changed](https://www.edweek.org/technology/pandemic-tech-tools-that-are-here-to-stay/2022/03), and that there remain [equity gaps that need to be addressed](https://public.tableau.com/app/profile/john.parker2994/viz/DigitalEquityDashboardV2/Story1) in terms of technology and [Internet access gaps](https://nces.ed.gov/blogs/nces/post/students-internet-access-before-and-during-the-coronavirus-pandemic-by-household-socioeconomic-status). Also, while we know that learning remotely isn't anything new (North Carolina has had distance learning efforts dating back 30+ years), there is likely to be some pushback against remote learning, leading some to create a taxonomy of remote learning: 
 
 * **Traditional Instruction:** This describes in-school, synchronous classes, as most of us were used to before COVID-19. This term is not used pejoratively, simply as a way to define our baseline. It is not referring to any type of particular methodology here (i.e. lecture vs. project-based learning).
 
@@ -47,6 +47,7 @@ We will discuss more of the COVID-19 implications throughout the course. However
 
 * **Blended learning** refers to a combination of synchronous and asynchronous activities, whether physical or virtual.
 
+The most recent revolution in educational technology is the rise of artificial intelligence. ChatGPT's release in November of 2022 spurned an AI revolution and most people, even if they are not technically savvy, are aware of the capability of artificial intelligence. Much of the world of AI is still in early development and teachers have been using AI for a variety of tasks from [lesson design]( https://www.weareteachers.com/chatgpt-for-teachers/) to [intelligent tutoring]( https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/). The [ethics and guidelines for the use of AI in the classroom](https://tech.ed.gov/ai/) are still in their infancy. While a developing and powerful tool, teachers and students are still learning to navigate issues of [plagiarism]( https://www.wired.com/story/chatgpt-college-university-plagiarism/), [bias](https://www.brookings.edu/articles/the-politics-of-ai-chatgpt-and-political-bias/), and [factually inaccurate information](https://www.fastcompany.com/90833017/openai-chatgpt-accuracy-gpt-4). These have not necessarily been barriers to adoption, but considerations for best practices. However, while some schools have embraced these tools to find their place in the classroom, other districts [have banned their use](https://www.nbcnews.com/tech/tech-news/new-york-city-public-schools-ban-chatgpt-devices-networks-rcna64446).
 
 [1]:	https://americanhistory.si.edu/mobilizing-minds/overhead-projectors
 [2]:	https://en.wikipedia.org/wiki/Ballpoint_pen
@@ -57,9 +58,9 @@ We will discuss more of the COVID-19 implications throughout the course. However
 [7]:	http://teachingmachin.es/timeline.html
 [8]:	https://www.bfskinner.org/wp-content/uploads/2014/02/teaching-machines-1958.pdf
 [9]:	https://www.amazon.com/Friendly-Orange-Glow-Untold-Cyberculture/dp/B0777XSZKW/ref=sr_1_1?keywords=PLATO+orange+glow&qid=1577810197&sr=8-1
-[10]:	https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxha2hsYWdoZWF8Z3g6NzgyOWYxNWNjMjE5ZjVh
+[10]:	https://dl.acm.org/doi/pdf/10.5555/1095592
 [11]:	https://medium.com/bits-and-behavior/mindstorms-what-did-papert-argue-and-what-does-it-mean-for-learning-and-education-c8324b58aca4
-[12]:	http://www.ascd.org/publications/educational-leadership/apr94/vol51/num07/Apple-Classrooms-of-Tomorrow@-What-We%27ve-Learned.aspx
+[12]:	https://www.ascd.org/el/articles/apple-classrooms-of-tomorrow-what-weve-learned
 [13]:	http://hackeducation.com/2015/03/02/maine-laptops
 [14]:	https://www.edutopia.org/discussion/what-research-says-about-11
 [15]:	http://one.laptop.org

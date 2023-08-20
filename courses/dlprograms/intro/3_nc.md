@@ -34,6 +34,6 @@ In June of 2019, 16 of 115 North Carolina School Districts had a 1:1 computing i
 [4]:	http://www.fi.ncsu.edu
 [5]:	https://www.mcnc.org/
 [6]:	https://www.macworld.com/article/1027665/microsoft.html
-[7]:	https://www.fi.ncsu.edu/resources/north-carolina-digital-learning-plan-detailed-plan-september-2015/
-[8]:	https://www.fi.ncsu.edu/teams/ncdli/
+[7]:	https://www-data.fi.ncsu.edu/wp-content/uploads/2021/02/25131437/dlplan.pdf
+[8]:	https://www.dpi.nc.gov/districts-schools/districts-schools-support/digital-teaching-and-learning/digital-learning-initiative
 [9]:	https://www.dpi.nc.gov/districts-schools/districts-schools-support/digital-teaching-and-learning/dtl-standards#nc-educators-digital-learning-competencies
