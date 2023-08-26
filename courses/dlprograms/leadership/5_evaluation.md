@@ -37,5 +37,7 @@ As stated earlier, evaluation is ongoing in nature. The question of "how did it 
 ## Disseminating Results
 There is no set format for evaluation - it should be actionable for all. This may mean producing different products for different audiences - reports for superintendents and boards, presentations for teachers, video stories for parents and students.
 
+Increasingly, dissemination is taking the form of [data visualizations](https://www.tableau.com/learn/articles/data-visualization).  Examples of this are provided by many vendors and providers, such as the [Ed-Fi platform](https://techdocs.ed-fi.org/display/DASH14/Dashboard+Usage+Module). Examples of other data visualizations [are available here](https://venngage.com/blog/what-is-an-infographic/).
+
 [1]:	https://en.wikipedia.org/wiki/CIPP_evaluation_model
 [2]:	https://www.mindtools.com/pages/article/kirkpatrick.htm

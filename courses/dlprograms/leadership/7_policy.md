@@ -24,14 +24,16 @@ An [Acceptable Use Policy][4] defines which behaviors are acceptable for the use
 
 Increasingly, AUPs have been shifting to become "Responsible Use Policies", or RUPs. An [RUP differs from an AUP][8] in that it is framed more positively, less as a legalese "list of things you can't do" and more as a student-friendly "here's what we expect from you". Responsible use policies are still new and tend to be melded with AUPs, but [here is a sample of one][9]. 
 
+CoSN has put together a [guide for responsible use policies](https://www.cosn.org/tools-and-resources/resource/creating-effective-responsible-use-policies-for-schools/).
+
 ## State Laws
 ### North Carolina Public Records Law
 Any "record made or received in the transaction of public business" is considered a [public record in North Carolina][10]. This includes all paper and electronic records. LEAs are responsible for making best-effort attempts to store all public records (such as archiving emails), but employees are also responsible for saving any paper records that are applicable. Messages with short-term value (such as "meeting today at 10AM") are not subject to public records laws once their value has elapsed, and personal communications made via school-owned accounts are also not subject to public records laws (however, the reverse is true - an eligible public record sent via a personal account is still subject to public records laws). Personnel records (except for name, title, and salary) and FERPA protected records are also not eligible to be disclosed, except in certain circumstances. Any person has the right to request public records and are entitled to receive them at minimal cost "in any and all media in which the agency is capable of providing them. No request for copies of public records in a particular medium shall be denied on the grounds that the custodian has made or prefers to make the public records available in another medium." Public records are also required to be furnished as "promptly as possible". A requestor does not have the right to ask for an analysis of records (for example, turning over all salary data is an acceptable response to "a list of every employee making over $50,000). Typically in a records request scenario, a records custodian will pull and review all applicable records,  redact any data that are ineligible for release, and release the record. Even text messages are [subject to public records laws][11].
 
-Records must be saved, archived, and discarded according to the [General Retention Schedule][12] which is administered by the [State Archives of North Carolina][13]. This schedule must be adopted by the local school board each time it changes. The Department of Public Instruction also produces a schedule in partnership with the State Archives for [programmatic data (currently in revision)][14].
+Records must be saved, archived, and discarded according to the [General Retention Schedule][12] which is administered by the [State Archives of North Carolina][13]. This schedule must be adopted by the local school board each time it changes. The Department of Public Instruction also produces a schedule in partnership with the State Archives for [programmatic data][14].
 
 ### GS 115C-401.2.
-[NC General Statue 115C-401.2][15] dictates what can be done with student data online. For example, sites cannot  use student data to market to them, create student data profiles, or sell student information. The law also has security provisions for how operators may store data.
+[NC General Statue 115C-401.2][15] (also known as "Article 29") dictates what can be done with student data online. For example, sites cannot  use student data to market to them, create student data profiles, or sell student information. The law also has security provisions for how operators may store data.
 
 ## Federal Laws
 There are four federal laws that all technology directors should be very familiar with: FERPA, COPPA, CIPA, PPRA, and IDEA. Much of the content of these policies needs to be considered when using third party apps. The license agreements in most software packages aren't often read, but can have significant legal implications for school districts. License agreements are contracts, and only the School Board may legally sign a contract on behalf of the District, though they may delegate that authority for certain situations. Therefore, when you as a CTO or a Principal adopt a software package, you are entering in to a legally binding agreement and are subject to all Federal privacy laws.
@@ -73,20 +75,23 @@ The HIPPA act, passed in 1996, contains numerous provisions about medical record
 ## COVID-19 and Digital Policy
 In the wake of COVID-19, and the significant increase in both the frequency and variety of educational technology tools used, schools are [struggling to protect student data](https://www.edweek.org/technology/there-are-so-many-issues-why-schools-are-struggling-to-protect-student-data/2022/04) and to enact policies to vet digital resources prior to use (which we will cover in greater detail in future units). This will likely lead to [additional policy levers in the future](https://er.educause.edu/articles/2020/8/the-post-pandemic-evolution-of-student-data-privacy) to protect student data.
 
+## New Data Sharing policy
+In response to Article 29, FERPA, the increases in tools in use from COVID, and the fact that nearly 80% of cybersecurity breaches start with third party providers the Department of Public Instruction has released new [data sharing guidelines for K-12 schools](https://www.dpi.nc.gov/about-dpi/technology-services/third-party-data-integration). Schools have had to increase vetting of digital resources for cybersecurity. We will discuss this more in later units. 
+
 [1]:	https://www.uft.org/files/attachments/doe-social-media-guidelines.pdf
 [2]:	https://www.jpsk12.org/cms/lib/MI01908028/Centricity/Domain/505/JPS%202017-%202018%20Social%20Media%20Policy%20staff%20final.pdf
 [3]:	https://dmlhub.net/wp-content/uploads/files/MakingProgress_Report.pdf
 [4]:	https://bplawassets.learningaccelerator.org/artifacts/pdf_files/Revised-AUP-March-2013_final.pdf
-[5]:	http://www.bpsedtech.org/wp-content/uploads/2017/08/BPS-AUP.pdf
-[6]:	https://www.wcpss.net/Page/13046
+[5]:	https://www.falmouth.k12.ma.us/Page/2956
+[6]:	https://www.wcpss.net/cms/lib/NC01911451/Centricity/Domain/147/Technology%20Policy.pdf
 [7]:	https://www.bostonpublicschools.org/domain/2330
 [8]:	https://www.thomascmurray.com/blog/usepolicy
 [9]:	http://www.needham.k12.ma.us/UserFiles/Servers/Server_64429/File/Departments/Responsible%20Use%20of%20Digital%20Resources%20Policy.pdf
 [10]:	https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/public_records_overview.pdf
 [11]:	https://canons.sog.unc.edu/text-messages-as-public-records/
-[12]:	https://files.nc.gov/dncr-archives/documents/files/2019_local_standards_0.pdf
+[12]:	https://archives.ncdcr.gov/government
 [13]:	https://archives.ncdcr.gov
-[14]:	https://ncrecords.files.wordpress.com/2019/10/lea.2020_draftforreview.docx
+[14]:	https://archives.ncdcr.gov/local-public-school-units-schedule/open
 [15]:	https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_115C/Article_29.pdf
 [16]:	https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html
 [17]:	https://studentprivacy.ed.gov/node/548/

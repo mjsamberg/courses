@@ -61,7 +61,7 @@ Related to option 4, synthisize a [quick, effective classroom walkthrough instru
 
 ## Option 6: Conduct a policy review of barrier and enabler policies to digital-age learning
 The policies and procedures within a district can help encourage digital-age learning or can act as a deterrent to adoption. For this project, you will:
-* Review your district and school policy and procedures manual.
+* Review your organization, district, and/or school policy and procedures manual.
 * Identify elements of policies and procedures that support and enable your school's vision for digital-age learning, and elements of policies and procedures that are barriers.
 * Complete a write-up identifying the policies and procedures in question, and how the elements within the policy or procedure enable digital-age learning or act as a barrier.
 
@@ -80,11 +80,11 @@ In Unit 2, we discuss the need for transitioning from _Acceptable Use Policies_ 
 * 2 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
 * 1 point: Write-up addresses the challenges faced when writing the RUP.
 
-## Option 87: Create a branding toolkit for your school/district
+## Option 8: Create a branding toolkit for your organization/school/district
 Consistency in branding and marketing is a critical component to being able to tell your story consistently and cleanly online. In this assignment, you will:
-* Create a branding toolkit for your district that includes colors, fonts, tone, imagery, and social media standards.
-* Create a branded story for your school's digital-age learning program. This is a one-pager using your school's brand that articulates the vision, the logic model, and the experiential "warm fuzzy" impact of your DL program. The document should look professional, be compelling, and be geared towards generating buy-in from a variety of audiences.
-* Create at least three templates for use, including PowerPoint, letterhead, webpage, flyer, etc. 
+* Create a branding toolkit for your organization (school, district, company)'s digital-age learning program that includes colors, fonts, tone, imagery, and social media standards. If your organization already has a branding toolkit (or part of one), your brand should be inclusive of the larger brand.
+* Create a branded story for your digital-age learning program. This is a one-pager using your school's brand that articulates the vision, the logic model, and the experiential "warm fuzzy" impact of your DL program. The document should look professional, be compelling, and be geared towards generating buy-in from a variety of audiences.
+* Create at least three templates for use by the digital-age learning program, including PowerPoint, letterhead, webpage, flyer, etc.
 * Complete a brief reflection explaining your choices, how they reflect your school's brand, and any compromises or challenges faced.
 
 ### Grading

@@ -15,7 +15,7 @@ In [North Carolina, Personalized Learning][3] includes four areas as a part of o
   <cite class="mx-auto d-block">Source: NC Department of Public Instruction</cite>
 </figure>
 
-NC DPI has created a [Personalized Learning Matrix][5] worksheet and [exploration guides]() for schools to better understand personalized learning. 
+NC DPI has created a [Personalized Learning Matrix][5] worksheet and [exploration guides](https://sites.google.com/dpi.nc.gov/personalizedlearning) for schools to better understand personalized learning. 
 
 Charlotte-Mecklenburg schools has also developed a personalized learning model and has made their [playbook][7] available for others to reference and use.
 <div class="text-center"><iframe src="https://docs.google.com/file/d/1nZcKz0KE6z2BlGxfSlDpA53NODqcsvea-fMLN2tMrc0/preview" width="640" height="480" style="margin-left: auto; margin-right: auto"></iframe></div>
@@ -27,7 +27,7 @@ The [ISTE Standards for students][8] are the most commonly used student standard
 
 ![ISTE Standards][image-2]{:class="mx-auto d-block"}
 
-[North Carolina has established digital learning competencies][14] for teachers and for administrators as well as standards and evaluation criteria for ITFs.
+North Carolina has established digital learning competencies for teachers and for administrators as well as standards and evaluation criteria for ITFs. In 2022-2023, these competencies were replaced with the ISTE standards for teachers for greater alignment to national standards and to reflect the statewide partnership with ISTE. 
 
 ## Technology Integration Matrix
 The [Technology Integration Matrix][15] was developed by the University of South Florida and provides a framework for the use of technology to address learning across five domains: active engagement, collaboration, knowledge construction, authentic learning, and goal-directed learning. The Matrix is particularly useful to teachers as each cell in the Matrix has example indicators, lesson plans, and videos. The TIM site also has rich supporting resources, including coaching tools and surveys.
@@ -72,21 +72,21 @@ The TPaCK framework is not an instructional design model. The CPR model is a dif
 
 [1]:	https://www.understood.org/en/school-learning/partnering-with-childs-school/instructional-strategies/personalized-learning-what-you-need-to-know
 [2]:	https://lvp.digitalpromiseglobal.org/
-[3]:	https://3e9eq82l8dmn2cmrkf23oogn-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/pic1-1023x410.png
+[3]:	https://www.dpi.nc.gov/districts-schools/districts-schools-support/digital-teaching-and-learning/digital-learning-initiative/personalized-learning
 [4]:	https://www.dpi.nc.gov/districts-schools/federal-program-monitoring/every-student-succeeds-act-essa
 [5]:	https://docs.google.com/document/d/12L6hdgyyqH7taWlpuIe2y42nhWgZBqVgUYtX1mgQ9qg/edit?usp=sharing
-[7]:	https://sites.google.com/cms.k12.nc.us/cmspdl/design/pdl-toolkit
+[7]:	https://sites.google.com/cms.k12.nc.us/cmspdl/on-demand/resource-toolkit?authuser=0
 [8]:	https://www.iste.org/standards/for-students
 [9]:	https://www.iste.org/standards/for-educators
 [10]:	https://www.iste.org/standards/for-education-leaders
 [11]:	https://www.iste.org/standards/for-coaches
-[12]:	https://www.iste.org/standards/for-computer-science-educators
+[12]:	https://csteachers.org/teacherstandards/
 [13]:	https://www.iste.org/standards/computational-thinking
 [14]:	https://www.dpi.nc.gov/districts-schools/districts-schools-support/digital-teaching-and-learning/dtl-standards
 [15]:	https://fcit.usf.edu/matrix/matrix/
 [16]:	https://www.pblworks.org/what-is-pbl/gold-standard-project-design
 [17]:	https://www.pblworks.org/what-is-pbl/gold-standard-teaching-practices
-[18]:	https://learning.mozilla.org/en-US/web-literacy
+[18]:	https://foundation.mozilla.org/en/initiatives/web-literacy/
 [19]:	https://clalliance.org/
 [20]:	http://www.tpack.org/
 [21]:	http://hippasus.com/rrpweblog/archives/2015/10/SAMR_ABriefIntro.pdf
