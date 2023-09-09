@@ -21,4 +21,4 @@ Additionally, while resources are free, there is significant work involved in cu
 [6]:	http://www.merlot.org/merlot/index.htm
 [7]:	https://www.oercommons.org/
 [8]:	https://goopennc.oercommons.org/
-[9]:	https://www.fi.ncsu.edu/resources/open-educational-resources-oer-in-the-k-12-curriculum-overcoming-obstacles-to-oer/
+[9]:	https://www-data.fi.ncsu.edu/wp-content/uploads/2021/03/03124931/oer.pdf

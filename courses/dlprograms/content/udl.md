@@ -8,13 +8,13 @@ Captions and transcripts are useful for people with hearing difficulties, but al
 
 {% include youtube.html id="4eBmyttcfU4" ratio="16x9" title="Todd Rose: The Myth of Average" %}
 
-In the next section, we’ll talk a bit more about accessibility. But let’s look at captions for one example. Captions, by law, are required for students who are [d/Deaf or hard of hearing][1]. However, any people use captions at gyms and restaurants, (back when we could all go to those places), to follow along with a TV in a crowded environment. Captions [also have tremendous value for students with autism, ADHD, Down's syndrome, and English learners][2]. The addition of captions makes the video accessible to a group that didn't have access before, but it also makes the experience better for everyone if students are shown how to leverage these tools.
+In the next section, we’ll talk a bit more about accessibility. But let’s look at captions for one example. Captions, by law, are required for students who are [d/Deaf or hard of hearing][1]. However, any people use captions at gyms and restaurants, (back when we could all go to those places), to follow along with a TV in a crowded environment. Captions [also have tremendous value for students with autism, ADHD, Down's syndrome, and English learners][2]. The addition of captions makes the video accessible to a group that didn't have access before, but it also makes the experience better for everyone if students are shown how to leverage these tools. In fact, the [majority of Millennials and Gen Z Americans prefer subtitles in their TV viewing](https://www.ypulse.com/article/2022/11/22/the-majority-of-young-people-are-using-subtitles-when-they-watch-tv/). 
 
 > This is one of the key principles behind [Universal Design for Learning][3] - "designing for those on the margins improves the experience for all".
 
-UDL emerges from [principles of Universal Design](https://projects.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf) created by Dr. Ronald Mace at NC State University's school of Design. The [Center for Universal Design](https://projects.ncsu.edu/ncsu/design/cud/index.htm)  which focused on creating physical spaces and designs that were accessable to all. The center has shut down in 2004 due to funding challenges after the passing of Dr. Mace. 
+UDL emerges from [principles of Universal Design](https://design.ncsu.edu/wp-content/uploads/2022/11/principles-of-universal-design.pdf) created by Dr. Ronald Mace at NC State University's school of Design. The [Center for Universal Design](https://design.ncsu.edu/research/center-for-universal-design/)  which focused on creating physical spaces and designs that were accessable to all. The center has shut down in 2004 due to funding challenges after the passing of Dr. Mace. 
 
-## [Review the Universal Design Guidelines](https://projects.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf)
+## [Review the Universal Design Guidelines](https://design.ncsu.edu/wp-content/uploads/2022/11/principles-of-universal-design.pdf)
 
 We know that all students learn differently. [Universal Design for Learning][4], a framework designed by Anne Meyer and David Rose, supports teachers in designing high-quality learning experiences for all learners. While this includes accessible content, it is much more. UDL is designed to support all students, presenting materials in multiple ways, giving students flexibility to interact with the material in the way that works best for them, and provides for different ways for students to express their knowledge. The intent of a UDL classroom is inaccurately summarized as an "IEP for all students", providing each with the supports and accommodations they need, which can reduce stigma for all students and provide them the tools they need.
 
@@ -34,7 +34,7 @@ The UDL framework recommends providing multiple means of:
 
 ## [Review the UDL Guidelines][5] by clicking through the links in the rubric.
 
-[1]:	https://blog.ai-media.tv/blog/the-difference-between-deaf-and-hard-of-hearing
+[1]:	https://www.connecthear.org/post/the-difference-between-d-deaf-hard-of-hearing-and-hearing-impaired
 [2]:	https://www.rev.com/blog/how-captions-benefit-more-than-the-deaf-and-hard-of-hearing
 [3]:	http://udlguidelines.cast.org/
 [4]:	http://udlguidelines.cast.org/

@@ -14,7 +14,7 @@ Executive functioning is described as the "secretary system of the brain". Execu
 * **Cognitive Flexibility** - The ability to switch between tasks and to examine a task from multiple perspectives.
 * **Inhibitory Control ** - The ability to control behavior and self-monitor.
 
-Students who struggle with executive functioning issues may sometimes be labeled as having ADHD, as ADHD is a problem with executive functioning. Students who struggle with executive function can sometimes be incorrectly labeled as having a disability. However, executive functioning skills are not innate, and can be taught or supported.
+Students who struggle with executive functioning issues may sometimes be labeled as having ADHD. Students who struggle with executive function can sometimes be incorrectly labeled as having a disability. However, executive functioning skills are not innate and can be taught or supported.
 
 People struggling with executive functioning skills may have trouble starting or working through tasks, have trouble with changing routines or setting goals, have trouble organizing their thoughts, or have difficulty following directions and managing their time. 
 
