@@ -71,4 +71,4 @@ BYOD requires a policy. The following questions are helpful in defining the poli
 	* Can devices be banned from the network if they’re causing too much or harmful network traffic?  
 
 [1]:	https://www.tolerance.org/magazine/fall-2014/byod-bring-your-own-device
-[2]:	https://online-distance.ncsu.edu/get-started/technology-requirements/
+[2]:	https://oit.ncsu.edu/my-it/hardware-software/your-computer/
