@@ -14,15 +14,15 @@ Redesigning furniture spaces in classrooms is about creating spaces to match the
 
 Some schools also purchase sensory-friendly furniture, such as [wobble stools][14] and exercise balls for students who need to fidget in their chair. There is some research that the use of these [chairs can be significantly beneficial for students with Autism][15] while other research indicates that these types of furniture may be detrimental for students with limited core strength.
 
-Another consideration in a 1:1 environment is access to power. Even if students brought their laptops to school charged each day, heavy use combined with battery aging means that eventually students will need to recharge before the end of the day. Ensuring there are enough power strips safely around the room (cables secured to the floor so they aren't a tripping hazard) or enough wall-mounted receptacles is going to be important for students to be able to use their devices. In the absence of sufficient power, external battery packs such as the [OmniCharge][16] are an expensive but viable option for classrooms. 
+Another consideration in a 1:1 environment is access to power. Even if students brought their laptops to school charged each day, heavy use combined with battery aging means that eventually students will need to recharge before the end of the day. Ensuring there are enough power strips safely around the room (cables secured to the floor so they aren't a tripping hazard) or enough wall-mounted receptacles is going to be important for students to be able to use their devices. In the absence of sufficient power, external battery packs such as the [OmniCharge][16] are an expensive but viable option for classrooms, with prices that continue to decrease. 
 
-[1]:	https://futureofearth.online/20-innovative-workspaces/
+[1]:	https://www.creativebloq.com/design/design-offices-912828
 [2]:	https://twitter.com/NMS_Knights/status/960630828115152896?s=20
 [3]:	https://twitter.com/irasocol/status/1118294525766774785?s=20
 [4]:	https://www.instagram.com/p/BDGm_VpPUvc/
 [5]:	https://www.wcpss.net/a-space-to-learn
 [6]:	https://www.wcpss.net/Page/247
-[7]:	https://www.k12albemarle.org/dept/osp/facilities-planning/Pages/Learning-Space-Modernization.aspx
+[7]:	https://web.archive.org/web/20170311143938/https://www.k12albemarle.org/dept/osp/facilities-planning/Pages/Learning-Space-Modernization.aspx
 [8]:	https://www.k12albemarle.org/dept/osp/building/Pages/capital-improvement-program.aspx
 [9]:	https://norvanivel.com
 [10]:	https://www.schooloutfitters.com/catalog/index/?kw_cid=classroom%20furniture&sc_cid=classroom%20furniture%7CPPCsearch%7Ce%7C102702936617%7CSOGLONG1003430%7CHome%25Page%7CClassroom%25Furniture%7CGoogle%7C&gclid=Cj0KCQiA7aPyBRChARIsAJfWCgKqB2CoE_ex2Po0QU605L0cspb-4K1xsWqI1iqPyUI0VvJEx0O33PoaAqg1EALw_wcB
