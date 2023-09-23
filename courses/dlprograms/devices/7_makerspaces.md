@@ -6,7 +6,7 @@ unit: 4
 ---
 More and more, schools are integrating "[makerspaces][1]", usually in the library or another common area. A makerspace is a space designed for students to explore creativity and STEM education in a hands-on way. Critically, makerspaces should be about **making** and less about**space**. 
 
-A makerspace can be very [simple, without a lot of technology][2]. Tara Mauney has put together [a list of simple makerspace supplies][3] for elementary schools that are building their first makerspace. A makerspace doesn't need to even be a physical space - many schools do makerspaces on carts. 
+A makerspace can be very [simple, without a lot of technology][2]. Kathy Ceceri has put together [a list of simple makerspace supplies][3] for elementary schools that are building their first makerspace. A makerspace doesn't need to even be a physical space - many schools do makerspaces on carts. 
 
 Makerspaces serve different functions in a school, all (of course), aligned to your school's vision for digital-age learning. A makerspace may be used by students before or after school or during lunch for them to explore and create things that they're passionate about. They may be used by classes as spaces for students to go to create learning artifacts. Students can have free-play to explore the different tools and technologies and to create something that interests them. 
 
@@ -20,9 +20,9 @@ The best makerspaces are responsive to their programs. While some schools need 3
 
 Professional makerspaces exist for adults at places like the [NC State Libraries](https://entrepreneurship.ncsu.edu/spaces/makerspaces/) and for kids at places like [Children's Museum of Pittsburgh](https://pittsburghkids.org/exhibit/makeshop/). 
 
-[1]:	https://www.imls.gov/assets/1/AssetManager/Makerspaces.pdf
+[1]:	https://makingandlearning.squarespace.com/
 [2]:	https://ideas.demco.com/blog/create-amazing-low-tech-library-makerspace-easy-ideas/
-[3]:	https://drive.google.com/drive/folders/0B1mqk303aLATNUpzYjAyYU9MYU0
+[3]:	https://www.kathyceceri.com/maker-supply-list
 [4]:	https://www.efsd.net/domain/181
 [5]:	https://www.ted.com/talks/lisa_harouni_a_primer_on_3d_printing
 [6]:	http://www.thingiverse.com
@@ -31,5 +31,5 @@ Professional makerspaces exist for adults at places like the [NC State Libraries
 [9]:	https://www.makewonder.com
 [10]:	https://www.lego.com/en-us/categories/robots-for-kids
 [11]:	http://www.raspberrypi.org
-[12]:	https://store.arduino.cc/usa/arduino-starter-kit
+[12]:	https://www.arduino.cc/education
 [13]:	https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard
