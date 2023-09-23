@@ -5,7 +5,7 @@ course: "dlprograms"
 unit: 4
 ---
 
-One of the major equity issues in digital-age learning programs is what's referred to as the "Homework Gap", where students do not have access to the Internet at home, even if they have a device. While this has been a long-standing issue, COVID-19 [immediately brought this issue front and center][1] in our collective understanding of educational equity, and now with [docuemnted data of the detrimental impacts on students](https://drive.google.com/file/d/1RKgq1zhbOD8iFqYdc7xpktb6-dlMypau/view).
+One of the major equity issues in digital-age learning programs is what's referred to as the "Homework Gap", where students do not have access to the Internet at home, even if they have a device. While this has been a long-standing issue, COVID-19 [immediately brought this issue front and center][1] in our collective understanding of educational equity, and now with [documented data of the detrimental impacts on students](https://drive.google.com/file/d/1RKgq1zhbOD8iFqYdc7xpktb6-dlMypau/view).
 
 {% include youtube.html id="yqkAlwGsxwE" ratio="16x9" title="If You’ve Never Heard of the ‘Homework Gap’ This Video Will Shock You" %}
 
@@ -31,7 +31,7 @@ The [10Million Project][8] is run by T-Mobile, and provides wireless internet ac
 Using [State Contracts][9], some districts are purchasing a limited number of hotspots for student checkout. Each hotspot costs about $40/month and districts can purchase from multiple carriers as the need arises. The cost associated with this program prevents it from scaling to what a school would typically need. [Kajeet][10] is a network reseller that sells devices customized for schools that include filtering back to schools and other access controls. 
 
 ### Community Hotspots
-Some school districts are partnering with community hubs to provide Internet access to students at home. These hubs are not ideal compared to having Internet in the home, but are also extremely useful in providing supervision for students, support resources for families, meals through the Summer Feeding Program, and other programming for families. Some schools are also upcycling old activity buses to provide programming that can travel to communities. The [Book Bus at Hickory City Schools][11] is one example ([Photos][12]). There are some inherent [equity issues](https://www.usatoday.com/story/news/education/2020/04/01/coronavirus-internet-speed-broadband-online-learning-school-closures/5091051002/) in approaches like this as well as safety issues related for people having to camp out in common locations. Also, [camping out in parking lots](https://www.nytimes.com/2020/05/05/technology/parking-lots-wifi-coronavirus.html) has inherent problems and may not make the internet accessible.
+Some school districts are partnering with community hubs to provide Internet access to students at home. These hubs are not ideal compared to having Internet in the home, but are also extremely useful in providing supervision for students, support resources for families, meals through the Summer Feeding Program, and other programming for families. Some schools are also upcycling old activity buses to provide programming that can travel to communities. The [Book Bus at Hickory City Schools][11] is one example. There are some inherent [equity issues](https://www.usatoday.com/story/news/education/2020/04/01/coronavirus-internet-speed-broadband-online-learning-school-closures/5091051002/) in approaches like this as well as safety issues related for people having to camp out in common locations. Also, [camping out in parking lots](https://www.nytimes.com/2020/05/05/technology/parking-lots-wifi-coronavirus.html) has inherent problems and may not make the internet accessible.
 
 ### Bus Wi-Fi
 Kajeet offers a solution to connect buses to the Internet with enough wireless capacity to serve a bus full of students. In addition to allowing Internet access to students on their way to and from schools, this solution can provide Internet access in communities as well. Since bus drivers disproportionately live in lower-income neighborhoods, allowing drivers to take their buses home and leaving the wifi running on the bus overnight can cover a small area with Internet access. Many schools adopted this [approach during COVID as well](https://www.ncbroadband.gov/covid-19/wi-fi-bus-partnership). 
@@ -40,7 +40,7 @@ Kajeet offers a solution to connect buses to the Internet with enough wireless c
 Targeted at ISPs, North Carolina [GREAT Grants](https://www.ncbroadband.gov/grants/other-resources/great-grant-state) provide funding for providers to serve hard-to-reach areas in North Carolina. This can offset the significant cost of building out infrastructure for rural areas. 
 
 ## Emerging Solutions
-New technologies, such as [Citizens Broadband Radio Service (CBRS)][13] will allow independent providers to set up small-scale private cellular towers that can cover larger areas than traditional wifi at a lower cost. When realized, a school district could build out a small cellular network originating from each school in the district that could cover large swaths of the district with private cellular data coverage for student use at relatively low cost. [SpaceX's StarLink][14] program will be up and running in North America by late 2020, and can provide cable modem-like speeds anywhere via satellite at a price point similar to traditional wireline Internet services. While SpaceX's solution won't provide a solution for families that can't afford Internet, it will revolutionize access for families with geographical restrictions on their Internet access. 
+New technologies, such as [Citizens Broadband Radio Service (CBRS)][13] will allow independent providers to set up small-scale private cellular towers that can cover larger areas than traditional wifi at a lower cost. When realized, a school district could build out a small cellular network originating from each school in the district that could cover large swaths of the district with private cellular data coverage for student use at relatively low cost. [SpaceX's StarLink][14] program will be up and running in North America by late 2020, and can provide cable modem-like speeds anywhere via satellite at a price point similar to traditional wireline Internet services. While SpaceX's solution won't provide a solution for families that can't afford Internet, it will revolutionize access for families with geographical restrictions on their Internet access. [Read more about this work from EdNC](https://www.ednc.org/hyde-county-two-new-solutions-age-old-problem-internet-broadband/).  
 
 ## Computers
 In schools that don't send devices home with students, Internet access is only half of the problem - students still need a device to connect to the Internet. Some districts are turning to donations and setting computers up using Neverware or Ubermix. [The Kramden Institute][15], located in Durham, will provide free computers to families in need across North Carolina along with training and technical support. Some districts are purchasing [Raspberry Pi ][16]computers, which are now powerful enough to use day-to-day as a web browsing device. These devices can plug in to any computer and the all-in cost is typically under $75. 
@@ -51,12 +51,11 @@ In schools that don't send devices home with students, Internet access is only h
 [4]:	https://www.lifelinesupport.org
 [5]:	https://www.spectrum.com/browse/content/spectrum-internet-assist.html
 [6]:	https://www.centurylink.com/aboutus/community/community-development/lifeline.html
-[7]:	https://www.att.com/shop/internet/access/#!/
+[7]:	https://www.att.com/internet/access/
 [8]:	https://www.t-mobile.com/business/education/project-10-million
 [9]:	https://it.nc.gov/services/telecom/cellular-telephone
-[10]:	https://www.kajeet.net/plans
-[11]:	https://docs.google.com/document/d/1kR2a_9awDy6_326OE_4GVUP-vQhDrX3bJ_ctjJVVb9E/edit
-[12]:	https://www.facebook.com/hickoryschools/posts/10154419862522273
+[10]:	https://www.kajeet.com/industries/education
+[11]:	https://www.hickoryschools.net/departments/technology/instructional_technology/h_p_s_book_bus
 [13]:	https://en.wikipedia.org/wiki/Citizens_Broadband_Radio_Service
 [14]:	https://en.wikipedia.org/wiki/SpaceX_Starlink
 [15]:	https://kramden.org
