@@ -18,17 +18,17 @@ In some schools, the media coordinator or ITF or computer lab facilitator may se
 Regardless of how your district organizes their technical support, record keeping is critical. Getting teachers to log support requests, and then getting technicians to update them is always a challenge (most districts allow technicians to log in and close the request on behalf of the teacher to streamline the support process). However, having data on what's unresolved, how long it's taking to resolve issues, who is having issues, any trends in issues provide [critical data][2] to the CTO. Paid tools such as Freshdesk and Open Source tools such as OsTicket capture the intake process and provide workflow options for tickets to be claimed, routed to level II/III support, and resolved all within the app.
 
 ## Student Helpdesks
-An increasing number of schools are experimenting with implementing student helpdesks. With a custom curriculum based on the needs of the school, interested students can get first-hand experience with the technical support process, can find a way to leverage their strengths, and develop new skills. Schools benefit by having students offset the support burden and can also use instructional funds to train these students. Some student helpdesks work through the library, and others work through CTE programs. Some helpdesks also provide training and pay for students to become [CompTIA A+ certified][3] or certified through a vendor to make repairs under warranty (i.e. [Dell Repair Certification][4]) - both of which can provide income opportunities for students to earn income outside of school doing technical support.   Some schools may also have students take on special projects, including web and app development (fun fact: this is literally how I got my start in education - I started developing dashboards for the old SIMS app when I was in 9th grade; one thing led to another and here we are -- long story short, I'm very much a believer in the power of this approach). 
+An increasing number of schools are experimenting with implementing student helpdesks. With a custom curriculum based on the needs of the school, interested students can get first-hand experience with the technical support process, can find a way to leverage their strengths, and develop new skills. Schools benefit by having students offset the support burden and can also use instructional funds to train these students. Some student helpdesks work through the library, and others work through CTE programs. Some helpdesks also provide training and pay for students to become [CompTIA A+ certified][3] or certified through a vendor to make repairs under warranty (i.e. [AppleCare Technician Certification][4]) - both of which can provide income opportunities for students to earn income outside of school doing technical support.   Some schools may also have students take on special projects, including web and app development (fun fact: this is literally how I got my start in education - I started developing dashboards for the old SIMS app when I was in 9th grade; one thing led to another and here we are -- long story short, I'm very much a believer in the power of this approach). 
 
 Read More:
-[Student Run Genius-Bar: The Facilitators Guide (ISTE)][5]
-[Students as Tech Support][6] (Office of Educational Technology)
-[4 Ways to Get a K-12 Student Helpdesk Going][7] (EdTech Magazine)
+* [Student Run Genius-Bar: The Facilitators Guide (ISTE)][5]
+* [Students as Tech Support][6] (Office of Educational Technology)
+* [4 Ways to Get a K-12 Student Helpdesk Going][7] (EdTech Magazine)
 
 [1]:	http://www.orangecountyfirst.com/content/job-descriptions
 [2]:	https://zapier.com/learn/customer-support/customer-support-data/
 [3]:	https://www.comptia.org/certifications/a
-[4]:	https://techdirect.dell.com/Portal/Login.aspx
+[4]:	https://www.mesacc.edu/workforce-development/miti/programs/applecare-technician
 [5]:	https://www.iste.org/explore/In-the-classroom/Student-run-genius-bar%3A-The-facilitator
 [6]:	https://tech.ed.gov/stories/students-as-tech-support/
-[7]:	-help-desk-going
+[7]:	https://edtechmagazine.com/k12/article/2019/03/4-ways-get-k-12-student-help-desk-going
