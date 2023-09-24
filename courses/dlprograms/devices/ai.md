@@ -44,7 +44,7 @@ Once the model has been trained, ChatGPT can use this neural network and their "
 
 ChatGPT enables users to provide the system with a prompt, and a persona. For example, you can tell it to "write a weather report as a Shakesperian sonnet" and the system will output:
 
-<em>
+```
 Upon this fair and temperate morn, I greet,
 Where Sol doth rise with gentle, golden heat,
 The sky, a canvas painted blue and bright,
@@ -62,7 +62,7 @@ For nature's grace in full display.
 
 So cast away your worries, do not frown,
 For in this fair weather, joy shall abound.
-</em>
+```
 
 You can also ask the system to write code. For example, you can tell it to "write a list sorting algorithm in C++ to sort the words 'dog', 'cat', and 'fish' alphabetically. The system will output:
 
