@@ -83,6 +83,8 @@ dlprograms:
           url: devices/8_supportmodels
         - title: Home Internet Accesss
           url: devices/9_homeaccess
+        - title: Artificial Intelligence
+          url: devices/ai
         - title: Unit Projects
           url: devices/10_projects
     5:
