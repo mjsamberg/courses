@@ -22,4 +22,4 @@ ITFs may choose to create a portal website. In addition to being accessible and 
 [6]:	https://elearningindustry.com/principles-of-elearning-demystified-applied
 [7]:	http://blogs.onlineeducation.touro.edu/distinguishing-between-cmoocs-and-xmoocs/
 [8]:	https://place.fi.ncsu.edu/
-[9]:	http://miblendonline.pbworks.com/w/file/fetch/76438373/MOOC-Ed.pdf
+[9]:	https://www.proquest.com/openview/2a51aec44f55258c9dd394ad9250947a/1?pq-origsite=gscholar&cbl=1796419
