@@ -25,4 +25,4 @@ One of the greatest challenges with grants is sustaining the project after the g
 [3]:	https://www.federalregister.gov/topics/grant-programs
 [4]:	http://www.madeinnorthcarolina.com/minnc-bus_grants-foundations.html
 [5]:	https://www.aje.com/arc/how-to-write-a-successful-grant-proposal/
-[6]:	https://wtgrantfoundation.org/library/uploads/2016/02/Examples-of-Successful-Proposals-Scholars-Program.pdf
+[6]:	https://www.unco.edu/assessment/pdf/past-funded-grants.pdf

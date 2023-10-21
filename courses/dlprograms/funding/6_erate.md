@@ -66,7 +66,7 @@ The FCC allocated additional money during COVID for the [Emergency Connectivity 
 
 [1]:	https://www.fcc.gov/general/universal-service-fund
 [2]:	https://www.usac.org/
-[3]:	https://docs.fcc.gov/public/attachments/DA-21-1602A1.pdf
+[3]:	https://www.usac.org/e-rate/applicant-process/before-you-begin/eligible-services-list/
 [4]:	https://www.usac.org/e-rate/applicant-process/applying-for-discounts/alternative-discount-mechanisms/
 [5]:	https://sltools.universalservice.org/portal-external/urbanRuralLookup/
 [6]:	https://www.usac.org/e-rate/applicant-process/
