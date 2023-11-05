@@ -40,6 +40,9 @@ On your computer, tools like [Windows Defender][7] (built-in to windows) and [De
 ## Managed Services
 One of the advantages of using hosted, managed services, especially for critical systems, is that it shifts the responsibility for patching and management from you as the CTO to the vendor. Instead of needing to take responsibility for your keeping your servers secure, patched, and isolated, a managed service does this for you. In addition, if a managed service is breached through technical means (not due to a privilege issue or a compromised account), the vendor of that service is liable which protects both the CTO and the district both legally and financially.  
 
+## Web Application firewalls
+Having a solid and reliable firewall is basic cybersecurity, and has been for decades. New cloud-based firewalls enable smart detection and adapt on the fly to new threats. While firewalls operate at the network layer, newer Web Application Firewalls operate at the application layer and analyze web traffic for common site exploits and vulnerabilities, blocking them and adapting to new threats in real time. 
+
 ## Disaster Recovery Plans
 Despite your best plans and tightest security, you may still end up with a data breach or a malware attack. Like many other potential disasters that may impact a school system, this is one that needs to be planned for. In the event of a data breach, the impacted system should be shut down immediately and local authorities should be notified. They'll provide direction and begin a detailed investigation to determine how the attacker got in, and what (if any) data was stolen or compromised. In the event that the issue was caused by an unpatched vulnerability, districts (or a liable service provider) may have to provide identity theft protection for a year and pay for any damages that result from the theft of personal data. 
 
