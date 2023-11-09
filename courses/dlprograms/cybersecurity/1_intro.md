@@ -44,6 +44,8 @@ Ransomware is a form of malware that encrypts files on a computer such that a us
 
 [Municipal ransomware attacks are incredibly common][2]. Several municipalities in North Carolina have suffered catastrophic attacks in recent years, including [Mecklenburg County][3], [Orange County][4], [Lincoln County][5], and the [city and county of Durham][6]. Schools are not immune to these threats either, and several districts have been subject to ransomware attacks this year including [Burke County Schools][7], [Columbus County Schools][8], [Rockingham County Schools][9], [Haywood County Schools][10], and several others. 
 
+In 2022, North Carolina became the first state to make it illegal for government entities to pay a ransom during a ransomware attack.
+
 ### Denial of Service
 A Denial of Service attack is where one computer (or lots of computers, in which case it's called a Distributed Denial of Service attack, or DDoS) generates lots of traffic to a website, network, or server. The purpose of this attack is not to steal data, but to crash the website or overwhelm a network. DoS attacks are hard to prevent, but typically, shutting down the impacted site, waiting for the attack to pass, and then bringing everything back up will mitigate this type of attack. Firewalls can also intelligently handle and adapt to DDoS attacks using a function called "rate limiting", where all requests from an IP address are automatically blocked above a certain threshold. 
 
