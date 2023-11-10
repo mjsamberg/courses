@@ -58,6 +58,9 @@ Cybersecurity can be overwhelming, especially in a district. In the climate we'r
 * The [Multi-State Information Sharing and Analysis Center MS-ISAC](https://www.cisecurity.org/ms-isac) is a membership organization created by the Center for Internet Security that provides incident response, alerts, tracking, and tools to state and local governments. 
 * All of these organizations will typically also coordinate with law enforcement, including local authorities, the FBI, and in cases of financial fraud, the Secret Service. 
 
+## Vetting
+Application veting is an incredibly important part of a good cybersecurity posture. Tools such as the [Higher Education Vendor Assessment Toolkit (HECVAT)[https://library.educause.edu/resources/2020/4/higher-education-community-vendor-assessment-toolkit] help give insight into a vendor's security posture. DPI recently released [data standards for third party tools](https://www.dpi.nc.gov/about-dpi/technology-services/third-party-data-integration) that require vendors to have a third party assessment and complete the HECVAT before a school district can share data.
+
 [1]:	https://www-data.fi.ncsu.edu/wp-content/uploads/2020/10/28143449/Cybersecurity-in-K-12-An-Overview-of-the-Threat-Landscape.pdf
 [2]:	https://statescoop.com/Ransomware-Map/
 [3]:	https://www.charlotteobserver.com/news/politics-government/article189428824.html
