@@ -16,7 +16,10 @@ Create a policy for users who are accessing work data on personally owned device
 ## Option 4: Create another cybersecurity Policy
 Create a policy for cybersecurity for a school district or organization. This should include encryption and password standards, data sharing notifications, and other best practices (7 points). In your reflection, address the decisions you made, challenges you faced, and how you plan to monitor compliance (3 points).
 
-## Option 5: Choose Your Own Adventure
+## Option 5: Complete a HECVET
+Complete a [HECVAT Lite](https://library.educause.edu/resources/2020/4/higher-education-community-vendor-assessment-toolkit) for your school/business network environment (6 points). You will need help from IT staff to complete this. In your reflection, include a summary of your takeaways and surprises (4 points). Because this data is sensitive, do not post to the forum, contact me for a secure link to share.
+
+## Option 6: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 
 [1]:	https://itservices.uncc.edu/iso/guideline-data-handling
