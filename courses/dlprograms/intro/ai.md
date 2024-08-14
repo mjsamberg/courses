@@ -1,0 +1,114 @@
+---
+layout: page
+title: "Artificial Intelligence (AI)"
+course: "dlprograms"
+unit: 1
+---
+
+November 30, 2022. This is the date that "AI" became known in the mainstream with the release of ChatGPT version 3. One of the first large language models open to the public, ChatGPT amazed users with Human-like conversational abilities, the appearance of creativity, and the ability to complete tasks that were otherwise very time-consuming in a matter of seconds. Most units of this course will dig in to the impacts of AI in Education and how it impacts the different units within this course. In this unit, we will review some of the history and controversy around AI. This is not intended to undersell the transformative nature of AI and we will discuss some of these implications in later units, but rather to provide context for your thinking as we move through the course and explore AI tools.
+
+However, ChatGPT and newer tools like Claude.ai are not the first AI. The term "artificial intelligence" was first coined in 1956, as a research summit out of Dartmouth University. Led by Marvin Minsky, Claude Shannon, and Nathaniel Rochester, the summit had the purpose of bringing together researchers from all around the world to determine if it was possible to produce a machine that could simulate human intelligence. 
+
+However, the philosophical background for artificial intelligence is largely credited to Alan Turning and his 1950 essay "Computing Machinery and Intelligence". The "imitation game" which is now more commonly referred to as the **Turing test** supposes that a machine is "intelligent" if, given a human evaluator asking questions of both a machine and a human (given a set of specific circumstances), the evaluator could not tell the difference between the human and the machine with more than 50% accuracy. This test has long been surpassed, especially with ChatGPT. Other tests are able to more accurately judge what is and is not Artificial Intelligence, though it's becoming more and more difficult with each iteration. Turing's work is foundational to computer science as a whole. In addition to the Turing test, the [Turing machine](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html) and [Turing completeness](https://en.wikipedia.org/wiki/Turing_completeness) are foundational concepts within Computer Science. Much of Turing's work was cut short due to his death by suicide in 1954, after a conviction of indecency under Britain's anti-homosexuality laws. He was later posthumously pardoned in 2013. 
+
+{% include youtube.html id="4VROUIAF2Do" ratio="16x9" title="What is the Turing Test?" %}
+
+In 1958, the LISP programming language was created. LISP was created manipulating lists of text. This language is is still used today and is heavily used by AI researchers. 
+
+One of the first attempts at a chatbot that could pass the Turing test was ELIZA, created in 1964. This program was designed to act as a virtual therapist, asking probing questions based on key words provided in a user's input. The results, while nothing compared to what is available today, were revolutionary and extremely convincing at the time. 
+
+{% include youtube.html id="RMK9AphfLco" ratio="16x9" title="Before Siri and Alexa, there was ELIZA" %}
+
+Simultaneous to this work, DARPA (the Defense Advanced Research Projects Agency) began investing heavily in AI in 1963. An in 1965, Gordon Moore, a researcher at a semiconductor company developed what we now call **Moore's Law**. Moore's law supposes that the number of transistors that can fit into a computer chip - will double every two years. Roughly translated, that means computers will double in computational ability every two years. Since 1965, this has held true. In 1965, only 64 transistors were on a typical computer chip. Today that number has reached 114 billion transistors. Transistors have also reduced in size from 10 micrometer process in 1970 (0.01 millimeters) to 2 nanometer process in 2024. For reference, a strand of DNA is roughly the same size. Combined with the fact that the Internet contains an incomprehensible amounts of text and images -- this raw computational power, widely available to everyone on their smartphones and in large computer centers, is what has powered the last 20 years of AI advancement.
+
+Strategy games were a major source of advancement in AI through the 80s and 90s. In 1997, IBM's Deep Blue computer system became the first computer to beat a chess Grand Master. However, the Chinese strategy game Go took much longer for computers to master, with AlphaGo defeating professional Go player Lee Sedol in 2016. 
+
+Language and image recognition models were emerging around the same time. In 1997, Dragon released their "Naturally Speaking" product as one of the first publicly available speech-to-text products. This software, installed on a standard PC, would allow users to type with their voice. Around the same time, Apple was experimenting with mainstream text-to-speech software that would synthesize a human voice in their Mac OS operating system. 
+
+Throughout the last 20 years, the pace of change has accelerated greatly. In 2002, the first Roomba was released, bringing object and image recognition to consumer appliances for the first time. Nintendo Wii and XBox Kinect began to respond to human movement as game interaction. In 2011, two major advances in Natural Language Processing - Apple's Siri and IBM's Watson came on the scene. Natural language processing is a branch of computer science that trains computers to understand and create spoken words in the way that Humans do. Watson was challenged to play Jeopardy on national television against some of the game's most notable champions. The machine won twice. Siri put a natural language assistant in everyone's pocket, able to respond to questions and perform functions on a phone in real-time. 
+
+{% include youtube.html id="P18EdAKuC1U" ratio="16x9" title="Watson and the Jeopardy! Challenge" %}
+{% include youtube.html id="6rL9EL2LlrA" ratio="16x9" title="Apple Special Event 2011 - Siri Introduction" %}
+
+[This list of advancements is incomplete](https://www.tableau.com/data-insights/ai/history) - other tools like Google's intelligent search engine and Alexa have also come on the scene.
+
+OpenAI has two major products that are at the forefront of the current AI arms race. Dall-E takes a natural language prompt and uses image generation tools to turn typed text into an image. Machine learning models are now pretty widely available and you [can use them on your computer with nearly any type of data](https://www.geeksforgeeks.org/introduction-to-machine-learning-in-r/). OpenAI also has several competitors such as [Claude.Ai](http://claude.ai), [Google Gemeni](https://gemini.google.com), and Meta's [MetaAI](https://www.meta.ai). 
+
+Machine learning models are typically classified as either *supervised* or *unsupervised*. Supervised machine learning models use a "training set" where inputs and outputs are tagged based on specific criteria. The model contains methods to identify these inputs in future data inputs to predict outputs. A common example of this is in medical fields - an AI that can identify potential diseases based on biological markers. Unsupervised models use unlabeled raw data and have methods to identify patterns. The patterns are unknown at the start and are analyzed over time to find commonalities. An example of this is Spotify - using the songs you listen to next (and what everyone else listens to next), Spotify's AI is able to make predictions about what you might like to hear next. Both models are very advanced, very fast forms of pattern recognition. In terms of tools like ChatGPT, these tools use the text that is input and creates an output. The inputs form connections ("neural networks") called "neurons" that connect similar inputs and outputs together (this is overly simplified). Based on these inputs, the models can identify the probability of the next word or phrase and through a conversational model can generate human-sounding output.
+
+Before ChatGPT, there were some other attempts at similar tools. In 2016, Microsoft released Tay, an acronym for "thinking about you". Tay was an unsupervised language learning model that was put on Twitter and was designed to interact with people on Twitter. Because it was unsupervised, it used the inputs it was provided on Twitter to begin generating outputs, and new tweets became incorporated into the model. The experiment lasted less than 24 hours and Tay was taken offline after the tweets became [increasingly misogynistic, racist, and anti-semetic](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist).
+
+ChatGPT is a supervised training model. To create it, the AI was fed content from across the Internet and "taught" how to classify these text snippets. There are dubious ethics around this effort, as materials that depicted abuse, violence, or sexual imagery were sent to [workers in Kenya paid less than $2 per hour to review the materials](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist) (content warning). This is a [common, yet dark practice](https://www.npr.org/2019/07/01/737498507/for-facebook-content-moderators-traumatizing-material-is-a-job-hazard) (again, content warning) across social media companies and can be incredibly traumatizing for those doing the reviews. 
+
+Once the model has been trained, ChatGPT can use this neural network and their "Transformer model" to generate responses to queries based on the inputs. [This article goes more in-depth](https://www.scalablepath.com/machine-learning/chatgpt-architecture-explained). 
+
+ChatGPT enables users to provide the system with a prompt, and a persona. For example, you can tell it to "write a weather report as a Shakesperian sonnet" and the system will output:
+
+```
+Upon this fair and temperate morn, I greet,
+Where Sol doth rise with gentle, golden heat,
+The sky, a canvas painted blue and bright,
+Doth promise us a day of pure delight.
+
+The zephyrs whisper softly through the trees,
+As gentle as a lover's sweetest pleas,
+No tempests in the offing, no despair,
+But calm and tranquil, free from every care.
+
+The temperature, like kisses, warm and mild,
+Shall keep us in its tender, loving child,
+No icy gusts shall chill our hearts today,
+For nature's grace in full display.
+
+So cast away your worries, do not frown,
+For in this fair weather, joy shall abound.
+```
+
+You can also ask the system to write code. For example, you can tell it to "write a list sorting algorithm in C++ to sort the words 'dog', 'cat', and 'fish' alphabetically. The system will output:
+
+```
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+int main() {
+    std::vector<std::string> words = {"dog", "cat", "fish"};
+
+    // Sort the vector alphabetically
+    std::sort(words.begin(), words.end());
+
+    // Print the sorted words
+    for (const std::string& word : words) {
+        std::cout << word << std::endl;
+    }
+
+    return 0;
+}
+</code>
+```
+
+Read: [How to write effective prompts for ChatGPT](https://www.forbes.com/sites/jodiecook/2023/06/26/how-to-write-effective-prompts-for-chatgpt-7-essential-steps-for-best-results/).
+
+AI image generators such as Adobe Firefly and DALL-E can use similar types of neural networks and training data to create images from a text prompt. In this case, it also combines image recognition tools that can identify certain elements within a photo. The model for AI image generation is typically a model called "stable diffusion". Like with text-based generators, these models use deep analysis of images with training data to ingest new data at scale, providing the model enough data to extrapolate new prompts. 
+
+The implications for this type of model are significant. [Colleges are struggling to identify AI written essays](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/) and do not have a good way to do so reliably as of yet. ChatGPT is able to [pass the bar exam with high marks](https://www.abajournal.com/web/article/latest-version-of-chatgpt-aces-the-bar-exam-with-score-in-90th-percentile) and is replacing many jobs in the legal field because it can research and write better and faster than many paralegals. New York City schools banned ChatGPT early on but later reversed course, even though a [new survey indicated 75% of organizations worldwide are considering such a ban](https://www.prnewswire.com/news-releases/75-of-organizations-worldwide-set-to-ban-chatgpt-and-generative-ai-apps-on-work-devices-301894155.html). 
+
+ChatGPT is one product that uses the GPT architecture. You can write [your own apps and use your own data](https://platform.openai.com/docs/guides/gpt) within GPT to leverage the capabilities of the model for your own purposes. This makes it incredibly useful for writing code, finding patterns within large sets of data, summarizing datasets, and building chatbots that can interact and provide services to users. AI is also being used by researchers [to co-author papers](https://medium.com/@glenn_kleiman/ai-in-writing-class-editor-co-author-ghostwriter-or-muse-348532d896a6). 
+
+In education, students are definitely using ChatGPT for creating work products. However, teachers are also using the tool as [an adaptive tutor](https://sharegpt.com/c/8BQtJEk) and [to create lesson plans](https://www.edutopia.org/article/6-ways-chatgpt-save-teachers-time/). It's also great at adapting content for different reading levels or summarizing long text passages. It can also help students solve complex math problems as well as helping with [role playing activities and translations](https://www.zdnet.com/article/four-ways-teachers-can-use-chatgpt-in-their-classrooms-according-to-openai/). Parents are using ChatGPT to plan lunch menus, [write IEP requests](https://sharegpt.com/c/F8FL92b) and even [create bedtime stories](https://www.huffpost.com/entry/chatgpt-write-stories-for-kids_l_646783e4e4b06749be135812). The US Department of Education has created a [series of papers and recommendations on the use of AI in education](https://tech.ed.gov/ai/). Several tools including [Khan Academy](https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/) and [DuoLingo](https://blog.duolingo.com/duolingo-max/) have integrated GPT into their tools. 
+
+The result of this process is that ChatGPT can write content that is incredibly realistic, able to chat in a way that's very personable, and can pass the Turing test. However, the term "intelligence" conjures up questions of sentience. The current form of AI carries [no risk of becoming sentient](https://www.bloomberg.com/news/newsletters/2023-04-19/ai-sentience-debate-chatgpt-highlights-risks-of-humanizing-chatbots#xj4y7vzkg) no matter how much it may feel otherwise. It's also only able to respond to answers based on the data in the system. It can give you the recipe for the perfect pound cake. It can suggest substitutions to the recipe, but can't tell you how they will change the taste of the food. However, like ELIZA before it, the conversational nature of the tool does mean people may [use the tool as therapy](https://www.health.com/chatgpt-therapy-mental-health-experts-weigh-in-7488513) and the use of tools like Replika for virtual [friendships and relationships](https://www.startribune.com/i-tried-being-friends-with-ai-it-helped-me-be-a-better-human/600377829) is booming. There are concerns about this, but also the potential for the safety that comes from talking to a machine. 
+
+The use of AI has risks and drawbacks that we also need to be aware of. AI is trained on data sets, and biases within the training sets or the people who are developing the training sets can become part of the AI model. AI is predominantly trained on white faces, and has trouble recognizing people of color. AI models are trained with assumptions and tags that may introduce bias. The algorithms themselves have bias in the factors they weight. This results in AI that can be racist, AI that can deny loan and mortgage applications, and facial recognition errors that can profile people of color unfairly. This bias is [hard to avoid without intentional, hard work](https://www.vox.com/future-perfect/22916602/ai-bias-fairness-tradeoffs-artificial-intelligence), since all of us have biases and blindspots, AI teams tend to have limited diversity, and it's hard to do without designing specifically to avoid it. In addition, the training and running of AI is already consuming the [same amount of energy as a small country](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising) and this energy demand is growing exponentially with OpenAI's new data center potentially needing as much energy as [five nuclear reactors](https://www.nytimes.com/2024/07/11/climate/artificial-intelligence-energy-usage.html#:~:text=overall%20any%20cleaner.-,The%20energy%20demands%20from%20A.I.,equivalent%20of%20five%20nuclear%20reactors.).
+
+There are also AI issues to consider around intellectual property. Because of the way AI is trained, some authors are claiming that [every ChatGPT response constitutes a derivative work](https://arstechnica.com/tech-policy/2023/08/openai-disputes-authors-claims-that-every-chatgpt-response-is-a-derivative-work/) and that [ChatGPT itself can create derivative works](https://www.businessinsider.com/game-of-thrones-author-sues-chatgpt-openai-copyright-infringement-lawsuit-2023-9). [AI is also central to last year's Writer and Actor strike in Hollywood](https://themarkup.org/hello-world/2023/07/29/the-writers-strike-over-ai-is-bigger-than-hollywood).
+
+AI can also promote misinformation. Firstly, the way many LLMs are designed, they use statistical modeling to predict the next word. It does not know "truth" and has no ability to fact-check what it says. Therefore it's just prone to very confidently [making](https://www.cnn.com/2023/05/27/business/chat-gpt-avianca-mata-lawyers/index.html) [stuff](https://www.reddit.com/r/ChatGPT/comments/12ip7sh/i_gave_the_chatgpt_a_fake_madeup_link_to/) [up](https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-guardian-technology-risks-fake-article) (click each word). However, while truth is difficult for ChatGPT, it can make up content [convincing enough to be believable](https://www.nytimes.com/2023/02/08/technology/ai-chatbots-disinformation.html). Students using ChatGPT may be trusting it without fact checking or using alternative sources. This can also be problematic for organizations, such as when [Vanderbuilt University sent an email generated using ChatGPT about a shooting in Michigan](https://www.theguardian.com/us-news/2023/feb/22/vanderbilt-chatgpt-ai-michigan-shooting-email). These "hallucinations" can become especially problematic as AI becomes more prevalent such as when [Google's AI recommended putting glue on pizza](https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza). 
+
+Lastly, because of the way the model is developed, it grows more complex on its own, even though knowledge for ChatGPT stops around 2021. That means we [don't entirely know how they work](https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works) or what the output of an AI will be. You can't trace it like traditional code from a fixed start to a fixed end. This means that AIs can be guided to produce unexpected, bizarre, and even scary output. When Bing search adopted ChatGPT, Microsoft added some personality traits to the search engine. The resulting output was ["emotionally manipulative" and "scary"](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams) and ["gaslighting"](https://theconversation.com/gaslighting-love-bombing-and-narcissism-why-is-microsofts-bing-ai-so-unhinged-200164). 
+
+There are also privacy issues related to these tools. During a [ChatGPT data breach](https://www.pluralsight.com/blog/security-professional/chatgpt-data-breach), some prompts were exposed to the public. Microsoft's groundbreaking new Recall feature was pulled from release when security researchers determined that it was taking screenshots of everything you do on your PC and [storing that on your computer without encryption](https://www.cnet.com/tech/services-and-software/microsoft-drops-recall-from-copilot-plus-pc-launch/). There is also risk of feeding PII or other private information to ChatGPT that could potentially be released such as when AI hallucinations [exposed user credit card data](https://www.npr.org/2023/08/15/1193773829/what-happens-when-thousands-of-hackers-try-to-break-ai-chatbots). Also, as AI assistants get integrated in more tools, such as Office 365 and Google Workspace, there are still open questions about FERPA/PPRA compliance related to the input and use of student data in AI models as well as issues of data privacy and security. Some of this can be mitigated with the rise of [local AI models](https://beebom.com/how-run-chatgpt-like-language-model-pc-offline/) that run completely offline so data access is limited to your device.
+
+These issues will be resolved in time, but it's important for educators to be aware of these landmines as they engage with these tools. AI tools are getting to be incredibly powerful and convincing, such as new Samsung features that can [take a sketch and turn it into a photorealistic image](https://www.theverge.com/2024/7/17/24199005/samsung-galaxy-ai-z-fold-6-sketch-to-image) or Google's features that can [remove objects from a photo](https://tech.hindustantimes.com/tech/news/google-photos-magic-eraser-tool-is-now-available-free-of-cost-to-these-users-know-how-to-use-it-71723525608138.html) and [blur the lines between photos and reality](https://www.nytimes.com/interactive/2024/06/24/technology/ai-deepfake-facebook-midjourney-quiz.html). Apple can now [recreate your voice](https://www.apple.com/newsroom/2023/11/a-disability-advocate-preserves-his-voice-with-iphone/) and tools like Synthesia can create [AI Avatars of yourself and your voice speaking multiple languages](https://www.synthesia.io/features/custom-avatar/personal). Generative AI tools can also replace coders by [writing code for you](https://github.com/features/copilot).
+
+New AI tools are very [easy to create](https://www.openassistantgpt.io) and are popping up every day. We are at the beginning of this revolution, and we don't know what the end state will be yet.

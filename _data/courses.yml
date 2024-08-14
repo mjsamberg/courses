@@ -15,6 +15,8 @@ dlprograms:
           url: intro/3_nc
         - title: Digital Learning Staff Roles
           url: intro/4_roles
+        - title: Artificial Intelligence
+          url: intro/ai
     2:
       title: "Leadership of School Technology Programs"
       home: leadership/1_intro 
@@ -83,8 +85,6 @@ dlprograms:
           url: devices/8_supportmodels
         - title: Home Internet Accesss
           url: devices/9_homeaccess
-        - title: Artificial Intelligence
-          url: devices/ai
         - title: Unit Projects
           url: devices/10_projects
     5:
