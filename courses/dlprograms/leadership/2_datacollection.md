@@ -26,7 +26,7 @@ Focus groups can also be longer activities designed to foster deeper input as in
 {% include youtube.html id="XIRkVZDILzM" ratio="16x9" title="CEC1 Community Engagement" %}
 
 ### Surveys
-Surveys also provide valuable data for developing a vision. The [School Technology Needs Assessment (STNA) for Teachers][3] and [for students][4] are older (outdated) surveys that provide insight into student needs, comfort, and use of technology and digital tools. The [Texas Teacher School Technology and Readiness (STaR)][5] chart is a rubric that teachers can use to self-assess their readiness and status in digital learning.
+Surveys also provide valuable data for developing a vision. The [School Technology Needs Assessment (STNA) for Teachers][3] and [for students][4] are older (outdated) surveys that provide insight into student needs, comfort, and use of technology and digital tools. The [Texas Teacher School Technology and Readiness (STaR)][5] chart is a rubric that teachers can use to self-assess their readiness and status in digital learning and the [Florida Technology Integration Matrix Tools](https://fcit.usf.edu/matrix/evaluation-tools/) are other resources for data collection as well. 
 
 ### Rubrics
 The [North Carolina Digital Learning Progress Rubric][6] and the assessments linked in the [Future Ready Framework][7] can be used to assess school and district-level readiness for digital-age learning. ISTE also has a document of [essential conditions for leveraging technology for learning][8].
@@ -69,5 +69,5 @@ Take a look at this entire process from start to finish in the healthcare field,
 [4]:	https://fi.ncsu.edu/resource-library/school-technology-needs-assessment-for-students-stna-s/
 [5]:	https://tea.texas.gov/Academics/Learning_Support_and_Programs/Technology_Resources/School_Technology_and_Readiness_Chart
 [6]:	https://drive.google.com/file/d/1J0f9M11kY2O6f4u1CgNpGwaPGevUVU1W/view?usp=sharing
-[7]:	https://dashboard.futurereadyschools.org/framework
+[7]:	https://futureready.org/future-ready-frameworks/
 [8]:	https://www.iste.org/standards/essential-conditions

@@ -79,10 +79,10 @@ In the wake of COVID-19, and the significant increase in both the frequency and 
 In response to Article 29, FERPA, the increases in tools in use from COVID, and the fact that nearly 80% of cybersecurity breaches start with third party providers the Department of Public Instruction has released new [data sharing guidelines for K-12 schools](https://www.dpi.nc.gov/about-dpi/technology-services/third-party-data-integration). Schools have had to increase vetting of digital resources for cybersecurity. We will discuss this more in later units. 
 
 [1]:	https://www.uft.org/files/attachments/doe-social-media-guidelines.pdf
-[2]:	https://www.jpsk12.org/cms/lib/MI01908028/Centricity/Domain/505/JPS%202017-%202018%20Social%20Media%20Policy%20staff%20final.pdf
+[2]:	https://www.jpsk12.org/families/jps-social-media-policy
 [3]:	https://dmlhub.net/wp-content/uploads/files/MakingProgress_Report.pdf
 [4]:	https://bplawassets.learningaccelerator.org/artifacts/pdf_files/Revised-AUP-March-2013_final.pdf
-[5]:	https://www.falmouth.k12.ma.us/Page/2956
+[5]:	https://docs.google.com/document/d/1Nh5qDUS105cERyJ7BI6tf3zdoX21knvw/edit#heading=h.num9dhyj9rxq
 [6]:	https://www.wcpss.net/cms/lib/NC01911451/Centricity/Domain/147/Technology%20Policy.pdf
 [7]:	https://www.bostonpublicschools.org/domain/2330
 [8]:	https://www.thomascmurray.com/blog/usepolicy
@@ -96,7 +96,7 @@ In response to Article 29, FERPA, the increases in tools in use from COVID, and 
 [16]:	https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html
 [17]:	https://studentprivacy.ed.gov/node/548/
 [18]:	https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions#Schools
-[19]:	https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions#Schools
+[19]:	https://www.fcc.gov/consumers/guides/childrens-internet-protection-act
 [20]:	https://www.commonsense.org/education/digital-citizenship
 [21]:	https://www.aclu.org/other/dont-filter-me-final-report
 [22]:	https://studentprivacy.ed.gov/topic/protection-pupil-rights-amendment-ppra

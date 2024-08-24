@@ -4,7 +4,7 @@ title: "Digital Learning Frameworks and Models"
 course: "dlprograms"
 unit: 2
 ---
-Models, standards, and frameworks can provide a research base for your digital-age learning program. There are many different versions of frameworks for instruction, and only a few are listed on this page. Typically, a digital-age learning plan will choose one framework to adopt for their district, or they will pick pieces of them that align to their vision.
+Models, standards, and frameworks can provide a research base for your digital-age learning program. There are many different versions of frameworks for instruction, and only a few are listed on this page. While this page will review several different models, it's counterproductive to try to adopt all of these into an environment. Typically, a digital-age learning plan will choose one framework to adopt for their district, or they will pick pieces of them that align to their vision. 
 
 ## Personalized Learning
 [Personalized learning][1] is an approach to learning that aims to customize learning for each students strengths, needs, skills, and interests. This typically involves the use of competency-based progressions, learner profiles, and flexible learning environments. [Digital Promise's Learner Variability Project][2] is a web-app with customized lessons to support the development of personalized learning pathways in reading and math.
