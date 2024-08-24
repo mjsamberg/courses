@@ -35,6 +35,8 @@ dlprograms:
           url: leadership/6_dlmodels
         - title: Policies and Laws
           url: leadership/7_policy
+        - title: AI Policy and Guidance
+          url: leadership/ai
         - title: Unit 2 Projects
           url: leadership/projects
     # 3:

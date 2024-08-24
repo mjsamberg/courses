@@ -28,7 +28,14 @@ A [logic model][1] is a "map" that describes the relationships between cause and
 * 5 points: Logic model is complete and contains sufficient detail to understand how the digital-learning program will be implemented.
 * 5 points: Write-up explains the rationale behind the elements in the logic model. 
 
-## Option 3: Complete a Digital Learning Rubric
+## Option 3: Create AI Guidance
+Using AI guidance and sample policies as a reference, create a policy to govern the use of generative AI in your school or organization. Start by collecting data from stakeholders about their desires, readiness, and concerns for the implementation of AI and use this data to synthesize a policy that is responsive to the needs of the organization. Submit your policy and a reflection detailing your data collection process (who was involved and a summary of the data collection efforts), how this data informed your policy choices, and why you included the elements in your policy that you did.
+
+### Grading
+* 5 points: Policy defines the use of AI in the workplace or school, is clear and consistent, and can be implemented by an organization.
+* 5 points: Write-up explains the rationale behind the elements in the policy. 
+
+## Option 4: Complete a Digital Learning Rubric
 The [North Carolina Digital Learning Progress Rubric][2] and the [Future Ready Readiness Assessment][3] are tools to support schools and districts in identifying their current status in the transition towards digital-age learning. In this assignment, you will:
 * Convene a small group of stakeholders to complete either the NC-DLP or the FR Assessment. The group should meet, review the tool, and come to consensus on the current status.
 * Collect evidence that the group meeting has occurred such as meeting notes or a photograph.
@@ -40,8 +47,8 @@ The [North Carolina Digital Learning Progress Rubric][2] and the [Future Ready R
 * 3 points: Write-up synthesizes discussion from the group and, discusses key take-aways, and implications for the school.
 * 3 points: Reflective element addresses the process, including points of disagreement and surprise.
 
-## Option 4: Synthesize a digital-age instructional framework
-Unit 2 presents several digital-learning instructional standards, models and frameworks, including the [ISTE standards][4], the [Connected Learning][5] framework,  and the [Florida Technology Integration Matrix][6]. School-wide rubrics (such as [this example](https://www.duxbury.k12.ma.us/Page/1850)) help students and teachers consistently implement practices across the school and can support the development of "soft skills" across the curriculum. Given so many instructional frameworks, it can be helpful for a school to synthesize their own based on pre-existing models, aligning with the school's vision. For this project, you will:
+## Option 5: Synthesize a digital-age instructional framework
+Unit 2 presents several digital-learning instructional standards, models and frameworks, including the [ISTE standards][4], the [Connected Learning][5] framework,  and the [Florida Technology Integration Matrix][6]. School-wide rubrics (such as [this example](https://web.archive.org/web/20210928004012/https://www.duxbury.k12.ma.us/Page/1850)) help students and teachers consistently implement practices across the school and can support the development of "soft skills" across the curriculum. Given so many instructional frameworks, it can be helpful for a school to synthesize their own based on pre-existing models, aligning with the school's vision. For this project, you will:
 * Identify the elements of existing frameworks and standards that are the most useful in your context.
 * Synthesize a "skinny model" for digital-age learning within your school. This should draw elements from at least two research-based models (e.g. not SAMR) into a model that fits your school's vision for digital-age learning. 
 * Create a visual "glossy" for your school with the model.
@@ -52,14 +59,14 @@ Unit 2 presents several digital-learning instructional standards, models and fra
 * 4 points: Model synthesis is cohesive and easy to understand, aligns elements to limit overlap and contradiction.
 * 2 points: Visual aid is easy to understand and easy for teachers to use.
 
-## Option 5: Develop and Test a Classroom Walkthrough Instrument
+## Option 6: Develop and Test a Classroom Walkthrough Instrument
 Related to option 4, synthisize a [quick, effective classroom walkthrough instrument](https://iaspireapp.com/resources/5-best-practices-for-classroom-walkthroughs) customized to your school/district using either the Florida Technology Ingration Matrix[https://fcit.usf.edu/matrix/matrix/] or the [Triple-E Framework Rubric](https://www.tripleeframework.com/uploads/2/2/8/7/2287991/educationaltechnologyvalueevaluation__2___1_.pdf). Conduct 2-4 walkthroughs using the rubric and share your observations with the teacher you observe. Include, in your refelction, your thoughts on the creation of the instrument, your review of the lessons you observed using the instrument, and the results of your debriefs with the other teachers. 
 
 ### Grading
 * 6 points: The rubric is effective for a five-minute walkthrough observation and is a useful tool for enhancing instructional practice. 
 * 4 points: Write-up includes a reflection on the creation of the process, the review of the walkthrough activity, and a reflection on the teacher "conferences". 
 
-## Option 6: Conduct a policy review of barrier and enabler policies to digital-age learning
+## Option 7: Conduct a policy review of barrier and enabler policies to digital-age learning
 The policies and procedures within a district can help encourage digital-age learning or can act as a deterrent to adoption. For this project, you will:
 * Review your organization, district, and/or school policy and procedures manual.
 * Identify elements of policies and procedures that support and enable your school's vision for digital-age learning, and elements of policies and procedures that are barriers.
@@ -69,7 +76,7 @@ The policies and procedures within a district can help encourage digital-age lea
 * 4 points: Barrier and enabler policies are identified with the specific language within the policy constituting a barrier or an enabler.
 * 6 points: Write-up sufficiently explains how the policy or procedure is considered a "barrier" or an "enabler" aligned to the school's vision for digital-age learning.
 
-## Option 7: Create a new Responsible Use Policy for your district
+## Option 8: Create a new Responsible Use Policy for your district
 In Unit 2, we discuss the need for transitioning from _Acceptable Use Policies_ to _Responsible Use Policies_. Unlike an AUP, which tends to be largely punitive, RUPs define the expectations for student technology use and how students are expected to responsibly use technology. The challenge in an RUP is to align your school's vision for digital-age learning with applicable laws (i.e. FERPA, COPPA, CIPA) while keeping children safe on your network while also not being unnecessarily restrictive. In this assignment, you will:
 * Create a sample RUP for your district.
 * Complete a brief write-up explaining the choices you made in writing your RUP and how these choices support your school's vision for digital-age learning. The write-up should also include any challenges you faced in writing your RUP.
@@ -80,7 +87,7 @@ In Unit 2, we discuss the need for transitioning from _Acceptable Use Policies_ 
 * 2 points: Write-up explains how the RUP aligns to the school's vision for digital-age learning.
 * 1 point: Write-up addresses the challenges faced when writing the RUP.
 
-## Option 8: Create a branding toolkit for your organization/school/district
+## Option 9: Create a branding toolkit for your organization/school/district
 Consistency in branding and marketing is a critical component to being able to tell your story consistently and cleanly online. In this assignment, you will:
 * Create a branding toolkit for your organization (school, district, company)'s digital-age learning program that includes colors, fonts, tone, imagery, and social media standards. If your organization already has a branding toolkit (or part of one), your brand should be inclusive of the larger brand.
 * Create a branded story for your digital-age learning program. This is a one-pager using your school's brand that articulates the vision, the logic model, and the experiential "warm fuzzy" impact of your DL program. The document should look professional, be compelling, and be geared towards generating buy-in from a variety of audiences.
@@ -93,12 +100,12 @@ Consistency in branding and marketing is a critical component to being able to t
 * 3 points: Templates are complete and usable.
 * 3 points: Reflection explains your choices, how they reflect your school's brand, and any compromises or challenges faced.
 
-## Option 9: Choose Your Own Adventure
+## Option 10: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 
 [1]:	https://ctb.ku.edu/en/table-of-contents/overview/models-for-community-health-and-development/logic-model-development/main
 [2]:	https://drive.google.com/file/d/1J0f9M11kY2O6f4u1CgNpGwaPGevUVU1W/view
-[3]:	https://dashboard.futurereadyschools.org/framework
+[3]:	https://futureready.org/future-ready-frameworks/
 [4]:	https://www.iste.org/standards/for-students
 [5]:	https://clalliance.org/about-connected-learning/
 [6]:	https://fcit.usf.edu/matrix/matrix/
