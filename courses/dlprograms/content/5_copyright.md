@@ -60,6 +60,6 @@ Teachers have to be especially careful to avoid plagiarism - using work from the
 [12]:	https://www.copyright.gov/fair-use/more-info.html
 [13]:	https://memory-alpha.fandom.com/wiki/Portal:Main
 [14]:	https://www.hollywoodreporter.com/thr-esq/warner-music-pays-14-million-863120
-[15]:	https://apnews.com/4d98c8dee1c72fa5ac42ce01dff143fd
-[16]:	https://help.netflix.com/en/node/57695
+[15]:	https://web.archive.org/web/20201028134430/https://apnews.com/article/4d98c8dee1c72fa5ac42ce01dff143fd
+[16]:	https://web.archive.org/web/20240710090508/https://help.netflix.com/en/node/57695
 [17]:	https://www.swank.com/movie-licensing-usa

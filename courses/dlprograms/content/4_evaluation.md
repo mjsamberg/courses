@@ -71,4 +71,4 @@ Most schools purchase instructional resources once and simply pay the bill each 
 [11]:	https://research.steinhardt.nyu.edu/metrocenter/resources/culturally-responsive-scorecard
 [12]:	https://ies.ed.gov/ncee/wwc/
 [13]:	https://www.shiftelearning.com/blog/top-instructional-design-models-explained
-[14]:	https://32dkl02ezpk0qcqvqmlx19lk-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/NTN-critical-friends.pdf
+[14]:	https://www.edutopia.org/article/critical-friends-group-protocol-pd/

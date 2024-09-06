@@ -30,7 +30,7 @@ These three systems work in concert to help self-regulate. While these systems c
 Students who struggle with executive function or self-regulation may have an IEP which includes occupational therapy provided by the school district or the student may see an occupational therapist privately outside of the school setting. 
 
 ## Supporting Executive Functioning and Self-Regulation in Remote Learning
-The content below is taken from a professional learning course I recently worked on, called [Teaching Remotely: A Practical Guide][2]. These are provided as direct strategies for teachers in a remote learning environment, but should also be considered when designing other types of learning experiences.
+The content below is taken from a professional learning course I worked on during COVID, called _Teaching Remotely: A Practical Guide_. These are provided as direct strategies for teachers in a remote learning environment, but should also be considered when designing other types of learning experiences.
 
 ### Executive Functioning
 In online learning environments, students may struggle especially during asynchronous times where students are required to plan their day and complete their assignments independently. To support students with executive functioning in remote learning, consider the following strategies:
