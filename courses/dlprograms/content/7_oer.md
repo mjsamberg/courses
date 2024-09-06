@@ -14,6 +14,8 @@ Despite the advantages, there are still significant barriers to OER adoption. To
 
 Additionally, while resources are free, there is significant work involved in curating resources and assembling them into a curriculum, making the TCO of OER adoption very high. Additionally, OER objects can vary in quality, and need to be thoroughly assessed, and may not be aligned to the curriculum, may not be accessible, and may not be coherent from one activity from one provider to the next. Therefore, districts who are adopting OER [need a strategy to curate, vet, and share resources.][9]
 
+While open source textbooks [may have a higher quality](https://files.eric.ed.gov/fulltext/EJ1077783.pdf) than traditional textbooks, [issues of perception and reality around workload and quality remain](https://er.educause.edu/articles/2021/7/recognizing-and-overcoming-obstacles-what-it-will-take-to-realize-the-potential-of-oer) and OER can also create a curriculum that feels disjoined. In the end, the convenience of paid materials often outweigh the flexibility of OER in a world where teacher workloads are what they are. 
+
 [2]:	https://openstax.org/
 [3]:	https://openupresources.org/
 [4]:	https://www.ck12.org/

@@ -62,7 +62,17 @@ The assignment will be graded as follows:
 * 3 points: Review includes documentation connecting the policy to the needs of the district
 * 3 points: Write-up includes the stakeholder feedback and how the policy changed as a result.
 
-## Option 7: Choose Your Own Adventure
+## Option 6: Create an AI-infused Activity
+Create an instructional learning object that uses AI in some way - either to generate the content or for use by students. Include a lesson plan, student-facing materials, and an example of what students would complete. In your reflection, share the role AI plays in your lesson, how you chose to use this tool, the pitfalls you have, and how you balanced the innovation of this lesson with safety and best practices in AI. 
+
+### Grading
+The assignment will be graded as follows:
+* 4 points: Policy document is clear and actionable
+* 3 points: Review includes documentation connecting the policy to the needs of the district
+* 3 points: Write-up includes the stakeholder feedback and how the policy changed as a result.
+
+
+## Option 8: Choose Your Own Adventure
 If there is another project option that you would like to pursue, please contact me with a pitch.
 
 [1]:	https://www.theudlproject.com/udl-tools---all-grades.html

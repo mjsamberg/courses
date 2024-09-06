@@ -39,32 +39,32 @@ dlprograms:
           url: leadership/ai
         - title: Unit 2 Projects
           url: leadership/projects
-    # 3:
-    #   title: "Digital Content and Materials"
-    #   home: content/1_intro
-    #   pages:
-    #       - title: Introduction
-    #         url: content/1_intro
-    #       - title: Universal Design for Learning
-    #         url: content/udl
-    #       - title: Accessibility
-    #         url: content/accessibility
-    #       - title: Executive Function and Self-Regulation
-    #         url: content/execfunction
-    #       - title: Evaluating Digital Resources
-    #         url: content/4_evaluation
-    #       - title: Copyright
-    #         url: content/5_copyright
-    #       - title: Creative Commons
-    #         url: content/6_creativecommons
-    #       - title: Open Educational Resources
-    #         url: content/7_oer
-    #       - title: Teacher-Created Materials
-    #         url: content/8_teachercreated
-    #       - title: Interoperability
-    #         url: content/9_interoperability
-    #       - title: Projects
-    #         url: content/10_projects
+    3:
+      title: "Digital Content and Materials"
+      home: content/1_intro
+      pages:
+          - title: Introduction
+            url: content/1_intro
+          - title: Universal Design for Learning
+            url: content/udl
+          - title: Accessibility
+            url: content/accessibility
+          - title: Executive Function and Self-Regulation
+            url: content/execfunction
+          - title: Evaluating Digital Resources
+            url: content/4_evaluation
+          - title: Copyright
+            url: content/5_copyright
+          - title: Creative Commons
+            url: content/6_creativecommons
+          - title: Open Educational Resources
+            url: content/7_oer
+          - title: Teacher-Created Materials
+            url: content/8_teachercreated
+          - title: Interoperability
+            url: content/9_interoperability
+          - title: Projects
+            url: content/10_projects
     # 4:
     #   title: "Technology Infrastructure and Devices"
     #   home: devices/1_intro
