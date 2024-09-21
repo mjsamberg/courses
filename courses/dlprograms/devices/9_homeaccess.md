@@ -19,7 +19,7 @@ It's not a lack of desire to serve areas, but much of the country still lacks In
 While there's no "silver bullet" to address the homework gap, many organizations and districts have solutions to help:
 
 ### Affordable Connectivity Program
-The [Affordable Connectivity Program](https://www.fcc.gov/acp) was created by the Federal government during COVID to help low-income families get connected. Families facing extreme poverty or who receive government assistance are eligible for a $30/monthly discount on Internet access plus a one-time $100 contribution towards the purchase of any device where the family chips in between $10 and $50. 
+The [Affordable Connectivity Program](https://www.fcc.gov/acp) was created by the Federal government during COVID to help low-income families get connected. Families facing extreme poverty or who receive government assistance are eligible for a $30/monthly discount on Internet access plus a one-time $100 contribution towards the purchase of any device where the family chips in between $10 and $50. This program has ended as Congress chose not to continue the appropriation. 
 
 ### Lifeline Program
 Under the [Lifeline program through the FCC][4], consumers can get a discount on their Internet access service. Eligibility for this program typically requires verification of participation in the National School Lunch Program, either directly or through the Community Eligibility provision. [Spectrum reduces their price for Internet to $17.99 per month][5], [CenturyLink participates][6] as well (though their pricing on their site is less clear), [AT&T offers service][7] for $5-10 per month. While these prices aren't approachable for everyone (and assume people live in an area with access and consistently have electricity), they can help a portion of the population get Internet access. The ACP and Lifeline work in tandem to provide affordable Internet access in some communities.
@@ -31,7 +31,7 @@ The [10Million Project][8] is run by T-Mobile, and provides wireless internet ac
 Using [State Contracts][9], some districts are purchasing a limited number of hotspots for student checkout. Each hotspot costs about $40/month and districts can purchase from multiple carriers as the need arises. The cost associated with this program prevents it from scaling to what a school would typically need. [Kajeet][10] is a network reseller that sells devices customized for schools that include filtering back to schools and other access controls. 
 
 ### Community Hotspots
-Some school districts are partnering with community hubs to provide Internet access to students at home. These hubs are not ideal compared to having Internet in the home, but are also extremely useful in providing supervision for students, support resources for families, meals through the Summer Feeding Program, and other programming for families. Some schools are also upcycling old activity buses to provide programming that can travel to communities. The [Book Bus at Hickory City Schools][11] is one example. There are some inherent [equity issues](https://www.usatoday.com/story/news/education/2020/04/01/coronavirus-internet-speed-broadband-online-learning-school-closures/5091051002/) in approaches like this as well as safety issues related for people having to camp out in common locations. Also, [camping out in parking lots](https://www.nytimes.com/2020/05/05/technology/parking-lots-wifi-coronavirus.html) has inherent problems and may not make the internet accessible.
+Some school districts are partnering with community hubs to provide Internet access to students at home. These hubs are not ideal compared to having Internet in the home, but are also extremely useful in providing supervision for students, support resources for families, meals through the Summer Feeding Program, and other programming for families. Some schools are also upcycling old activity buses to provide programming that can travel to communities. [Book Buses][11] are one example. There are some inherent [equity issues](https://www.usatoday.com/story/news/education/2020/04/01/coronavirus-internet-speed-broadband-online-learning-school-closures/5091051002/) in approaches like this as well as safety issues related for people having to camp out in common locations. Also, [camping out in parking lots](https://www.nytimes.com/2020/05/05/technology/parking-lots-wifi-coronavirus.html) has inherent problems and may not make the internet accessible.
 
 ### Bus Wi-Fi
 Kajeet offers a solution to connect buses to the Internet with enough wireless capacity to serve a bus full of students. In addition to allowing Internet access to students on their way to and from schools, this solution can provide Internet access in communities as well. Since bus drivers disproportionately live in lower-income neighborhoods, allowing drivers to take their buses home and leaving the wifi running on the bus overnight can cover a small area with Internet access. Many schools adopted this [approach during COVID as well](https://www.ncbroadband.gov/covid-19/wi-fi-bus-partnership). 
@@ -45,7 +45,7 @@ New technologies, such as [Citizens Broadband Radio Service (CBRS)][13] will all
 ## Computers
 In schools that don't send devices home with students, Internet access is only half of the problem - students still need a device to connect to the Internet. Some districts are turning to donations and setting computers up using Neverware or Ubermix. [The Kramden Institute][15], located in Durham, will provide free computers to families in need across North Carolina along with training and technical support. Some districts are purchasing [Raspberry Pi ][16]computers, which are now powerful enough to use day-to-day as a web browsing device. These devices can plug in to any computer and the all-in cost is typically under $75. 
 
-[1]:	https://www.crpe.org/thelens/digital-divide-among-students-during-covid-19-who-has-access-who-doesnt
+[1]:	https://crpe.org/the-digital-divide-among-students-during-covid-19-who-has-access-who-doesnt/
 [2]:	https://www.ncbroadband.gov/wp-content/uploads/2019/02/Broadband-Homework-Gap-Report_2019-web.pdf
 [3]:	https://libguides.lib.msu.edu/tracts
 [4]:	https://www.lifelinesupport.org
@@ -55,7 +55,7 @@ In schools that don't send devices home with students, Internet access is only h
 [8]:	https://www.t-mobile.com/business/education/project-10-million
 [9]:	https://it.nc.gov/services/telecom/cellular-telephone
 [10]:	https://www.kajeet.com/industries/education
-[11]:	https://www.hickoryschools.net/departments/technology/instructional_technology/h_p_s_book_bus
+[11]:	https://www.wbtv.com/video/2024/08/20/school-bus-transforms-into-library-wheels-brings-books-children/
 [13]:	https://en.wikipedia.org/wiki/Citizens_Broadband_Radio_Service
 [14]:	https://en.wikipedia.org/wiki/SpaceX_Starlink
 [15]:	https://kramden.org
