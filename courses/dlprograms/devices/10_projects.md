@@ -28,11 +28,8 @@ Create a curriculum for a student technical support team. Include student respon
 ## Option 7: Understand the Homework Gap
 Survey your school to understand how and if students get online at home. If possible, collect addresses so you can look for "clusters" of internet access issues (get principal approval first). Distribute the survey to part or all of your school. Submit the survey (3 points) and a write-up indicating the rationale for the questions you asked (3 points) and the key takeaways (4 points).
 
-## Option 8: Create a Learning Object Using AI
-Create a learning object of your choice starting with ChatGPT (5 points). In your write-up, include your rationale for creating this model, what prompts you used within ChatGPT and what the responses were, how you adapted this into a lesson, and what changes needed to be made (5 points).
+## Option 8: Write a Research Paper
+Write a research paper (6-10 pages) describing the impact of the Gartner Hype Cycle and the contents of the CoSN trends/barriers report on educational technologies in K-12 learning environments. Include a sampling of technologies and how their hype has been realized or not within K-12.
 
-## Option 9: Create an Learning Object Requiring the Use Of AI
-Create a learning object of your choice that requires the use of ChatGPT (5 points). In your write-up, include your rationale for creating this model, what support you would provide to learners in advance, and how you would mitigate some of the issues of the ChatGPT tool (5 points).
-
-## Option 10: Choose Your Own Adventure
+## Option 9: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
