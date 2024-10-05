@@ -89,22 +89,22 @@ dlprograms:
           url: devices/9_homeaccess
         - title: Unit Projects
           url: devices/10_projects
-    # 5:
-    #   title: "Professional Learning"
-    #   home: pl/1_intro
-    #   pages:
-    #     - title: Introduction
-    #       url: pl/1_intro
-    #     - title: Coaching
-    #       url: pl/2_coaching
-    #     - title: Self-Directed Learning
-    #       url: pl/3_selfdirected
-    #     - title: Badging and Micro-credentials
-    #       url: pl/4_badging
-    #     - title: Online Learning
-    #       url: pl/5_online
-    #     - title: Projects
-    #       url: pl/projects
+    5:
+      title: "Professional Learning"
+      home: pl/1_intro
+      pages:
+        - title: Introduction
+          url: pl/1_intro
+        - title: Coaching
+          url: pl/2_coaching
+        - title: Self-Directed Learning
+          url: pl/3_selfdirected
+        - title: Badging and Micro-credentials
+          url: pl/4_badging
+        - title: Online Learning
+          url: pl/5_online
+        - title: Projects
+          url: pl/projects
     # 6:
     #   title: "Funding"
     #   home: funding/1_intro
