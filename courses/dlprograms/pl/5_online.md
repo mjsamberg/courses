@@ -16,7 +16,7 @@ ITFs may choose to create a portal website. In addition to being accessible and 
 
 [1]:	https://www.insidehighered.com/digital-learning/advice/2017/03/15/4-expert-strategies-designing-online-course
 [2]:	https://elearningindustry.com/designing-effective-online-courses-10-considerations
-[3]:	https://www.iste.org/explore/Professional-development/7-ways-to-create-PD-webinars-that-engage-your-audience
+[3]:	https://iste.org/blog/create-pd-webinars-that-engage-educators
 [4]:	https://tech.ed.gov/wp-content/uploads/2014/11/Section-5-Online-Professional-Learning-Quality-Checklist-FINAL.pdf
 [5]:	https://www.qualitymatters.org/sites/default/files/PDFs/StandardsfromtheQMContinuingandProfessionalEducationRubric.pdf
 [6]:	https://elearningindustry.com/principles-of-elearning-demystified-applied

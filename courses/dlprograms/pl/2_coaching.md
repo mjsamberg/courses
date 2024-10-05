@@ -25,7 +25,7 @@ Coaches should be deeply embedded in [professional learning communities][15] wit
 [8]:	https://learningforward.org/wp-content/uploads/2019/12/the-learning-professional-december2019.pdf
 [9]:	https://www.edelements.com/blog/coaching-for-innovation-10-competencies-to-maximize-the-impact-of-a-coach
 [10]:	https://www.iste.org/standards/for-coaches
-[12]:	http://www.ascd.org/ascd-express/vol8/803-costa.aspx
+[12]:	https://web.archive.org/web/20220125221230/http://www.ascd.org/ascd-express/vol8/803-costa.aspx
 [13]:	https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/home.htm?bhcp=1
 [14]:	https://truecolorsintl.com/the-four-color-personalities/
 [15]:	http://www.ascd.org/publications/educational-leadership/may04/vol61/num08/What-Is-a-Professional-Learning-Community%C2%A2.aspx
