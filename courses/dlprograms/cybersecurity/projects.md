@@ -29,5 +29,5 @@ Using [this guide](https://ospi.k12.wa.us/sites/default/files/2023-08/2020-06-da
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 
 [1]:	https://itservices.uncc.edu/iso/guideline-data-handling
-[2]:	https://oit.ncsu.edu/it-security/data-framework/determining-sensitivity-levels-for-shared-data/#personal
-[3]:	https://oit.ncsu.edu/it-security/data-framework/storage-locations-for-university-data/
+[2]:	https://docs.google.com/spreadsheets/d/1cHJnpD7ObV3a48AIKcCe2AMRZ0MmN4GHkuZMAm1kljg/edit?gid=444925467#gid=444925467
+[3]:	https://docs.google.com/spreadsheets/d/1NOV5M-ikuofzvZSQ4K0r97y9Cxk32E5g4K-vykjuq8w/edit?gid=0#gid=0
