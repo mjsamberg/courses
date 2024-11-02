@@ -16,5 +16,12 @@ It's important to differentiate for staff the difference between GSuite and pers
 
 NC State has developed a [data elements matrix][1] that categorizes different elements based on the various laws. Green data is public, yellow data is quasi-public. Red data is restricted and purple data requires special handling to store. Along with the table of data elements, there is a storage locations table that [defines where data may be stored][2]. Many school districts are adopting similar tables for staff to understand who may access data. Some districts are also adding a third dimension which defines who data may be shared with. Any parent has legal rights to any record about their child under FERPA (however counseling records are confidential and many districts also keep library checkouts and Internet history confidential, unless there's an issue). For other staff, the principle of least privilege suggests that they should only have access if their job requires them to have access to that data. 
 
+All of this falls under the umbrella of **data governance**: that systems and structures exist to ensure that the data collected are known and that collection procedures are followed and that data are properly handled. Other principles of data governance include:
+* Data Inventories: Knowing what data are collected, where it lives, and how it's used.
+* Data Architecture: Structuring your data for the most efficient collection and use.
+* Data Minimization: Collecting only the data that is needed, and no more.
+* Data lifecycle: Destroying data when it's no longer needed.
+* Small Cell Suppression: In analysis of aggregate data, ensuring that data doesn't become identifiable by the process of disaggregation (e.g., running an analysis on a kindergarten classroom and breaking down by race, sex, and economic status meaning only one or two students are in the analysis group).
+
 [1]:	https://oit.ncsu.edu/it-security/data-framework/determining-sensitivity-levels-for-shared-data/#tables
 [2]:	https://oit.ncsu.edu/it-security/data-framework/storage-locations-for-university-data/

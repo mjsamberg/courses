@@ -125,24 +125,24 @@ dlprograms:
           url: funding/7_disposition
         - title: Projects
           url: funding/8_projects
-    # 7:
-    #   title: "Security"
-    #   home: cybersecurity/1_intro
-    #   pages:
-    #     - title: Introduction
-    #       url: cybersecurity/1_intro
-    #     - title: Networks and Disaster Recovery Planning
-    #       url: cybersecurity/2_networks
-    #     - title: Physical Security
-    #       url: cybersecurity/3_physical
-    #     - title: User Education
-    #       url: cybersecurity/4_user
-    #     - title: Data Security
-    #       url: cybersecurity/5_data
-    #     - title: Public Records Laws
-    #       url: cybersecurity/6_publicrecords
-    #     - title: Projects
-    #       url: cybersecurity/projects
+    7:
+      title: "Security"
+      home: cybersecurity/1_intro
+      pages:
+        - title: Introduction
+          url: cybersecurity/1_intro
+        - title: Networks and Disaster Recovery Planning
+          url: cybersecurity/2_networks
+        - title: Physical Security
+          url: cybersecurity/3_physical
+        - title: User Education
+          url: cybersecurity/4_user
+        - title: Data Security
+          url: cybersecurity/5_data
+        - title: Public Records Laws
+          url: cybersecurity/6_publicrecords
+        - title: Projects
+          url: cybersecurity/projects
     # 8:
     #   title: "Final: Self as Leader"
     #   home: final/leadership
