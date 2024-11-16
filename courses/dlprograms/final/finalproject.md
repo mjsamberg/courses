@@ -20,15 +20,13 @@ While the guidance presented focuses exclusively on teaching philosophy statemen
 * [Cornell Graduate School][2]
 * [Science Magazine][3]
 * [Ohio State University Center for the Advancement of Teaching][4]
-* [Iowa State University][5]
+* [Illinois University][5]
 * [Chronicle of Higher Education][6] (Free Registration Required)
 * [Texas Tech][7]
 
 ### Sample Teaching Philosophy Statements
 * [ThoughtCo Article][8]
 * [Oregon State][9]
-* [Christine Möller-Sahling][10]
-* [Illinois University Sample][11]
 * [Another Sample][12]
 
 ## Grading
@@ -43,11 +41,9 @@ The assignment will be worth 10 points, as follows:
 [2]:	https://gradschool.cornell.edu/academic-progress/pathways-to-success/prepare-for-your-career/take-action/teaching-philosophy-statement/
 [3]:	https://www.sciencemag.org/careers/2006/04/writing-teaching-statement
 [4]:	https://drakeinstitute.osu.edu/instructor-support/teaching-portfolio-development/philosophy-teaching-statement
-[5]:	https://www.celt.iastate.edu/teaching/document-your-teaching/writing-a-teaching-philosophy-statement/
+[5]:	https://scs.illinois.edu/system/files/inline-files/Teaching%20Philosophy%20Examples.pdf
 [6]:	https://www.chronicle.com/article/How-to-Write-a-Statement-of/45133
-[7]:	https://www.depts.ttu.edu/tlpdc/Resources/Teaching_resources/TLPDC_teaching_resources/Documents/WritingYourTeachingPhilosophywhitepaper.pdf
+[7]:	https://www.depts.ttu.edu/tlpdc/Resources/Teaching_resources/TLPDC_teaching_resources/WritingYourTeachingPhilosophywhitepaper-Revised2023_FINAL.pdf
 [8]:	https://www.thoughtco.com/teaching-philosophy-examples-2081517
 [9]:	https://career.oregonstate.edu/sites/career.oregonstate.edu/files/research_and_teaching_statements.pdf
-[10]:	https://webcache.googleusercontent.com/search?q=cache:cxYseXq3PesJ:https://teach.its.uiowa.edu/sites/teach.its.uiowa.edu/files/docs/docs/Philosophy_of_Teaching_Statement_ed.pdf&cd=1&hl=en&ct=clnk&gl=us&client=safari
-[11]:	https://blogs.illinois.edu/files/1499/180076/103546.pdf
 [12]:	http://www2.gvsu.edu/morseli/philosophy.pdf
