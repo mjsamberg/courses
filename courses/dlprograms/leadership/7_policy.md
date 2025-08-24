@@ -75,8 +75,13 @@ The HIPPA act, passed in 1996, contains numerous provisions about medical record
 ## COVID-19 and Digital Policy
 In the wake of COVID-19, and the significant increase in both the frequency and variety of educational technology tools used, schools are [struggling to protect student data](https://www.edweek.org/technology/there-are-so-many-issues-why-schools-are-struggling-to-protect-student-data/2022/04) and to enact policies to vet digital resources prior to use (which we will cover in greater detail in future units). This will likely lead to [additional policy levers in the future](https://er.educause.edu/articles/2020/8/the-post-pandemic-evolution-of-student-data-privacy) to protect student data.
 
-## New Data Sharing policy
+## NCDPI Data Sharing policy
 In response to Article 29, FERPA, the increases in tools in use from COVID, and the fact that nearly 80% of cybersecurity breaches start with third party providers the Department of Public Instruction has released new [data sharing guidelines for K-12 schools](https://www.dpi.nc.gov/about-dpi/technology-services/third-party-data-integration). Schools have had to increase vetting of digital resources for cybersecurity. We will discuss this more in later units. 
+
+## New Legislation in 2024-2025
+The State of North Carolina has enacted several new legislative items in 2024 and 2025 pertaining to the use of technology in schools:
+* [Session Law 2024-26](https://www.ncleg.gov/sessions/2023/bills/house/html/h971v7.html) contains several provisions related to the prevention of Human Trafficking, including a provision that bans the viewing or access of pornography on any state-owned device or network, including public schools and universities. While schools are required to do this anyway in light of CIPA, there have been several technical challenges related to the implementation of this law, notably how to enact this in residential settings such as college campuses where other legal protections are present as well as how to report "attempts" - there are a high number of false positive cases that would need to be manually investigated. Additionally, some content filters may not  log "successful viewing" since it's viewed as valid traffic and "unsuccessful viewing" counts as a blocked attempt. The state is working with the General Assembly to clarify these inconsistencies.
+* 
 
 [1]:	https://www.uft.org/files/attachments/doe-social-media-guidelines.pdf
 [2]:	https://www.jpsk12.org/families/jps-social-media-policy
