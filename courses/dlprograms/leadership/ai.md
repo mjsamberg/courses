@@ -13,7 +13,7 @@ Schools have very valid concerns about [student plagiarism](https://er.educause.
 Even with teacher use of AI, assumptions may be made by teachers that AI understands how knowledge is developed, the progression of understanding of a topic, or AI-generated lessons may include biases a teacher is unaware of. **READ: [Education Hazards of Generative AI](https://www.cognitiveresonance.net/EducationHazardsofGenerativeAI.pdf)**.
 
 To support districts in generating AI policies, numerous organizations have released guidance. The resources are constantly evolving - use the links below to review each resource:
-* [US Department of Education's AI website](https://tech.ed.gov/ai](https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf)
+* [US Department of Education's AI website](https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf)
 * [NC Department of Public Instruction AI Guidebook](https://go.ncdpi.gov/AI_Guidelines)
 * [CoSN AI Guidance for Schools Toolkit](https://www.teachai.org/toolkit)
 * [ISTE AI Guides](https://iste.org/ai)
