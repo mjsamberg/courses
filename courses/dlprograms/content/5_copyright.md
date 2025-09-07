@@ -37,6 +37,8 @@ We've heard the "rule of thumb" that you can't reuse more than 10% of a printed 
 
 Effect on the market is probably the most clear cut element - is the use of the work detracting from sales and profitability of the work moving forward. However, this is the reason that most restaurants and movies don't sing the traditional _Happy Birthday_ song - it was under copyright [until released into the Public Domain in 2016][14]. 
 
+It's important to note that the vendor's terms of service override the Fair Use doctrine. For example, video streaming services (such as Netflix, Amazon, Hulu, etc.) state in their licensing agreement that the services are for "private, non-commerical use." Therefore, it's a copyright/terms of service violation to show a Netflix movie in a classroom, even if the viewing would otherwise meet Fair Use guidelines. Some services, such as Netflix, make some allowances for their own documentaries. 
+
 ## Impact on Education
 In education, teachers tend to take a very broad view of what is and is not Fair Use. Common practices like copying pages out of a textbook or workbook, even a small number of pages, clearly violates the "effect on the market" test in the Fair Use doctrine, and is a copyright violation. Scanning a textbook, however, would be considered a transformative work and would not be a copyright violation provided there was a physical copy of the textbook for each student who was accessing the scanned copy.
 
