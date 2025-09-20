@@ -28,10 +28,10 @@ Read More:
 * [Students as Tech Support][6] (Office of Educational Technology)
 * [4 Ways to Get a K-12 Student Helpdesk Going][7] (EdTech Magazine)
 
-[1]:	https://www.wilkescountyschools.org/apps/pages/index.jsp?uREC_ID=1030446&type=d&pREC_ID=1338126#:~:text=Technology%20Technician%20I%201%20NATURE%20OF%20WORK%20The,JOB%20FUNCTIONS%20...%205%20KNOWLEDGE%2C%20SKILLS%20AND%20ABILITIES
+[1]:	https://www.scotland.k12.nc.us/departments/human-resources/job-descriptions
 [2]:	https://zapier.com/learn/customer-support/customer-support-data/
 [3]:	https://www.comptia.org/certifications/a
 [4]:	https://www.mesacc.edu/workforce-development/miti/programs/applecare-technician
 [5]:	https://www.iste.org/explore/In-the-classroom/Student-run-genius-bar%3A-The-facilitator
-[6]:	https://tech.ed.gov/stories/students-as-tech-support/
+[6]:	https://web.archive.org/web/20230331120838/https://tech.ed.gov/stories/students-as-tech-support/
 [7]:	https://edtechmagazine.com/k12/article/2019/03/4-ways-get-k-12-student-help-desk-going
