@@ -44,7 +44,7 @@ We still don't know much about what educator professional learning is looking li
 [16]:	https://web.archive.org/web/20200802053152/https://secure.ncte.org/library/NCTEFiles/Resources/Journals/CC/0212nov2011/CC0212Policy.pdf
 [17]:	https://books.google.com/books?id=m1xZuNq9RygC&printsec=frontcover#v=onepage&q&f=false
 [18]:	https://elearnmag.acm.org/featured.cfm?aid=1806336
-[19]:	https://tech.ed.gov/wp-content/uploads/2014/10/Exploratory-Research-on-Designing-Online-Communities-FINAL.pdf
+[19]:	https://www-data.fi.ncsu.edu/wp-content/uploads/2020/06/28144849/Exploratory-Research-on-Designing-Online-Communities-FINAL.pdf
 [20]:	https://www.schrockguide.net/twitter-for-teachers.html
 [21]:	https://raventools.com/blog/understanding-twitter-chats/
 [22]:	file:///Users/mjsamber/Downloads/article_147418.pdf
