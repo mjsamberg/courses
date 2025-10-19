@@ -4,7 +4,7 @@ title: "Grants"
 course: "dlprograms"
 unit: 6
 ---
-All grants, regardless of whether a block grant or a competitive grant, have a few components in common:
+Almost all grants, with exception of discretionary grants, have a few components in common:
 * Grants almost always involve require a specific project or action to be executed and the project needs to be thoroughly documented and reviewed.
 * Grants require very detailed budgets and have very strict rules about how funding can be spent. Some grants, like EC funding and Title I funding are very broad in what funding can be used for, but funding must be used to serve targeted populations. 
 * All grants involve compliance monitoring, reporting, data collection, and demonstration that the funds have been used to support the project and improve the outcomes specified in the project plan.
