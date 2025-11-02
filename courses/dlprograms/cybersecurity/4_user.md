@@ -23,11 +23,12 @@ The second recommendation is to ensure that no two sites use the same password. 
 Combining these recommendations, you would have a secure passphrase for your password manager, and nonsense random passwords generated for all sites at the point of use. As the Computerphile video shares, the best option is to use Google/Facebook/Apple or other single-sign-in when you can.
 
 ## Two-Factor Authentication
-Authentication factors are the different ways that you can identify that a person is who they claim to be. In general, there are three different factors of authentication that are used:
+Authentication factors are the different ways that you can identify that a person is who they claim to be. In general, there are four different factors of authentication that are used:
 
 * **Something you know: ** such as a password, PIN number, or challenge question.
 * **Something you have: ** such as a cell phone, hardware token, card, etc.
 * **Something you are: ** such as a fingerprint or facial scan.
+* **Somewhere you are: ** This is a location-based factor. It's less secure, but is still used in fraud detection tools as a method to detect account breaches. 
 
 Multifactor authentication is when two or more factors are used (and two-factor authentication in particular are when two factors are used). An ATM card is one example of two-factor authentication: you have something you have (your ATM card) and something you know (your PIN).
 
@@ -52,6 +53,7 @@ While two-factor authentication is the current "gold-standard" for authenticatio
 User training and education is a critical component to any cybersecurity program. User training is especially important in phishing attacks. In many attacks, the phishing email is the extent of the attack - a user will provide financial information, wire money, etc. and the attack is concluded. In particular, your user education initiatives [should cover the following][26]:
 * Spam emails may look legitimate but may not be. There are many [email scams][27] that look legitimate or [use stolen information to convince people that the scammers know something about them][28]. Spam emails should always be ignored and deleted and if a user has questions, they should check the senders address and make contact with that company through a new email (instead of reply) or another channel.
 * Phishing emails may also look like legitimate emails asking for verification of account details. Users should check the URL of the website to ensure that it's the legitimate website as well as both the email address that is in **both** the FROM field and the REPLY-TO field (senders may spoof the from field, but want the return email, so they'll use a different reply-to field. Never send a phisher any information, and make contact through another channel (or if they want to be safe, change a password by going to the app directly and not using the email). If they click on a phishing link, two-factor authentication may mitigate or eliminate the threat, but users should change passwords right away.
+* AI has changed the game on traditional detection methods (e.g., bad grammar). With generative AI, it's easy to create emails for phishing in any language that are grammatically correct (and with enough training data, can even use someone's tone/mannerisms in writing). AI can also be used to create deepfakes for phone calls. It's critical that any requests that come by email or phone are verified through a known-good contact mechanism and proper procedures.
 * Don't change financial information without verifying the legitimacy of the email or the contact. 
 * Never click on files or links in an email if you don't trust (and have verified) the sender.
 * In the event of a malware attack, the computer should be turned off immediately by holding down the power button until the computer turns off and be submitted to IT for investigation.
