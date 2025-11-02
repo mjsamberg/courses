@@ -4,7 +4,7 @@ title: "Public Records Laws"
 course: "dlprograms"
 unit: 7
 ---
-Public schools, as public entities, are subject to the [North Carolina Public Records Act][1] (read this carefully). 
+Public schools, as public entities, are subject to the [North Carolina Public Records Act][1] (read this carefully). The Public Records Act and the Federal Freedom of Information Act were created to ensure that government entites could be transparent and accountable to the people. Generally this means that if something is written down, it's something that can be viewed by anyone (with lots of exceptions).
 
 North Carolina's public records laws are a bit unique because they apply to "any record created in the transaction of public business", meaning that the medium doesn't matter. A sticky note, email, or text message on your personal phone can all be subjected to the Public Records Act. Districts are responsible for archiving data in their control, such as email, finance, and HR data. This means that most districts run an email archiving service like [Google Vault][2] in order to keep copies of all emails for inspection. However, if employees generate public records, they are responsible for maintaining them and then surrendering them -- even if it's from a personal device or even a sticky note. 
 
