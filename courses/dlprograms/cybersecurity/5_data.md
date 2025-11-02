@@ -23,5 +23,7 @@ All of this falls under the umbrella of [**data governance**](https://cybersecur
 * Data lifecycle: Destroying data when it's no longer needed.
 * Small Cell Suppression: In analysis of aggregate data, ensuring that data doesn't become identifiable by the process of disaggregation (e.g., running an analysis on a kindergarten classroom and breaking down by race, sex, and economic status meaning only one or two students are in the analysis group).
 
+In general, schools do a good job of controlling access at the top-level. However, individual teachers have access to large quantities of student data and are generally allowed to sign up for services, use the data, and store the data outside of established parameters. In most schools, this makes the teacher the most likely internal threat for breaches to student data.
+
 [1]:	https://docs.google.com/spreadsheets/d/1cHJnpD7ObV3a48AIKcCe2AMRZ0MmN4GHkuZMAm1kljg/edit?gid=444925467#gid=444925467
 [2]:	https://docs.google.com/spreadsheets/d/1NOV5M-ikuofzvZSQ4K0r97y9Cxk32E5g4K-vykjuq8w/edit?gid=0#gid=0
