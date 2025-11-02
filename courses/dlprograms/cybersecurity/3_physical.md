@@ -23,6 +23,8 @@ When a device outlives its usefulness, the device should be [thoroughly wiped][7
 
 All devices should be wiped in this way. Most modern copy machines have a hard drive which stores images of recent copies and print jobs. Since lots of confidential data goes through a copier, these disks are good targets for potential theft. Some copiers have a mode for secure copies that should be employed when needed. For all copiers, these disks should be kept physically secure, and should not be allowed to leave your building without a data wipe. 
 
+Best practice is for any unused hard disks to be securely wiped or physically destroyed before being sold in a surplus sale. 
+
 [1]:	https://krebsonsecurity.com/2014/02/target-hackers-broke-in-via-hvac-company/
 [2]:	https://support.apple.com/en-us/HT204837
 [3]:	https://support.microsoft.com/en-us/help/4028713/windows-10-turn-on-device-encryption
