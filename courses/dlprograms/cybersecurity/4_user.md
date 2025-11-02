@@ -10,6 +10,8 @@ All of the technical tools in the world can't protect a user in your district fr
 The simplest way for a user to protect a device is to ensure that it can't be physically compromised. In addition to drive-level encryption, all devices should have a passcode that is required after several minutes of inactivity. For school managed devices, these can be set through your configuration management system (JAMF, ActiveDirectory, ChromeOS Management Console, etc). For personal devices, it is good practice to enable a passcode or fingerprint on your phone or to enable screen timeout on [Mac][2], [Windows][3], and [ChromeOS][4] immediately when a computer goes to sleep or the screen times out. Users should also manually lock computers when they step away. This prevents a computer from being compromised if left unattended.
 
 ## Secure Passwords
+{% include youtube.html id="z_HmDP3lKMI" ratio="16x9" title="Michael McIntyre Nearly Lost His Mind Trying to Remember His Password | Netflix Is A Joke
+" %}
 Because many sites [store passwords insecurely][5], passwords can be compromised in a data breach (and [many people use common passwords that are easy to crack anyway][6]). You can [search your email address on this website][7] and see how many different places have your passwords.  While [passwords are not a great tool for security][8], password security is critical. 
 
 There are [two common strategies for passwords][9]: use passwords that are difficult to guess but easy to remember and use unique passwords across each site.
