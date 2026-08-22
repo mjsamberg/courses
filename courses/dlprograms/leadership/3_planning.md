@@ -4,12 +4,18 @@ title: "Program Planning"
 course: "dlprograms"
 unit: 2
 ---
-Once a vision for digital-age learning has been built and the current status is known, the process of program planning can begin. Typically this will happen in two phases: the development of a logic model (or a theory of action) and then the development of a formal strategic pan.
+Once a vision for digital-age learning has been built and the current status is known, the process of program planning can begin. Typically this will happen in two phases: the development of a logic model (or a theory of action) and then the development of a formal strategic plan.
 
 ## Logic Models
 A [logic model][1] is a tool for articulating the key elements of a project to support strategic planning and change management efforts. It's a graphical representation that can support a clear understanding of the project, goals, and assumptions. It can also be used as a tool for promoting stakeholder buy-in. Logic Models tend to be living documents and are typically revised often throughout a program cycle.
 
-{% include figure.html image="leadership/samplelogicmodel.png" alt="Sample Logic Model" caption="Source: Friday Institute Research and Evaluation Team" %}
+{% include figure.html image="leadership/samplelogicmodel.png" alt="FIZZ flipped-classroom logic model, developed by Drs. Jeni Corn and Lodge McCammon - 
+activities are grouped into two columns, programmatic activities (e.g., teacher 
+training, video production support) and classroom activities (e.g., students 
+watching recorded lessons at home, in-class time used for practice and application). 
+Arrows connect each activity to short-term outcomes (immediate changes in teacher 
+or student behavior) and then to intermediate outcomes (sustained changes in 
+classroom practice), which in turn link to the model's ultimate goal." caption="Source: Friday Institute Research and Evaluation Team" %}
 
 Logic models contain three major elements:
 * Strategies/activities - the main activities being done in the project.
@@ -19,13 +25,13 @@ Note that these terms are not consistently used across all logic model templates
 
 ### Developing your Logic Model
 
-When developing a logic model, it's typical to start with a vision statement and to articulate that within the model. it sometimes makes sense to break your vision statement down form one box to multiple to simplify the logic model and make it easier to articulate.
+When developing a logic model, it's typical to start with a vision statement and to articulate that within the model. it sometimes makes sense to break your vision statement down from one box to multiple to simplify the logic model and make it easier to articulate.
 
-Second, develop your activities and strategies to answer the question - "What are the major activities?" and "What is being done to get from here to there?". This often includes policy development, funding and purchasing, new curricula, professional learning, and marketing. Activities should be worded simply and be straightforward and easy to understand.  Keep the grain-size of the activity small enough to capture the individual activities, but not so small that everything is captured and the model becomes overwhelming. Typically activities won't include the word "and" - each activity should be singular and distinct. 
+Second, develop your activities and strategies to answer the question - "What are the major activities?" and "What is being done to get from here to there?". This often includes policy development, funding and purchasing, new curricula, professional learning, and marketing. Activities should be worded simply and be straightforward and easy to understand.  Keep the grain-size of the activity small enough to capture the individual activities, but not so small that everything is captured and the model becomes overwhelming. Typically activities won't include the word "and" - each activity should be singular and distinct. For example, 'improve technology use in classrooms' is too vague to act on, while 'order Chromebooks,' 'image Chromebooks,' and 'distribute Chromebooks' fragments a single effort into too many boxes. 'Deploy 1:1 Chromebooks to grades 6–8' hits the right level of detail — specific enough to own and schedule, without exploding into sub-steps that belong in the strategic plan instead.
 
-Third, develop your outcomes. Outcomes are the statements that connect your activities to your ultimate goal and answer the question "what will happen as the result of the project activities?" This typically takes the form of changes in practice or engagement or attendance or test scores. Again, be sure to develop **outcome** statements and not outputs (include outputs in a separate column if it's helpful). Sometimes outcomes will be broken up temporally (short term, medium term, long term) or by audience (student outcomes, teacher outcomes). Outcomes should be descriptive and should answer the questions "who" and "what" and should use quantity or frequency descriptors like "more" or "fewer" or "every three months". Like activities, outcomes should be singular and distinct. 
+Third, develop your outcomes. Outcomes are the statements that connect your activities to your ultimate goal and answer the question "what will happen as the result of the project activities?" This typically takes the form of changes in practice or engagement or attendance or test scores. Again, be sure to develop **outcome** statements and not outputs (include outputs in a separate column if it's helpful). Sometimes outcomes will be broken up temporally (short term, medium term, long term) or by audience (student outcomes, teacher outcomes). Outcomes should be descriptive and should answer the questions "who" and "what"; and should use quantity or frequency descriptors like "more" or "fewer" or "every three months". Like activities, outcomes should be singular and distinct. 
 
-Fourth, develop your linkages. Like in most process diagram, the actual work to be done is in the arrows and not in the boxes. Linkages represent where work has to be done to move from activity to outcome to vision. You can have as few or as many linkages as you need, but be aware of root causes - it can be tempting to say that every activity impacts every outcome, but in the process of developing linkages, be sure to consider whether the activity has a _direct_ impact on the outcome listed.
+Fourth, develop your linkages. Like in most process diagrams, the actual work to be done is in the arrows and not in the boxes. Linkages represent where work has to be done to move from activity to outcome to vision. You can have as few or as many linkages as you need, but be aware of root causes - it can be tempting to say that every activity impacts every outcome, but in the process of developing linkages, be sure to consider whether the activity has a _direct_ impact on the outcome listed.
 
 Color-coding any element in a logic model can be helpful for improving readability or in helping to better articulate relationships. 
 

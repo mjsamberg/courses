@@ -4,7 +4,7 @@ title: "Program Evaluation"
 course: "dlprograms"
 unit: 2
 ---
-Evaluation is the process of gathering and analyzing data to inform decision-making. Evaluation is different from assessment, which is the process of determining performance against a known standard. Evaluation is also different than research, which is the process of investigating phenomena to derive conclusions or develop theory. Evaluation does, however, use data from assessment and research to support decision making.
+Evaluation is the process of gathering and analyzing data to inform decision-making. Evaluation is different from assessment, which is the process of determining performance against a known standard. Evaluation is also different from research, which is the process of investigating phenomena to derive conclusions or develop theory. Evaluation does, however, use data from assessment and research to support decision making.
 
 Evaluation typically comes in two flavors:
 * **Formative evaluation** is ongoing, and helps inform day-to-day operations and decision-making processes and typically answers the question "what should we be doing next?".
@@ -15,7 +15,7 @@ A high-quality program will include both formative and summative evaluations. Fr
 ## Evaluation Models
 There are several common evaluation models, which can be useful to suggest strategies for beginning an evaluation program.
 
-[Shufflebeam's CIPP Model][1] poses for questions that an evaluator should ask:
+[Stufflebeam's's CIPP Model][1] poses four questions that an evaluator should ask:
 * What should/did we do?
 * How should/did we do it?
 * Are we doing it/Did we do it as planned?
@@ -37,7 +37,7 @@ As stated earlier, evaluation is ongoing in nature. The question of "how did it 
 ## Disseminating Results
 There is no set format for evaluation - it should be actionable for all. This may mean producing different products for different audiences - reports for superintendents and boards, presentations for teachers, video stories for parents and students.
 
-Increasingly, dissemination is taking the form of [data visualizations](https://www.tableau.com/learn/articles/data-visualization).  Examples of this are provided by many vendors and providers, such as the [Ed-Fi platform](https://techdocs.ed-fi.org/display/DASH14/Dashboard+Usage+Module). Examples of other data visualizations [are available here](https://venngage.com/blog/what-is-an-infographic/).
+Increasingly, dissemination is taking the form of [data visualizations](https://www.tableau.com/learn/articles/data-visualization).  Examples of this are provided by many vendors and providers, such as the [Ed-Fi platform](https://edfi.atlassian.net/wiki/spaces/DASH30/pages/23167192/Overview). Examples of other data visualizations [are available here](https://venngage.com/blog/what-is-an-infographic/).
 
 [1]:	https://en.wikipedia.org/wiki/CIPP_evaluation_model
 [2]:	https://www.mindtools.com/pages/article/kirkpatrick.htm

@@ -6,8 +6,8 @@ unit: 2
 ---
 The purpose of the projects in each unit is to provide you with hands-on experience with the content in the unit. Each unit will have several project options. You should choose the one project that best aligns with your personal interests and your context.
 
-## Option 1: Develop a vision statement for digital-age learning
-The needs and goals of a digital-age learning program is different in each school. It is critical when beginning a digital-age learning transition to gather input from a variety of stakeholders about **why** they believe they should be engaging in this type of transition and how they envision the business of school being impacted. Remember that the goal of digital-age learning is **not** to have students using technology but to change outcomes and the business of teaching and learning. To that end, to complete this project, you should:
+## Option 1: Develop a vision statement for digital-age learning or AI use in schools
+The needs and goals of a digital-age learning program or an AI program is different in each school. It is critical when beginning a this transition to gather input from a variety of stakeholders about **why** they believe they should be engaging in this type of transition and how they envision the business of school being impacted. Remember that the goal of digital-age learning is **not** to have students using technology but to change outcomes and the business of teaching and learning. To that end, to complete this project, you should:
 * Conduct at least two focus group sessions. Focus groups may be small, but should be with two different groups (i.e. teachers, students, parents, administrators, counselors, etc.).
 * Create a write-up summarizing points of consensus and divergence in the groups. From this write-up, identify the major points that should be addressed in a vision. You do _not_ need to create a formal vision statement.
 * Submit your write-up, as well as your focus group protocol, and some type of evidence that the focus groups occurred (such as your notes or a recording).
@@ -19,9 +19,9 @@ The assignment will be graded as follows:
 * 3 points: Write-up synthesizes ideas from the focus groups and, discusses key take-aways, and implications for a vision for digital-age learning.
 * 3 points: Major points for a vision are identified and explained.
 
-## Option 2: Develop a Logic Model for your digital-age learning program
+## Option 2: Develop a Logic Model for your digital-age learning program or AI initiative
 A [logic model][1] is a "map" that describes the relationships between cause and effect. They generally take the form of "if-then" statements in narrative form, but are often presented graphically. In educational research, a logic model usually has four columns - Inputs and Constraints, Activities, Outputs, and Effects. The purpose and context are also noted in the model (see linked example). The purpose of the logic model is to "operationalize" your vision statement - to display the activities that get you from a vision to reality. To complete this project:
-* Create a logic model for your school's digital-age learning program.
+* Create a logic model for your school's digital-age learning program or AI initative.
 * Complete a short write-up that explains how you identified the inputs, activities, and outputs; and how you decided on the relationship between them.
 
 ### Grading

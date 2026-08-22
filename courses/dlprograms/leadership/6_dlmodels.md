@@ -7,7 +7,7 @@ unit: 2
 Models, standards, and frameworks can provide a research base for your digital-age learning program. There are many different versions of frameworks for instruction, and only a few are listed on this page. While this page will review several different models, it's counterproductive to try to adopt all of these into an environment. Typically, a digital-age learning plan will choose one framework to adopt for their district, or they will pick pieces of them that align to their vision. 
 
 ## Personalized Learning
-[Personalized learning][1] is an approach to learning that aims to customize learning for each students strengths, needs, skills, and interests. This typically involves the use of competency-based progressions, learner profiles, and flexible learning environments. [Digital Promise's Learner Variability Project][2] is a web-app with customized lessons to support the development of personalized learning pathways in reading and math.
+[Personalized learning][1] is an approach to learning that aims to customize learning for each student's strengths, needs, skills, and interests. This typically involves the use of competency-based progressions, learner profiles, and flexible learning environments. [Digital Promise's Learner Variability Project][2] is a web-app with customized lessons to support the development of personalized learning pathways in reading and math.
 
 In [North Carolina, Personalized Learning][3] includes four areas as a part of our statewide [ESSA plan][4]: learner profiles, individual learning paths, competency based progression, and flexible learning environments:
 <figure class="text-center">
@@ -23,7 +23,7 @@ Charlotte-Mecklenburg schools has also developed a personalized learning model a
 ## Digital-Learning Standards
 Standards define what it is that a student or teacher is expected to know and do in certain domains. 
 
-The [ISTE Standards for students][8] are the most commonly used student standards, and many states adopt them for their digital literacy curriculum. The standards were once primarily technology-based and have since shifted to focus more on how students are leveraging technology. There are also [standards for teachers][9], [standards for administrators][10], [standards for ITFs and coaches][11], and standards for [computer science teachers][12] and for [computational thinking][13]. Adoption of the ISTE standards by states has waned in the past few years, as states and vendors now need to pay to align to the standards. However, North Carolina will be adopting the ISTE standards for students as-is, effective with the 2020-2021 school year.
+The [ISTE Standards for students][8] are the most commonly used student standards, and many states adopt them for their digital literacy curriculum. The standards were once primarily technology-based and have since shifted to focus more on how students are leveraging technology. There are also [standards for teachers][9], [standards for administrators][10], [standards for ITFs and coaches][11], and standards for [computer science teachers][12] and for [computational thinking][13]. North Carolina has adopted the ISTE standards for students as-is, effective with the 2020-2021 school year.
 
 ![ISTE Standards][image-2]{:class="mx-auto d-block"}
 
@@ -70,7 +70,7 @@ The TPaCK framework is not an instructional design model. The CPR model is a dif
 [SAMR][21] is a taxonomy for lessons that stands for Substitution, Augmentation, Modification, and Redefinition. Substitution refers to the replacing of an analog tool for an identical technical tool whereas Redefinition defines completing tasks that would not be possible without technology. In practice, SAMR is not a good framework to use, as it does not address instructional quality, tool appropriateness, or the quality or purpose behind the technology integration. There is also a dearth of research to support the SAMR model.
 ![SAMR Model][image-10]{:class="mx-auto d-block"}
 
-[1]:	https://www.understood.org/en/school-learning/partnering-with-childs-school/instructional-strategies/personalized-learning-what-you-need-to-know
+[1]:	https://www.understood.org/en/articles/personalized-learning-what-you-need-to-know
 [2]:	https://lvp.digitalpromiseglobal.org/
 [3]:	https://www.dpi.nc.gov/districts-schools/districts-schools-support/digital-teaching-and-learning/digital-learning-initiative/personalized-learning
 [4]:	https://www.dpi.nc.gov/districts-schools/federal-program-monitoring/every-student-succeeds-act-essa
