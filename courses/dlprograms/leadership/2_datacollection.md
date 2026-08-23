@@ -62,6 +62,10 @@ Take a look at this entire process from start to finish in the healthcare field,
 
 {% include youtube.html id="T1HF3c-GmvU" ratio="16x9" title="Phillips Healthcare Infusion Center" %}
 
+One of the important things when engaging in the design process is to not overcomplicate the solutions and to remember that the simple details matter.
+
+{% include youtube.html id="dkLcwHmnPV4" ratio="16x9" title="Rory Sutherland: Sweat the small stuff" %}
+
 <br/>
 
 [1]:	https://balancedscorecard.org/bsc-basics/articles-videos/the-deming-cycle/
