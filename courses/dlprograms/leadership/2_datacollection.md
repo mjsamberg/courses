@@ -54,12 +54,7 @@ Once themes have been identified, conduct a *root cause analysis* to ensure that
 
 A fishbone diagram can help with a Root Cause analysis. 
 <figure class="text-center">
-  <img src="https://fi-courses.s3.amazonaws.com/psda/unit_3/fishbone.png" alt="Fishbone (Ishikawa) diagram for root cause analysis - a central horizontal 
-line points to the problem statement on the right, with diagonal "bones" 
-branching off to represent major cause categories (e.g., people, process, 
-equipment, environment). Smaller lines branch off each category bone to 
-list specific contributing factors, visually tracing how multiple root 
-causes can feed into a single observed problem." style="width: 100%; height: auto" class="mx-auto d-block"/>
+  <img src="https://fi-courses.s3.amazonaws.com/psda/unit_3/fishbone.png" alt="Fishbone (Ishikawa) diagram for root cause analysis - a central horizontal line points to the problem statement on the right, with diagonal bones branching off to represent major cause categories (e.g., people, process, equipment, environment). Smaller lines branch off each category bone to list specific contributing factors, visually tracing how multiple root causes can feed into a single observed problem." style="width: 100%; height: auto" class="mx-auto d-block"/>
   <cite class="mx-auto d-block">Source: Wikipedia</cite>
 </figure>
 
