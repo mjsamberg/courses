@@ -19,7 +19,7 @@ Students who struggle with executive functioning issues may sometimes be labeled
 People struggling with executive functioning skills may have trouble starting or working through tasks, have trouble with changing routines or setting goals, have trouble organizing their thoughts, or have difficulty following directions and managing their time. 
 
 ## Self-Regulation
-Self-regulation is not the same thing as self-control. Self-regulation allows people to manage their emotions, behavior, and body movement when they're uncomfortable or stressed. Students who struggle with self-regulation may act impulsively in emotional situations, have a hard time winding down, or experience a "meltdown" when stressed. Kids with sensory processing or executive functioning issues may struggle with self-regulation. Three body-senses contribute to self-regulation, and students who struggle with one or more of these senses may struggle with self-regulation:
+Self-regulation is not the same thing as self-control (think back to our "affective networks" from UDL). Self-regulation allows people to manage their emotions, behavior, and body movement when they're uncomfortable or stressed. Students who struggle with self-regulation may act impulsively in emotional situations, have a hard time winding down, or experience a "meltdown" when stressed. Kids with sensory processing or executive functioning issues may struggle with self-regulation. Three body-senses contribute to self-regulation, and students who struggle with one or more of these senses may struggle with self-regulation:
 
 * **Interoception**: The interoceptive sense helps you understand what is happening inside your body. This is the sense that tells you when you're hungry or cold. A child who struggles with interoception issues may feel an itch as intense pain, may not know when they are too hot or too cold. These students may also have trouble understanding their emotions, as they cannot understand their body's physical reactions to emotion.
 * **Proprioception**: The proprioceptive sense helps you understand how your body moves and the position of your body. A child who struggles with proprioception issues may struggle with coordinating motor movements or crave sensory input, and may struggle with activities that require significant amounts of motor planning such as handwriting or typing. Other students may not register as much proprioceptive input, so they may struggle to sit through a synchronous learning session without sensory input.
@@ -60,7 +60,7 @@ In remote learning environments, we can support student self-regulation by:
 [1]:	https://www.understood.org/en/learning-thinking-differences/child-learning-disabilities/executive-functioning-issues/what-is-executive-function
 [2]:	https://place.fi.ncsu.edu/local/catalog/course.php?id=24
 [3]:	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5447760/
-[4]:	https://tomato-timer.com/
+[4]:	https://www.tomatotimers.com
 [5]:	https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730
 [6]:	https://www.gonoodle.com/
 [7]:	https://www.understood.org/en/friends-feelings/empowering-your-child/self-awareness/mindfulness-kids-who-learn-think-differently
