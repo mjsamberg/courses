@@ -62,14 +62,14 @@ The assignment will be graded as follows:
 * 3 points: Review includes documentation connecting the policy to the needs of the district
 * 3 points: Write-up includes the stakeholder feedback and how the policy changed as a result.
 
-## Option 6: Create an AI-infused Activity
+## Option 7: Create an AI-infused Activity
 Create an instructional learning object that uses AI in some way - either to generate the content or for use by students. Include a lesson plan, student-facing materials, and an example of what students would complete. In your reflection, share the role AI plays in your lesson, how you chose to use this tool, the pitfalls you have, and how you balanced the innovation of this lesson with safety and best practices in AI. 
 
 ### Grading
 The assignment will be graded as follows:
-* 4 points: Policy document is clear and actionable
-* 3 points: Review includes documentation connecting the policy to the needs of the district
-* 3 points: Write-up includes the stakeholder feedback and how the policy changed as a result.
+* 5 points: Lesson plan demonstrates age-appropriate, ethical use of AI. 
+* 2 points: Example materials are realistic and appropriate to what a student would produce.
+* 3 points: Reflection connects lesson activities and materials to AI design concepts and explains the decisions made, rationale, and difficulties.
 
 
 ## Option 8: Choose Your Own Adventure
