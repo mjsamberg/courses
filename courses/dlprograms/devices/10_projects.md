@@ -28,8 +28,11 @@ Create a curriculum for a student technical support team. Include student respon
 ## Option 7: Understand the Homework Gap
 Survey your school to understand how and if students get online at home. If possible, collect addresses so you can look for "clusters" of internet access issues (get principal approval first). Distribute the survey to part or all of your school. Submit the survey (3 points) and a write-up indicating the rationale for the questions you asked (3 points) and the key takeaways (4 points).
 
-## Option 8: Write a Research Paper
+## Option 8: Screen Time Policy
+Survey or focus group a group of staff, parents, and students in your school to understand their opinions on screen time. Use this information to create a policy for your school that addresses the need for students to be technology literate (or to have life skills needed) while also addressing concerns. Submit the protocol and notes (3 points) a sample policy (3 points) and the key takeaways and insights in your reflection (4 points).
+
+## Option 9: Write a Research Paper
 Write a research paper (6-10 pages) describing the impact of the Gartner Hype Cycle and the contents of the CoSN trends/barriers report on educational technologies in K-12 learning environments. Include a sampling of technologies and how their hype has been realized or not within K-12.
 
-## Option 9: Choose Your Own Adventure
+## Option 10: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.

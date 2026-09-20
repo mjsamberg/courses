@@ -6,7 +6,7 @@ unit: 4
 ---
 Fundamentally, classroom layouts haven't changed very much in the last 100 years. Desks in rows, probably connected to uncomfortable chairs that students need to sit in for hours on end. More than likely, this furniture model is incompatible with your school's vision for digital-age learning. If for no other reason, the desks aren't large enough for a student to place a laptop and a notebook on the same surface. From a UDL standpoint, some students are too large or too small for the desks, some don't like the sensation, and some students may need to work in an isolated area to be able to focus or may need a different type of chair. For some students, seating arrangements may be dictated by their IEP or used to provide an environment that supports their learning differences.
 
-Inspired by [unique workspaces in high-tech companies][1] around the world, many schools are starting to re-examine the furniture in their classrooms.  As this trend has become more widespread, the cost of these pieces of furniture have come down to match the cost of traditional classroom furniture. While we tend to see pictures of very nice and expensive furniture, it's about the use of space even if the [furniture is used or upcycled][3] or even [homemade][4].  
+Inspired by [unique workspaces in high-tech companies][1] around the world, many schools are starting to re-examine the furniture in their classrooms.  As this trend has become more widespread, the cost of these pieces of furniture have come down to match the cost of traditional classroom furniture. While we tend to see pictures of very nice and expensive furniture, it's about the use of space even if the [furniture is used or upcycled][3] or even [homemade][4] (though one must be cautious of [fire code](https://codes.iccsafe.org/content/NCFC2018/chapter-8-interior-finish-decorative-materials-and-furnishings)).  
 
 Two leaders in this design process are Wake County here in Raleigh and Albemarle County in Virginia. Wake County has [revamped the way they design spaces in new schools][5], including roll-up doors in classroom pods so grade level groups can open their classrooms into one large space. They're also reducing the number of lockers in renovations and turning locker space into collaborative workspace, and they've [documented the reasons for these designs and the design specs][6] in a manual. Albemarle County in Virginia has gone through a [similar process][7] as a part of their Capital Improvement Plan (a yearly plan for long-range updates to school facilities and projects..  Companies like [NorvaNivel][9], [School Outfitters][10], and [Steelcase][11] provide classroom furniture. [State Contract 5610A][12] defines the vendors who can be purchased from without a bid in North Carolina.
 
@@ -20,8 +20,8 @@ Another consideration in a 1:1 environment is access to power. Even if students 
 [2]:	https://twitter.com/NMS_Knights/status/960630828115152896?s=20
 [3]:	https://www.facebook.com/groups/upcycleit.com.au/posts/31242673228713689/
 [4]:	https://www.msnancysnook.com/2013/06/indoor-tree-house.html
-[5]:	https://www.wcpss.net/a-space-to-learn
-[6]:	https://www.wcpss.net/Page/247
+[5]:	https://resources.finalsite.net/images/v1769534246/wcpssnet/c7c0wum4irypf44fqmso/2025-07-28_WCPSSEdSpecs_HighSchool.pdf
+[6]:	https://resources.finalsite.net/images/v1767878939/wcpssnet/wu3wir1vuz0reakrvzjo/DesignGuidelines_25_26.pdf
 [7]:	https://web.archive.org/web/20170311143938/https://www.k12albemarle.org/dept/osp/facilities-planning/Pages/Learning-Space-Modernization.aspx
 [8]:	https://www.k12albemarle.org/dept/osp/building/Pages/capital-improvement-program.aspx
 [9]:	https://norvanivel.com
