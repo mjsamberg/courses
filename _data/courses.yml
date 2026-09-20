@@ -73,7 +73,7 @@ dlprograms:
           url: devices/1_intro
         - title: Selection of Computing Devices
           url: devices/2_selection
-        - title: BYOD and Guest Access
+        - title: Screen TIme and BYOD
           url: devices/3_byod
         - title: Networks
           url: devices/4_networks
