@@ -5,7 +5,7 @@ course: "dlprograms"
 unit: 6
 ---
 Almost all grants, with exception of discretionary grants, have a few components in common:
-* Grants almost always involve require a specific project or action to be executed and the project needs to be thoroughly documented and reviewed.
+* Grants almost always require a specific project or action to be executed and the project needs to be thoroughly documented and reviewed.
 * Grants require very detailed budgets and have very strict rules about how funding can be spent. Some grants, like EC funding and Title I funding are very broad in what funding can be used for, but funding must be used to serve targeted populations. 
 * All grants involve compliance monitoring, reporting, data collection, and demonstration that the funds have been used to support the project and improve the outcomes specified in the project plan.
 
@@ -13,7 +13,7 @@ Beyond that skeleton, each grant is going to be different in a variety of ways. 
 
 Since failure to comply with a grant carries a fiscal obligation, and because matching funds may be involved, a local Board of Education may be required to be the official signatory of a grant application. Some grants, like Donors Choose, require a commitment from the district, and may require vetting of the products to be purchased by a CTO. Typically non-compliance on a grant or plagiarism of a grant application will require payback of grant funds and may bar the individual or organizations from receiving future grants from an organization or grantmaker. 
 
-Grants are commonly available from foundations, non-profits, and government agencies. GetEdFunding keeps a good [database of small grants][1] and the Department of Education keeps a [database of all grants they make available to schools][2]. All new grants across all government agencies are always published in the [Federal Register][3].  In North Carolina, this list is a [reasonably good list of local grantmakers][4].
+Grants are commonly available from foundations, non-profits, and government agencies. GetEdFunding keeps a good [database of small grants][1] and the Department of Education keeps a [database of all grants they make available to schools][2] (though these grants have been volatile the past few years). All new grants across all government agencies are always published in the [Federal Register][3].  In North Carolina, this list is a [reasonably good list of local grantmakers][4].
 
 Writing a grant looks a lot like the process that we've been through in this course, from defining a vision, to identifying the content and devices, to the professional development, to creating a budget. Most grants typically will have an extensive literature base, expert review or advisory, and a detailed budget paired with measurable outcomes. A logic model and conceptual framework will also go a long way. American Journal Experts has a good [how-to guide for writing a grant proposal][5]. Grants typically have a very specific application format, from page margins and fonts to sections to table formatting. Failure to follow these guidelines exactly will usually result in immediate rejection of a grant (see this [sample of a successful grant application][6]). Professional grantwriters are experienced in finding and writing grants, and typically are paid on a commission for successful grants.  However, while time-consuming and very detailed, anyone can write and submit a successful grant. The landscape for grants is often very competitive, however, and a majority of grants are not funded. While this is disappointing, rejected grants often come with extremely detailed feedback that will help you revise and resubmit your grant to increase your chances of receiving the grant in a future submission. 
 
@@ -25,4 +25,4 @@ One of the greatest challenges with grants is sustaining the project after the g
 [3]:	https://www.federalregister.gov/topics/grant-programs
 [4]:	http://www.madeinnorthcarolina.com/minnc-bus_grants-foundations.html
 [5]:	https://www.aje.com/arc/how-to-write-a-successful-grant-proposal/
-[6]:	https://www.unco.edu/assessment/pdf/past-funded-grants.pdf
+[6]:	https://web.archive.org/web/20211210234452/https://www.unco.edu/assessment/pdf/past-funded-grants.pdf
