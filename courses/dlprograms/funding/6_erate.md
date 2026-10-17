@@ -62,7 +62,7 @@ In North Carolina, districts and charters participate in the School Connectivity
 The E-Rate program is incredibly complex and time-consuming, but provides great benefit for school districts. North Carolina employs three E-Rate support coordinators out of DPI who are responsible for supporting districts in filing for E-Rate. E-Rate consultants, who work on commission, also support districts and private schools in filing for E-Rate and maximizing available benefits. 
 
 ## Public Comment
-In the fall of 2026, the FCC opened public comments on the [future of the E-Rate program](https://www.shlb.org/e-rate-economic-study). The public comments will help the FCC determine whether to continue, modify, or eliminate the program. 
+In the fall of 2026, the FCC received public comments on the [future of the E-Rate program](https://www.eratesync.com/blog/e-rate-program-review-2026-fcc-funding-schools-libraries). The public comments will help the FCC determine whether to continue, modify, or eliminate the program. If the program is eliminated, this will have very signficiant [impacts on school funding](https://www.shlb.org/e-rate-economic-study).
 
 [1]:	https://www.fcc.gov/general/universal-service-fund
 [2]:	https://www.usac.org/
