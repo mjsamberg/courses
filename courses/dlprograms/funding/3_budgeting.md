@@ -23,7 +23,7 @@ As a part of determining your fixed and recurring costs are the costs of mainten
 
 ## Budgeting
 Once you've identified all of the components of the budget, it's time to actually make your yearly budget. Typically this process will begin in the spring of each year once the state releases yearly planning allotments (or for private schools, once cash flow for the next year becomes clear). The first phase in your budget is to identify all of the recurring expenses you have, as these costs are non-negotiable. These include:
-* Personnel and staffing for the technology department
+* Personnel and staffing for the technology department. It's important to remember that personnel costs aren't just "salary"; they include salary, payroll taxes, health insurance, retirement, etc. and generally cost about 50% more than the employee salary.
 * Internet connectivity (for public schools, paid for by the state)
 * Telephone services
 * Maintenance agreements
