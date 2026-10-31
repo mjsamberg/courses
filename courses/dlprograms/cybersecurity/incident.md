@@ -1,15 +1,12 @@
 ---
 layout: page
-title: "Incident Planning"
+title: "Incident Response Planning"
 course: "dlprograms"
 unit: 7
 ---
-
-## Incident Response Planning
-
 Every page in this unit assumes you're preventing or recovering from an attack. This page is about what happens in between: the plan you need *before* the 3 a.m. phone call happens, not during it.
 
-An Incident Response Plan (IRP) doesn't need to be complicated, but it does need to exist on paper, before you need it. Trying to figure out who to call and what to do while you're also actively containing a breach is how good people make bad decisions under pressure. An incident response plan is a critical part of a school safety infrastructure. In a critical breach, phones, payment systems, student data, bus routes may all be unavailable. How disruptive is this to the average school day?
+An Incident Response Plan (IRP) doesn't need to be complicated, but it does need to exist on paper, before you need it. Trying to figure out who to call and what to do while you're also actively containing a breach is how good people make bad decisions under pressure. An incident response plan is a critical part of a school safety infrastructure. In a critical breach, phones, payment systems, student data, bus routes may all be unavailable. These disruptions may close school or make school unsafe so need to be considered. 
 
 Much of this information can be found in the [Friday Institute's Incident  Response Toolkit](https://docs.google.com/document/d/1enRX_P3UUroj3T2677MHafhKn6PuwvoXDKKMPLlhITY/view?tab=t.64mcj4751p87#heading=h.rlbi819ogzjd).
 
@@ -35,7 +32,7 @@ Regardless of what caused the incident, the first hour looks similar:
 
 ### Notification Deadlines
 
-If personal information is involved, you have legal obligations that start running the moment you discover the breach - not when you finish investigating it. North Carolina's [Identity Theft Protection Act (G.S. 75-65)](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_75/GS_75-65.pdf) requires notice to affected individuals "without unreasonable delay," and if more than 1,000 people are notified at once, you must also notify the Attorney General's Consumer Protection Division and the nationwide credit bureaus. This applies to school districts as public entities, not just businesses. Additional statutes require notification to the Department of Information Technology within 24 hours of confirmation of a breach. 
+If personal information is involved, you have legal obligations that start running the moment you discover the breach - not when you finish investigating it. North Carolina's [Identity Theft Protection Act (G.S. 75-65)](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_75/GS_75-65.pdf) requires notice to affected individuals "without unreasonable delay," and if more than 1,000 people are notified at once, you must also notify the Attorney General's Consumer Protection Division and the nationwide credit bureaus. This applies to school districts as public entities, not just businesses. Additional statutes require notification to the Department of Information Technology within [24 hours of confirmation of a breach (G.S. 143B-1379)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_143B/GS_143B-1379.html). 
 
 ### Document Everything
 
