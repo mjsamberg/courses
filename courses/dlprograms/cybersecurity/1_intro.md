@@ -7,6 +7,8 @@ unit: 7
 ## Fall 2020 Whitepaper Series
 Read: [Cybersecurity in K-12: An Overview of the Threat Landscape][1]
 
+While this is dated, many of the principles shared are still good practices and it's useful as a primer to the topic.
+
 ## Introduction
 A data breach or a cybersecurity incident is the closest thing a CTO will have to a "3 a.m. phone call". Cybersecurity breaches of any kind can be critically damaging to a CTO, to their school and district, to students and staff and their families, and to public trust. 
 
