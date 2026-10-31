@@ -19,13 +19,16 @@ Create a policy for users who are accessing work data on personally owned device
 ## Option 5: Create another cybersecurity Policy
 Create a policy for cybersecurity for a school district or organization. This should include encryption and password standards, data sharing notifications, and other best practices (7 points). In your reflection, address the decisions you made, challenges you faced, and how you plan to monitor compliance (3 points).
 
-## Option 6: Complete a HECVET
+## Option 6: Complete a Tabletop
+Complete the [cybersecurity tabletop](https://docs.google.com/presentation/d/1i4tHBUHGBQnLhaSujZX34PFdRGHEWFvHZr98e-bz3bQ/edit) in this slide deck. Get a group together in your organization and review the prompts. Document your responses and needs in each section (4 points) and a write-up describing the process, strengths, and weak spots identified (4 points) and your reflections on the process (2 points).
+
+## Option 7: Complete a HECVET
 Complete a [HECVAT Lite](https://library.educause.edu/resources/2020/4/higher-education-community-vendor-assessment-toolkit) for your school/business network environment (6 points). You will need help from IT staff to complete this. In your reflection, include a summary of your takeaways and surprises (4 points). Because this data is sensitive, do not post to the forum, contact me for a secure link to share.
 
-## Option 7: Create a Data Governance Plan
+## Option 8: Create a Data Governance Plan
 Using [this guide](https://ospi.k12.wa.us/sites/default/files/2023-08/2020-06-data-governance-manual-final.pdf) as a reference, create an annotated outline for a data governance plan for your organization. An annotated outline doesn't include the full narrative text, but would include the major areas in your plan and a high-level overview of the expectations within each area (5 points). In your reflection, identify why you made the decisions you did, and how your organizations needs are reflected within the plan (5 points).
 
-## Option 8: Choose Your Own Adventure
+## Option 9: Choose Your Own Adventure
 If there is a different product that you would like to create that is along the lines of the above projects, please contact me with a brief proposal.
 
 [1]:	https://itservices.uncc.edu/iso/guideline-data-handling
