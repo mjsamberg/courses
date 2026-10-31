@@ -139,6 +139,8 @@ dlprograms:
           url: cybersecurity/4_user
         - title: Data Security
           url: cybersecurity/5_data
+        - title: Incident Planning
+          url: cybersecurity/incident
         - title: Public Records Laws
           url: cybersecurity/6_publicrecords
         - title: Projects
