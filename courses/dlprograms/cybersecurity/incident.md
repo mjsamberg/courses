@@ -25,10 +25,11 @@ Your IRP should name specific roles (not just "IT will handle it"):
 Regardless of what caused the incident, the first hour looks similar:
 
 1. **Contain it.** Isolate affected systems from the network. Don't power them off if you can help it - you may need forensic images of live memory. Unplug the network cable instead.
-2. **Don't touch more than you have to.** IT staff "cleaning up" a compromised system before it's documented is one of the most common ways evidence gets destroyed.
-3. **Call law enforcement.** Cyberattacks are federal crimes. Contact your local Sheriff's Office and then the FBI as needed.
-4. **Call your state supports.** In North Carolina, that's the [NCLGISA Strike Team](https://www.nclgisa.org/page/strike-team) and the [Joint Cybersecurity Task Force](https://governor.nc.gov/news/press-releases/2022/03/16/governor-cooper-signs-executive-order-establishing-state-north-carolina-joint-cybersecurity-task).
-5. **Loop in legal counsel and cybersecurity insurance before you communicate anything externally.**
+2. **Disable compromised accounts** and revoke all active sessions and app entitlements to prevent actors from continued access to the system.
+3. **Don't touch more than you have to.** IT staff "cleaning up" a compromised system before it's documented is one of the most common ways evidence gets destroyed.
+4. **Call law enforcement.** Cyberattacks are federal crimes. Contact your local Sheriff's Office and then the FBI as needed.
+5. **Call your state supports.** In North Carolina, that's the [NCLGISA Strike Team](https://www.nclgisa.org/page/strike-team) and the [Joint Cybersecurity Task Force](https://governor.nc.gov/news/press-releases/2022/03/16/governor-cooper-signs-executive-order-establishing-state-north-carolina-joint-cybersecurity-task).
+6. **Loop in legal counsel and cybersecurity insurance before you communicate anything externally.**
 
 ### Notification Deadlines
 
